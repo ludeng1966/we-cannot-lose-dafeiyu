@@ -1,0 +1,2173 @@
+{
+  "schema_version": "1.0",
+  "version": "V23-semantic-director-overrides-final",
+  "createdAtUTC": "2026-11-04T15:28:31.096332+00:00",
+  "clock": "new_audio_seconds_without_PV",
+  "referenceClock": "V22_legacy_n",
+  "rootConfirmedPV": {
+    "insertAt": 342.32,
+    "insertDuration": 73.74,
+    "insertEnd": 416.06,
+    "musicStart": 314.57,
+    "lastQuestionLocal": [
+      66.5,
+      73.74
+    ]
+  },
+  "priorityPolicy": "These explicit half-open intervals override base speech mapping. Outside them use the base conform. Nonmonotone reference transitions are intentional cuts, never interpolate backwards across segment boundaries. Source clips retain1x independent media clocks.",
+  "sources": {
+    "audit": "research/narration-v23-source-audit.json",
+    "candidateCaptions": "qa/narration-v23/candidate-adaptation.json",
+    "baseConform": "qa/narration-v23/narration-conform-v23.json",
+    "originalPictureManifest": "qa/narration-v23/before/adaptation.json",
+    "informationPlan": "information-plan-v23.json"
+  },
+  "overrides": [
+    {
+      "id": "g003-framework-history-moved",
+      "groupId": "g003",
+      "start": 92.42,
+      "end": 110.16,
+      "clock": "new_audio_seconds_without_PV",
+      "cueText": "可民间开发者并没有停止探索…酷Q、晨风、Mirai…API调用外部工具",
+      "reference": {
+        "mode": "linear",
+        "legacyStart": 92.36,
+        "legacyEnd": 111.13999,
+        "clock": "V22_legacy_n"
+      },
+      "reason": "Restore the exact old g004 framework-list visuals in new g003 tail, not at g004 opening.",
+      "priority": "director_semantic",
+      "sourceMediaPolicy": "preserve_per_media_1x",
+      "evidence": {
+        "asrFile": "[原工程本地路径]/qc_report.json",
+        "asrSha256": "0ce66b3a75880c1de3fcca45d61ffa19da7aa9887f4cf9cee2b3eacf561f71b0",
+        "matchesSelectedAudio": true,
+        "newTextSha256": "26be5b294c0549f8f17bf27bdf21ab894ff44d3d94656ccfe7cb83e1c9cd7112",
+        "sourceGroupAudioRange": [
+          63.68,
+          110.16
+        ],
+        "selectedASRSegments": [
+          {
+            "index": 3,
+            "localStart": 28.740000000000002,
+            "localEnd": 31.66,
+            "audioStart": 92.42,
+            "audioEnd": 95.34,
+            "text": "可民间开发者并没有停止探索",
+            "wordCount": 12
+          },
+          {
+            "index": 4,
+            "localStart": 31.66,
+            "localEnd": 33.04,
+            "audioStart": 95.34,
+            "audioEnd": 96.72,
+            "text": "十多年后",
+            "wordCount": 4
+          },
+          {
+            "index": 5,
+            "localStart": 33.04,
+            "localEnd": 34.62,
+            "audioStart": 96.72,
+            "audioEnd": 98.3,
+            "text": "酷Q 陈峰",
+            "wordCount": 4
+          },
+          {
+            "index": 6,
+            "localStart": 34.62,
+            "localEnd": 37.56,
+            "audioStart": 98.3,
+            "audioEnd": 101.24,
+            "text": "Mirror等等机器人框架相继发展起来",
+            "wordCount": 15
+          },
+          {
+            "index": 7,
+            "localStart": 37.56,
+            "localEnd": 39.5,
+            "audioStart": 101.24,
+            "audioEnd": 103.18,
+            "text": "无数人编写插件",
+            "wordCount": 7
+          },
+          {
+            "index": 8,
+            "localStart": 39.5,
+            "localEnd": 42.78,
+            "audioStart": 103.18,
+            "audioEnd": 106.46,
+            "text": "让人们在群聊中用机器人自动回复",
+            "wordCount": 15
+          },
+          {
+            "index": 9,
+            "localStart": 42.78,
+            "localEnd": 43.84,
+            "audioStart": 106.46,
+            "audioEnd": 107.52,
+            "text": "查询信息",
+            "wordCount": 4
+          },
+          {
+            "index": 10,
+            "localStart": 43.84,
+            "localEnd": 46.4,
+            "audioStart": 107.52,
+            "audioEnd": 110.08,
+            "text": "还能通过API调用外部工具",
+            "wordCount": 12
+          }
+        ],
+        "candidateCaptions": [
+          {
+            "start": 92.42,
+            "end": 95.34000499999999,
+            "text": "可民间开发者并没有停止探索。"
+          },
+          {
+            "start": 95.34000499999999,
+            "end": 101.240005,
+            "text": "十多年后，酷Q、晨风、Mirai等等机器人框架相继发展起来。"
+          },
+          {
+            "start": 101.240005,
+            "end": 106.460005,
+            "text": "无数人编写插件，让人们在群聊中用机器人自动回复、"
+          },
+          {
+            "start": 106.460005,
+            "end": 110.2,
+            "text": "查询信息，还能通过API调用外部工具。"
+          }
+        ],
+        "boundaryMethod": "Selected-ASR boundaries; group gaps preserved; root interprets explicit reference cuts."
+      }
+    },
+    {
+      "id": "g004-pre-llm-foundation",
+      "groupId": "g004",
+      "start": 111.16,
+      "end": 128.94,
+      "clock": "new_audio_seconds_without_PV",
+      "cueText": "注意，这可是在大模型诞生之前…消息交互、插件系统、自动化操作",
+      "reference": {
+        "mode": "linear",
+        "legacyStart": 111.82,
+        "legacyEnd": 130.15999,
+        "clock": "V22_legacy_n"
+      },
+      "reason": "New g004 begins with pre-LLM foundation, after framework list already moved to g003.",
+      "priority": "director_semantic",
+      "sourceMediaPolicy": "preserve_per_media_1x",
+      "evidence": {
+        "asrFile": "[原工程本地路径]/qc_report.json",
+        "asrSha256": "25cfef8f9c0e92202762afe729314687acb9f2e4d645103da842a6a7b3903268",
+        "matchesSelectedAudio": true,
+        "newTextSha256": "8d35b819e51957f349aa6f76a819e70fbd49541b391d8fd07632fd7649efdef1",
+        "sourceGroupAudioRange": [
+          111.16,
+          140.36
+        ],
+        "selectedASRSegments": [
+          {
+            "index": 0,
+            "localStart": 0.0,
+            "localEnd": 16.96,
+            "audioStart": 111.16,
+            "audioEnd": 128.12,
+            "text": "注意,这可是在大模型诞生之前,只要我们仔细一点,不难发现,他们已经搭建了A站的一部分基础,消息交互,插件系统,自动化操作,我们可以大胆设想一下,如果他们发展到现在,会是什么样子。",
+            "wordCount": 63
+          }
+        ],
+        "candidateCaptions": [
+          {
+            "start": 111.16001,
+            "end": 114.34,
+            "text": "注意，这可是在大模型诞生之前！"
+          },
+          {
+            "start": 114.86,
+            "end": 120.04,
+            "text": "只要我们仔细一点，不难发现：他们已经搭建了Agent的一部分基础："
+          },
+          {
+            "start": 120.24,
+            "end": 125.32,
+            "text": "消息交互、插件系统、自动化操作，我们可以大胆设想一下，"
+          },
+          {
+            "start": 125.56,
+            "end": 128.24,
+            "text": "如果他们发展到现在，会是什么样子。"
+          }
+        ],
+        "boundaryMethod": "Selected-ASR boundaries; group gaps preserved; root interprets explicit reference cuts."
+      }
+    },
+    {
+      "id": "g004-2020-interruption",
+      "groupId": "g004",
+      "start": 128.94,
+      "end": 140.36,
+      "clock": "new_audio_seconds_without_PV",
+      "cueText": "可到了2020年…机器人项目相继停运",
+      "reference": {
+        "mode": "linear",
+        "legacyStart": 130.16,
+        "legacyEnd": 143.39999,
+        "clock": "V22_legacy_n"
+      },
+      "reason": "Align original shutdown/history source composition to new selected-ASR17.78s cue.",
+      "priority": "director_semantic",
+      "sourceMediaPolicy": "preserve_per_media_1x",
+      "evidence": {
+        "asrFile": "[原工程本地路径]/qc_report.json",
+        "asrSha256": "25cfef8f9c0e92202762afe729314687acb9f2e4d645103da842a6a7b3903268",
+        "matchesSelectedAudio": true,
+        "newTextSha256": "8d35b819e51957f349aa6f76a819e70fbd49541b391d8fd07632fd7649efdef1",
+        "sourceGroupAudioRange": [
+          111.16,
+          140.36
+        ],
+        "selectedASRSegments": [
+          {
+            "index": 1,
+            "localStart": 17.78,
+            "localEnd": 29.18,
+            "audioStart": 128.94,
+            "audioEnd": 140.34,
+            "text": "可到了2020年,随着平台限制,甚至直接下架机器人接口,多个机器人项目相继停运,曾经生机勃勃的民间机器人生态遭受重创。",
+            "wordCount": 49
+          }
+        ],
+        "candidateCaptions": [
+          {
+            "start": 128.94,
+            "end": 134.3,
+            "text": "可到了2020年，随着平台限制，甚至直接下架机器人接口，"
+          },
+          {
+            "start": 134.6,
+            "end": 140.46,
+            "text": "多个机器人项目相继停运，曾经生机勃勃的民间机器人生态遭受重创。"
+          }
+        ],
+        "boundaryMethod": "Selected-ASR boundaries; group gaps preserved; root interprets explicit reference cuts."
+      }
+    },
+    {
+      "id": "g015-first-door",
+      "groupId": "g015",
+      "start": 617.12,
+      "end": 623.92,
+      "clock": "new_audio_seconds_without_PV",
+      "cueText": "AI的普及只是推开了第一扇门",
+      "reference": {
+        "mode": "linear",
+        "legacyStart": 638.55,
+        "legacyEnd": 646.66999,
+        "clock": "V22_legacy_n"
+      },
+      "reason": "Retain first-door scene; never sweep into the old national-individual tail, which moved to g016.",
+      "priority": "director_semantic",
+      "sourceMediaPolicy": "preserve_per_media_1x",
+      "evidence": {
+        "asrFile": "[原工程本地路径]/qc_report.json",
+        "asrSha256": "2f000c4e6fdbe28ec0cb33fe70fd76dedb0f17b41e8ebb7bef22f4323b765139",
+        "matchesSelectedAudio": true,
+        "newTextSha256": "a5c2f824e5ad22e8314c38288815cf494688e9032f34f322424d5c040c03f55e",
+        "sourceGroupAudioRange": [
+          617.12,
+          646.56
+        ],
+        "selectedASRSegments": [
+          {
+            "index": 0,
+            "localStart": 0.0,
+            "localEnd": 4.9,
+            "audioStart": 617.12,
+            "audioEnd": 622.02,
+            "text": "所以,AI的普及只是推开了第一扇门。",
+            "wordCount": 12
+          }
+        ],
+        "candidateCaptions": [
+          {
+            "start": 617.12001,
+            "end": 622.14,
+            "text": "所以，AI的普及只是推开了第一扇门。"
+          }
+        ],
+        "boundaryMethod": "Selected ASR word/segment boundaries and matching candidate captions; a is absolute audio time before PV insertion."
+      }
+    },
+    {
+      "id": "g015-knowledge-not-practice",
+      "groupId": "g015",
+      "start": 623.92,
+      "end": 631.36,
+      "clock": "new_audio_seconds_without_PV",
+      "cueText": "利用知识，却做不到从认识到实践的飞跃",
+      "reference": {
+        "mode": "linear",
+        "legacyStart": 646.67,
+        "legacyEnd": 650.60999,
+        "clock": "V22_legacy_n"
+      },
+      "reason": "Hold the meaning of the original second information stage; do not trigger Agent before the actual Agent cue.",
+      "priority": "director_semantic",
+      "sourceMediaPolicy": "preserve_per_media_1x",
+      "evidence": {
+        "asrFile": "[原工程本地路径]/qc_report.json",
+        "asrSha256": "2f000c4e6fdbe28ec0cb33fe70fd76dedb0f17b41e8ebb7bef22f4323b765139",
+        "matchesSelectedAudio": true,
+        "newTextSha256": "a5c2f824e5ad22e8314c38288815cf494688e9032f34f322424d5c040c03f55e",
+        "sourceGroupAudioRange": [
+          617.12,
+          646.56
+        ],
+        "selectedASRSegments": [
+          {
+            "index": 1,
+            "localStart": 6.800000000000001,
+            "localEnd": 13.4,
+            "audioStart": 623.92,
+            "audioEnd": 630.52,
+            "text": "它让普通人得以更广泛地利用知识,却错不到从认识到实践的飞跃。",
+            "wordCount": 27
+          }
+        ],
+        "candidateCaptions": [
+          {
+            "start": 623.92,
+            "end": 630.64,
+            "text": "它让普通人得以更广泛地利用知识，却做不到从“认识”到“实践”的飞跃；"
+          }
+        ],
+        "boundaryMethod": "Selected ASR word/segment boundaries and matching candidate captions; a is absolute audio time before PV insertion."
+      }
+    },
+    {
+      "id": "g015-agent-practice-growing",
+      "groupId": "g015",
+      "start": 631.36,
+      "end": 637.38,
+      "clock": "new_audio_seconds_without_PV",
+      "cueText": "Agent的发展…极大发展了实践的一方面",
+      "reference": {
+        "mode": "linear",
+        "legacyStart": 650.61,
+        "legacyEnd": 665.48999,
+        "clock": "V22_legacy_n"
+      },
+      "reason": "Use updated knowledge-practice wording: development of practical capacity, not instant completed social transformation.",
+      "priority": "director_semantic",
+      "sourceMediaPolicy": "preserve_per_media_1x",
+      "evidence": {
+        "asrFile": "[原工程本地路径]/qc_report.json",
+        "asrSha256": "2f000c4e6fdbe28ec0cb33fe70fd76dedb0f17b41e8ebb7bef22f4323b765139",
+        "matchesSelectedAudio": true,
+        "newTextSha256": "a5c2f824e5ad22e8314c38288815cf494688e9032f34f322424d5c040c03f55e",
+        "sourceGroupAudioRange": [
+          617.12,
+          646.56
+        ],
+        "selectedASRSegments": [
+          {
+            "index": 2,
+            "localStart": 14.24,
+            "localEnd": 19.48,
+            "audioStart": 631.36,
+            "audioEnd": 636.6,
+            "text": "而Agent的发展在短短几个月内就极大发展了实践的一方面。",
+            "wordCount": 24
+          }
+        ],
+        "candidateCaptions": [
+          {
+            "start": 631.36,
+            "end": 636.72,
+            "text": "而Agent的发展在短短几个月内就极大发展了“实践”的一方面。"
+          }
+        ],
+        "boundaryMethod": "Selected ASR word/segment boundaries and matching candidate captions; a is absolute audio time before PV insertion."
+      }
+    },
+    {
+      "id": "g015-material-basis",
+      "groupId": "g015",
+      "start": 637.38,
+      "end": 646.56,
+      "clock": "new_audio_seconds_without_PV",
+      "cueText": "脑体对立的物质基础正在逐步地被消灭",
+      "reference": {
+        "mode": "linear",
+        "legacyStart": 666.53,
+        "legacyEnd": 679.32999,
+        "clock": "V22_legacy_n"
+      },
+      "reason": "Use original task/factory macro passage only; national technology/people distinction is now g016. Native caption wording patch recommended separately.",
+      "priority": "director_semantic",
+      "sourceMediaPolicy": "preserve_per_media_1x",
+      "evidence": {
+        "asrFile": "[原工程本地路径]/qc_report.json",
+        "asrSha256": "2f000c4e6fdbe28ec0cb33fe70fd76dedb0f17b41e8ebb7bef22f4323b765139",
+        "matchesSelectedAudio": true,
+        "newTextSha256": "a5c2f824e5ad22e8314c38288815cf494688e9032f34f322424d5c040c03f55e",
+        "sourceGroupAudioRange": [
+          617.12,
+          646.56
+        ],
+        "selectedASRSegments": [
+          {
+            "index": 3,
+            "localStart": 20.26,
+            "localEnd": 29.36,
+            "audioStart": 637.38,
+            "audioEnd": 646.48,
+            "text": "从宏观的视角看,这预示着贯穿整个私有制社会的脑体对立的物质基础正在逐步地被消灭。",
+            "wordCount": 38
+          }
+        ],
+        "candidateCaptions": [
+          {
+            "start": 637.38,
+            "end": 639.12,
+            "text": "从宏观的视角看，"
+          },
+          {
+            "start": 639.54,
+            "end": 646.6,
+            "text": "这预示着贯穿整个私有制社会的“脑体对立”的物质基础正在逐步的被消灭。"
+          }
+        ],
+        "boundaryMethod": "Selected ASR word/segment boundaries and matching candidate captions; a is absolute audio time before PV insertion."
+      }
+    },
+    {
+      "id": "g016-national-individual-prefix",
+      "groupId": "g016",
+      "start": 647.56,
+      "end": 672.28,
+      "clock": "new_audio_seconds_without_PV",
+      "cueText": "社会拥有先进技术，不等于劳动人民真正掌握了技术",
+      "reference": {
+        "mode": "linear",
+        "legacyStart": 679.97,
+        "legacyEnd": 705.02999,
+        "clock": "V22_legacy_n"
+      },
+      "reason": "This complete prefix moved from old g015 into new g016; baseline strict-group matching cannot express the move.",
+      "priority": "director_semantic",
+      "sourceMediaPolicy": "preserve_per_media_1x",
+      "evidence": {
+        "asrFile": "[原工程本地路径]/qc_report.json",
+        "asrSha256": "b3ca5bb61ff064e4b2f4186ef03962fe72d8b25c00f361b89afd30bf90038b83",
+        "matchesSelectedAudio": true,
+        "newTextSha256": "cd972ca30d99a0630bbf2602388b86f89816fe2108113005d46280b81ec0711f",
+        "sourceGroupAudioRange": [
+          647.56,
+          738.12
+        ],
+        "selectedASRSegments": [
+          {
+            "index": 0,
+            "localStart": 0.0,
+            "localEnd": 11.68,
+            "audioStart": 647.56,
+            "audioEnd": 659.24,
+            "text": "在以往的历史中,社会拥有先进技术不等于劳动人民真正掌握了技术,社会生产力的增长也不会自动带来生产关系的同步解放。",
+            "wordCount": 51
+          },
+          {
+            "index": 1,
+            "localStart": 12.740000000000002,
+            "localEnd": 24.72,
+            "audioStart": 660.3,
+            "audioEnd": 672.28,
+            "text": "即便一个国家拥有世界顶尖的大模型,庞大的数据中心和数百万软件工程师,绝大多数普通人依然距离新的技术和生产工具十分遥远。",
+            "wordCount": 53
+          }
+        ],
+        "candidateCaptions": [
+          {
+            "start": 647.5600099999999,
+            "end": 653.68,
+            "text": "在以往的历史中，社会拥有先进技术，不等于劳动人民真正掌握了技术；"
+          },
+          {
+            "start": 654.02,
+            "end": 659.3599999999999,
+            "text": "社会生产力的增长，也不会自动带来生产关系的同步解放。"
+          },
+          {
+            "start": 660.3,
+            "end": 666.8599999999999,
+            "text": "即便一个国家拥有世界顶尖的大模型、庞大的数据中心和数百万软件工程师，"
+          },
+          {
+            "start": 667.28,
+            "end": 672.280005,
+            "text": "绝大多数普通人，依然距离新的技术和生产工具十分遥远。"
+          }
+        ],
+        "boundaryMethod": "Selected ASR word/segment boundaries and matching candidate captions; a is absolute audio time before PV insertion."
+      }
+    },
+    {
+      "id": "g017-calc-tool-operation",
+      "groupId": "g017",
+      "start": 739.12,
+      "end": 747.24,
+      "clock": "new_audio_seconds_without_PV",
+      "cueText": "只是一种工具，不能带来社会关系改变；不远将来可能动摇基础",
+      "reference": {
+        "mode": "linear",
+        "legacyStart": 770.915991891892,
+        "legacyEnd": 778.7475906291919,
+        "clock": "V22_legacy_n"
+      },
+      "reason": "Preserve original Calc demonstration at the new computer-control / simplified mental-labour cue. Selected source speed remains1x with original explicit lead/skip/result policy.",
+      "priority": "director_semantic",
+      "sourceMediaPolicy": "preserve_per_media_1x",
+      "evidence": {
+        "asrFile": "[原工程本地路径]/qc_report.json",
+        "asrSha256": "ef81196b879815fa26251b7041dd4975ac0b39f2c9c4d5eeee4c3fcab0477061",
+        "matchesSelectedAudio": true,
+        "newTextSha256": "46200c1ff40fd31105f53c27aff97cb2c952c7bf66a77702e08bdae0b382fd1b",
+        "sourceGroupAudioRange": [
+          739.12,
+          789.52
+        ],
+        "selectedASRSegments": [
+          {
+            "index": 0,
+            "localStart": 0.0,
+            "localEnd": 7.64,
+            "audioStart": 739.12,
+            "audioEnd": 746.76,
+            "text": "Agent的现在看起来只是一个会操控电脑的AI,但他实则已悄然完成了脑力劳动的简单化。",
+            "wordCount": 33
+          }
+        ],
+        "candidateCaptions": [
+          {
+            "start": 739.12001,
+            "end": 742.64,
+            "text": "Agent现在看起来只是一个会操控电脑的AI，"
+          },
+          {
+            "start": 742.78,
+            "end": 748.86,
+            "text": "但它实则已悄然完成了脑力劳动的简单化，它只是一种工具，"
+          }
+        ],
+        "boundaryMethod": "Selected ASR word/segment boundaries and matching candidate captions; a is absolute audio time before PV insertion."
+      },
+      "preserveMediaKey": "v12_calc",
+      "sourceAudioElapsed1x": true
+    },
+    {
+      "id": "g017-tool-before-social-change",
+      "groupId": "g017",
+      "start": 747.24,
+      "end": 789.52,
+      "clock": "new_audio_seconds_without_PV",
+      "cueText": "只是一种工具，不能带来社会关系改变；不远将来可能动摇基础",
+      "reference": {
+        "mode": "linear",
+        "legacyStart": 788.7804412719014,
+        "legacyEnd": 840.814588,
+        "clock": "V22_legacy_n"
+      },
+      "reason": "Keep actual tool operation / browser / Flowise visual band; avoid old g017 already-changing-social-relations rhetoric and old g018 corporate-model tail. Qualifier cues are recorded in semanticConstraints; do not invent an information scene at this reference range.",
+      "priority": "director_semantic",
+      "sourceMediaPolicy": "preserve_per_media_1x",
+      "evidence": {
+        "asrFile": "[原工程本地路径]/qc_report.json",
+        "asrSha256": "ef81196b879815fa26251b7041dd4975ac0b39f2c9c4d5eeee4c3fcab0477061",
+        "matchesSelectedAudio": true,
+        "newTextSha256": "46200c1ff40fd31105f53c27aff97cb2c952c7bf66a77702e08bdae0b382fd1b",
+        "sourceGroupAudioRange": [
+          739.12,
+          789.52
+        ],
+        "selectedASRSegments": [
+          {
+            "index": 1,
+            "localStart": 8.120000000000001,
+            "localEnd": 11.8,
+            "audioStart": 747.24,
+            "audioEnd": 750.92,
+            "text": "它只是一种工具,不能带来社会关系的改变。",
+            "wordCount": 16
+          },
+          {
+            "index": 2,
+            "localStart": 13.24,
+            "localEnd": 21.18,
+            "audioStart": 752.36,
+            "audioEnd": 760.3,
+            "text": "可是,我们能预料,在不远的将来,它带来的飞跃就能动摇脑体对立的物质基础。",
+            "wordCount": 30
+          },
+          {
+            "index": 3,
+            "localStart": 22.28,
+            "localEnd": 29.26,
+            "audioStart": 761.4,
+            "audioEnd": 768.38,
+            "text": "现在,我们已经可以看到,普通人能够借助它把自己的思想转化为劳动产品。",
+            "wordCount": 25
+          },
+          {
+            "index": 4,
+            "localStart": 30.0,
+            "localEnd": 42.94,
+            "audioStart": 769.12,
+            "audioEnd": 782.06,
+            "text": "所以说,AI可以让我们接近庞大的知识体系,而Agent能让我们组织起这些知识,完成自己的工作、设想,甚至是年少时天马行空的梦想。",
+            "wordCount": 46
+          },
+          {
+            "index": 5,
+            "localStart": 43.84,
+            "localEnd": 50.38,
+            "audioStart": 782.96,
+            "audioEnd": 789.5,
+            "text": "在这个意义上,Agent的革命性从不来自资本家想要的效率。",
+            "wordCount": 23
+          }
+        ],
+        "candidateCaptions": [
+          {
+            "start": 742.78,
+            "end": 748.86,
+            "text": "但它实则已悄然完成了脑力劳动的简单化，它只是一种工具，"
+          },
+          {
+            "start": 749.0,
+            "end": 751.04,
+            "text": "不能带来社会关系的改变。"
+          },
+          {
+            "start": 752.36,
+            "end": 756.22,
+            "text": "可是，我们能预料：在不远的将来，"
+          },
+          {
+            "start": 756.42,
+            "end": 760.42,
+            "text": "它带来的飞跃就能动摇脑体对立的物质基础。"
+          },
+          {
+            "start": 761.4,
+            "end": 768.5,
+            "text": "现在，我们已经可以看到：普通人能够借助它，把自己的思想转化为劳动产品。"
+          },
+          {
+            "start": 769.12,
+            "end": 773.68,
+            "text": "所以说，AI可以让我们接近庞大的知识体系，"
+          },
+          {
+            "start": 773.84,
+            "end": 778.42,
+            "text": "而Agent能让我们组织起这些知识，完成自己的工作、"
+          },
+          {
+            "start": 778.6800000000001,
+            "end": 782.18,
+            "text": "设想，甚至是年少时天马行空的梦想。"
+          },
+          {
+            "start": 782.96,
+            "end": 789.62,
+            "text": "在这个意义上，Agent的革命性从不来自资本家想要的效率。"
+          }
+        ],
+        "boundaryMethod": "Selected ASR word/segment boundaries and matching candidate captions; a is absolute audio time before PV insertion."
+      }
+    },
+    {
+      "id": "g019-corporate-model-first",
+      "groupId": "g019",
+      "start": 790.52,
+      "end": 811.7,
+      "clock": "new_audio_seconds_without_PV",
+      "cueText": "资本公司发布新模型…普通劳动者与先进技术之间关系没有发生什么变化",
+      "reference": {
+        "mode": "linear",
+        "legacyStart": 845.495,
+        "legacyEnd": 867.95499,
+        "clock": "V22_legacy_n"
+      },
+      "reason": "Moved old g018 final model-performance example now belongs at start of g019. Preserve original corporate stage composition before diffusion.",
+      "priority": "director_semantic",
+      "sourceMediaPolicy": "preserve_per_media_1x",
+      "evidence": {
+        "asrFile": "[原工程本地路径]/qc_report.json",
+        "asrSha256": "6c1ddb413fdb5b649fc59336ed470c01793331a45785d3ace1dcb83d2197e3e6",
+        "matchesSelectedAudio": true,
+        "newTextSha256": "f552d827d2b88e3ec5ff4819498a8d6a2d7fea5dba6809444ea75b0982cac071",
+        "sourceGroupAudioRange": [
+          790.52,
+          858.44
+        ],
+        "selectedASRSegments": [
+          {
+            "index": 0,
+            "localStart": 0.0,
+            "localEnd": 9.74,
+            "audioStart": 790.52,
+            "audioEnd": 800.26,
+            "text": "我们可以设想这样一个场景,资本公司发布了让人震惊贪作的新模型,但只有少数企业和专业人员能够将它深度应用到生产中。",
+            "wordCount": 48
+          },
+          {
+            "index": 1,
+            "localStart": 10.520000000000001,
+            "localEnd": 20.16,
+            "audioStart": 801.04,
+            "audioEnd": 810.68,
+            "text": "模型性能取得了突破,社会潜在生产力也随之增长,然而普通劳动者与先进技术之间的关系没有发生什么变化。",
+            "wordCount": 44
+          },
+          {
+            "index": 2,
+            "localStart": 21.18,
+            "localEnd": 22.66,
+            "audioStart": 811.7,
+            "audioEnd": 813.18,
+            "text": "现在设想另一种情况",
+            "wordCount": 7
+          }
+        ],
+        "candidateCaptions": [
+          {
+            "start": 790.52001,
+            "end": 795.78,
+            "text": "我们可以设想这样一个场景：资本公司发布了让人震惊瘫坐的新模型，"
+          },
+          {
+            "start": 796.06,
+            "end": 800.38,
+            "text": "但只有少数企业和专业人员能够将它深度应用到生产中。"
+          },
+          {
+            "start": 801.04,
+            "end": 805.5,
+            "text": "模型性能取得了突破，社会潜在生产力也随之增长。"
+          },
+          {
+            "start": 806.0799999999999,
+            "end": 810.8,
+            "text": "然而，普通劳动者与先进技术之间的关系，没有发生什么变化。"
+          },
+          {
+            "start": 811.6999999999999,
+            "end": 813.3,
+            "text": "现在设想另一种情况。"
+          }
+        ],
+        "boundaryMethod": "Selected ASR word/segment boundaries and matching candidate captions; a is absolute audio time before PV insertion."
+      }
+    },
+    {
+      "id": "g019-horizontal-after-alternative",
+      "groupId": "g019",
+      "start": 811.7,
+      "end": 858.44,
+      "clock": "new_audio_seconds_without_PV",
+      "cueText": "现在设想另一种情况…人民在社会中自发的横向扩散",
+      "reference": {
+        "mode": "linear",
+        "legacyStart": 868.685,
+        "legacyEnd": 922.66999,
+        "clock": "V22_legacy_n"
+      },
+      "reason": "Only trigger horizontal-diffusion at actual local21.18 alternative cue. Avoid starting the diagram at g019 first word.",
+      "priority": "director_semantic",
+      "sourceMediaPolicy": "preserve_per_media_1x",
+      "evidence": {
+        "asrFile": "[原工程本地路径]/qc_report.json",
+        "asrSha256": "6c1ddb413fdb5b649fc59336ed470c01793331a45785d3ace1dcb83d2197e3e6",
+        "matchesSelectedAudio": true,
+        "newTextSha256": "f552d827d2b88e3ec5ff4819498a8d6a2d7fea5dba6809444ea75b0982cac071",
+        "sourceGroupAudioRange": [
+          790.52,
+          858.44
+        ],
+        "selectedASRSegments": [
+          {
+            "index": 2,
+            "localStart": 21.18,
+            "localEnd": 22.66,
+            "audioStart": 811.7,
+            "audioEnd": 813.18,
+            "text": "现在设想另一种情况",
+            "wordCount": 7
+          },
+          {
+            "index": 3,
+            "localStart": 23.18,
+            "localEnd": 26.42,
+            "audioStart": 813.7,
+            "audioEnd": 816.94,
+            "text": "模型的基础能力并没有取得核爆一般的飞跃",
+            "wordCount": 18
+          },
+          {
+            "index": 4,
+            "localStart": 26.42,
+            "localEnd": 29.32,
+            "audioStart": 816.94,
+            "audioEnd": 819.84,
+            "text": "但因为开源生态和低廉的价格",
+            "wordCount": 12
+          },
+          {
+            "index": 5,
+            "localStart": 29.32,
+            "localEnd": 32.44,
+            "audioStart": 819.84,
+            "audioEnd": 822.96,
+            "text": "全国数以亿计的普通人开始接触agent",
+            "wordCount": 15
+          },
+          {
+            "index": 6,
+            "localStart": 32.44,
+            "localEnd": 34.74,
+            "audioStart": 822.96,
+            "audioEnd": 825.26,
+            "text": "并且运用他完成日常工作",
+            "wordCount": 9
+          },
+          {
+            "index": 7,
+            "localStart": 35.5,
+            "localEnd": 37.88,
+            "audioStart": 826.02,
+            "audioEnd": 828.4,
+            "text": "工人用他协助改善生产流程",
+            "wordCount": 12
+          },
+          {
+            "index": 8,
+            "localStart": 37.88,
+            "localEnd": 41.08,
+            "audioStart": 828.4,
+            "audioEnd": 831.6,
+            "text": "农民用他解决农业经营中的信息问题",
+            "wordCount": 15
+          },
+          {
+            "index": 9,
+            "localStart": 41.08,
+            "localEnd": 43.54,
+            "audioStart": 831.6,
+            "audioEnd": 834.06,
+            "text": "教师用他制作课程工具",
+            "wordCount": 10
+          },
+          {
+            "index": 10,
+            "localStart": 43.54,
+            "localEnd": 46.0,
+            "audioStart": 834.06,
+            "audioEnd": 836.52,
+            "text": "学生用他开展技术实验",
+            "wordCount": 10
+          },
+          {
+            "index": 11,
+            "localStart": 46.64,
+            "localEnd": 50.42,
+            "audioStart": 837.16,
+            "audioEnd": 840.94,
+            "text": "人们有机会从繁重重复的劳动中解放出来",
+            "wordCount": 17
+          },
+          {
+            "index": 12,
+            "localStart": 50.42,
+            "localEnd": 51.72,
+            "audioStart": 840.94,
+            "audioEnd": 842.24,
+            "text": "更重要的是",
+            "wordCount": 3
+          },
+          {
+            "index": 13,
+            "localStart": 51.72,
+            "localEnd": 53.9,
+            "audioStart": 842.24,
+            "audioEnd": 844.42,
+            "text": "在开源文化的影响下",
+            "wordCount": 9
+          },
+          {
+            "index": 14,
+            "localStart": 53.9,
+            "localEnd": 56.16,
+            "audioStart": 844.42,
+            "audioEnd": 846.68,
+            "text": "实践成果被人们分享出来",
+            "wordCount": 9
+          },
+          {
+            "index": 15,
+            "localStart": 56.16,
+            "localEnd": 58.42,
+            "audioStart": 846.68,
+            "audioEnd": 848.94,
+            "text": "其他人能够继续研究发展",
+            "wordCount": 11
+          },
+          {
+            "index": 16,
+            "localStart": 58.980000000000004,
+            "localEnd": 60.52,
+            "audioStart": 849.5,
+            "audioEnd": 851.04,
+            "text": "此时技术的发展",
+            "wordCount": 7
+          },
+          {
+            "index": 17,
+            "localStart": 60.52,
+            "localEnd": 64.14,
+            "audioStart": 851.04,
+            "audioEnd": 854.66,
+            "text": "就不再只是资本圈子为了市场纵向发展",
+            "wordCount": 16
+          },
+          {
+            "index": 18,
+            "localStart": 64.14,
+            "localEnd": 67.9,
+            "audioStart": 854.66,
+            "audioEnd": 858.42,
+            "text": "而是人民在社会中自发的横向扩散",
+            "wordCount": 14
+          }
+        ],
+        "candidateCaptions": [
+          {
+            "start": 811.6999999999999,
+            "end": 813.3,
+            "text": "现在设想另一种情况。"
+          },
+          {
+            "start": 813.6999999999999,
+            "end": 819.840005,
+            "text": "模型的基础能力并没有取得核爆一般的飞跃，但因为开源生态和低廉的价格，"
+          },
+          {
+            "start": 819.840005,
+            "end": 825.38,
+            "text": "全国数以亿计的普通人开始接触Agent，并且运用它完成日常工作。"
+          },
+          {
+            "start": 826.02,
+            "end": 831.600005,
+            "text": "工人用它协助改善生产流程，农民用它解决农业经营中的信息问题，"
+          },
+          {
+            "start": 831.600005,
+            "end": 836.64,
+            "text": "教师用它制作课程工具，学生用它开展技术实验。"
+          },
+          {
+            "start": 837.16,
+            "end": 840.9400049999999,
+            "text": "人们有机会从繁重、重复的劳动中解放出来。"
+          },
+          {
+            "start": 840.9400049999999,
+            "end": 846.6800049999999,
+            "text": "更重要的是，在开源文化的影响下，实践成果被人们分享出来，"
+          },
+          {
+            "start": 846.6800049999999,
+            "end": 849.06,
+            "text": "其他人能够继续研究发展。"
+          },
+          {
+            "start": 849.5,
+            "end": 854.660005,
+            "text": "此时，技术的发展就不再只是资本圈子为了市场纵向发展，"
+          },
+          {
+            "start": 854.660005,
+            "end": 858.54,
+            "text": "而是人民在社会中自发的横向扩散。"
+          }
+        ],
+        "boundaryMethod": "Selected ASR word/segment boundaries and matching candidate captions; a is absolute audio time before PV insertion."
+      }
+    },
+    {
+      "id": "g026-contemporary-langflow-framework",
+      "groupId": "g026",
+      "start": 1192.1,
+      "end": 1198.76,
+      "clock": "new_audio_seconds_without_PV",
+      "cueText": "执行任务、处理文件，还需要一套运行框架，把模型与外部世界联系起来",
+      "reference": {
+        "mode": "linear",
+        "legacyStart": 2076.8701,
+        "legacyEnd": 2100.8765,
+        "clock": "V22_legacy_n"
+      },
+      "preserveMediaKey": "v12_langflow_build",
+      "sourceAudioElapsed1x": true,
+      "semanticRole": "contemporary_framework_example",
+      "expectedSourceSeconds": 6.66,
+      "reason": "Root confirmed retention of original Langflow demonstration as a contemporary framework example, after deletedg042. Reference n only selects original protected UI; source elapsed is actual new audio1x. Exit before DSH is named, so this UI never impersonates DSH or a ten-years-ago student recording.",
+      "priority": "director_semantic",
+      "sourceMediaPolicy": "preserve_per_media_1x",
+      "evidence": {
+        "asrFile": "[原工程本地路径]/qc_report.json",
+        "asrSha256": "31e4fcc0abde5731c18a5a6f8a218522f79b67f54a6c40460a36ea0b59f5f386",
+        "matchesSelectedAudio": true,
+        "newTextSha256": "c04dfcfa1533f3252a5f8bf7a5d36add5ca704445cebd862bc9c3088abfdd107",
+        "sourceGroupAudioRange": [
+          1167.04,
+          1204.32
+        ],
+        "selectedASRSegments": [
+          {
+            "index": 5,
+            "localStart": 22.7,
+            "localEnd": 26.68,
+            "audioStart": 1189.74,
+            "audioEnd": 1193.72,
+            "text": "但要让AI真正操作工具,执行任务,处理文件,",
+            "wordCount": 18
+          },
+          {
+            "index": 6,
+            "localStart": 26.68,
+            "localEnd": 28.82,
+            "audioStart": 1193.72,
+            "audioEnd": 1195.86,
+            "text": "还需要一套运行框架",
+            "wordCount": 8
+          },
+          {
+            "index": 7,
+            "localStart": 28.82,
+            "localEnd": 31.6,
+            "audioStart": 1195.86,
+            "audioEnd": 1198.64,
+            "text": "把模型与外部世界联系起来",
+            "wordCount": 11
+          }
+        ],
+        "candidateCaptions": [
+          {
+            "start": 1192.1,
+            "end": 1198.7599999999998,
+            "text": "执行任务、处理文件，还需要一套运行框架，把模型与外部世界联系起来。"
+          }
+        ],
+        "boundaryMethod": "Root-confirmed current caption meaning, exit1198.76 before DSH identity starts1199.24."
+      }
+    },
+    {
+      "id": "g028-relations-not-just-tools",
+      "groupId": "g028",
+      "start": 1268.48,
+      "end": 1277.62,
+      "clock": "new_audio_seconds_without_PV",
+      "cueText": "真正的社会变革…更重要的是生产关系发生改变",
+      "reference": {
+        "mode": "linear",
+        "legacyStart": 1328.965,
+        "legacyEnd": 1336.72499,
+        "clock": "V22_legacy_n"
+      },
+      "reason": "Retain original culture passage, skip deleted shopping-service/three-question chain; never follow raw147x knots.",
+      "priority": "director_semantic",
+      "sourceMediaPolicy": "preserve_per_media_1x",
+      "evidence": {
+        "asrFile": "[原工程本地路径]/qc_report.json",
+        "asrSha256": "2b50755b4002526b9a4fc1a4249f3a1c7680fe39bb293335c23a6c4155d5f4fc",
+        "matchesSelectedAudio": true,
+        "newTextSha256": "91c715537ff8def7d19da4c5d5e0b4e8092e91fe90c97c8a95518273d617b840",
+        "sourceGroupAudioRange": [
+          1268.48,
+          1296.0
+        ],
+        "selectedASRSegments": [
+          {
+            "index": 0,
+            "localStart": 0.0,
+            "localEnd": 3.92,
+            "audioStart": 1268.48,
+            "audioEnd": 1272.4,
+            "text": "真正的社会变革从不只是生产工具发生改变",
+            "wordCount": 18
+          },
+          {
+            "index": 1,
+            "localStart": 3.92,
+            "localEnd": 8.0,
+            "audioStart": 1272.4,
+            "audioEnd": 1276.48,
+            "text": "更重要的是人们生产关系发生改变",
+            "wordCount": 13
+          }
+        ],
+        "candidateCaptions": [
+          {
+            "start": 1268.48001,
+            "end": 1272.400005,
+            "text": "真正的社会变革，从不只是生产工具发生改变，"
+          },
+          {
+            "start": 1272.400005,
+            "end": 1276.6,
+            "text": "更重要的是人们生产关系发生改变。"
+          }
+        ],
+        "boundaryMethod": "Selected ASR word/segment boundaries and matching candidate captions; a is absolute audio time before PV insertion."
+      }
+    },
+    {
+      "id": "g028-consumer-to-creator-oi",
+      "groupId": "g028",
+      "start": 1277.62,
+      "end": 1283.12,
+      "clock": "new_audio_seconds_without_PV",
+      "cueText": "从被动消费转向主动创造",
+      "reference": {
+        "mode": "linear",
+        "legacyStart": 1355.9251,
+        "legacyEnd": 1366.5659,
+        "clock": "V22_legacy_n"
+      },
+      "reason": "Root confirmed5.5s original OI UI slot; actual p/global protection owns layout, source elapsed is independent1x; no old question labels.",
+      "priority": "director_semantic",
+      "sourceMediaPolicy": "preserve_per_media_1x",
+      "evidence": {
+        "asrFile": "[原工程本地路径]/qc_report.json",
+        "asrSha256": "2b50755b4002526b9a4fc1a4249f3a1c7680fe39bb293335c23a6c4155d5f4fc",
+        "matchesSelectedAudio": true,
+        "newTextSha256": "91c715537ff8def7d19da4c5d5e0b4e8092e91fe90c97c8a95518273d617b840",
+        "sourceGroupAudioRange": [
+          1268.48,
+          1296.0
+        ],
+        "selectedASRSegments": [
+          {
+            "index": 2,
+            "localStart": 9.14,
+            "localEnd": 13.52,
+            "audioStart": 1277.62,
+            "audioEnd": 1282.0,
+            "text": "当越来越多的人们从被动消费转向主动创造",
+            "wordCount": 18
+          },
+          {
+            "index": 3,
+            "localStart": 13.52,
+            "localEnd": 16.3,
+            "audioStart": 1282.0,
+            "audioEnd": 1284.78,
+            "text": "这样的生产关系便会悄然落地",
+            "wordCount": 12
+          }
+        ],
+        "candidateCaptions": [
+          {
+            "start": 1277.6200000000001,
+            "end": 1284.8999999999999,
+            "text": "当越来越多的人们从被动消费转向主动创造，这样的生产关系便会悄然落地。"
+          }
+        ],
+        "boundaryMethod": "Selected-ASR boundaries; group gaps preserved; root interprets explicit reference cuts."
+      },
+      "preserveMediaKey": "v12_oi_pomodoro",
+      "preserveSourceRange": [
+        0,
+        5.5
+      ],
+      "expectedSourceSeconds": 5.5,
+      "sourceAudioElapsed1x": true
+    },
+    {
+      "id": "g028-consumer-to-creator-resolve",
+      "groupId": "g028",
+      "start": 1283.12,
+      "end": 1285.64,
+      "clock": "new_audio_seconds_without_PV",
+      "cueText": "这样的生产关系便会悄然落地",
+      "reference": {
+        "mode": "linear",
+        "legacyStart": 1366.57,
+        "legacyEnd": 1369.88499,
+        "clock": "V22_legacy_n"
+      },
+      "reason": "After OI UI, return to original creator/diffusion transition, preserving composition.",
+      "priority": "director_semantic",
+      "sourceMediaPolicy": "preserve_per_media_1x",
+      "evidence": {
+        "asrFile": "[原工程本地路径]/qc_report.json",
+        "asrSha256": "2b50755b4002526b9a4fc1a4249f3a1c7680fe39bb293335c23a6c4155d5f4fc",
+        "matchesSelectedAudio": true,
+        "newTextSha256": "91c715537ff8def7d19da4c5d5e0b4e8092e91fe90c97c8a95518273d617b840",
+        "sourceGroupAudioRange": [
+          1268.48,
+          1296.0
+        ],
+        "selectedASRSegments": [
+          {
+            "index": 3,
+            "localStart": 13.52,
+            "localEnd": 16.3,
+            "audioStart": 1282.0,
+            "audioEnd": 1284.78,
+            "text": "这样的生产关系便会悄然落地",
+            "wordCount": 12
+          }
+        ],
+        "candidateCaptions": [
+          {
+            "start": 1277.6200000000001,
+            "end": 1284.8999999999999,
+            "text": "当越来越多的人们从被动消费转向主动创造，这样的生产关系便会悄然落地。"
+          }
+        ],
+        "boundaryMethod": "Selected-ASR boundaries; group gaps preserved; root interprets explicit reference cuts."
+      }
+    },
+    {
+      "id": "g028-groups-and-diffusion",
+      "groupId": "g028",
+      "start": 1285.64,
+      "end": 1296.0,
+      "clock": "new_audio_seconds_without_PV",
+      "cueText": "学生、游戏玩家、二次元爱好者和程序员…逐渐扩散",
+      "reference": {
+        "mode": "linear",
+        "legacyStart": 1370.545,
+        "legacyEnd": 1381.52499,
+        "clock": "V22_legacy_n"
+      },
+      "reason": "Map only original diffusion end, after removed three-question section.",
+      "priority": "director_semantic",
+      "sourceMediaPolicy": "preserve_per_media_1x",
+      "evidence": {
+        "asrFile": "[原工程本地路径]/qc_report.json",
+        "asrSha256": "2b50755b4002526b9a4fc1a4249f3a1c7680fe39bb293335c23a6c4155d5f4fc",
+        "matchesSelectedAudio": true,
+        "newTextSha256": "91c715537ff8def7d19da4c5d5e0b4e8092e91fe90c97c8a95518273d617b840",
+        "sourceGroupAudioRange": [
+          1268.48,
+          1296.0
+        ],
+        "selectedASRSegments": [
+          {
+            "index": 4,
+            "localStart": 17.160000000000004,
+            "localEnd": 24.56,
+            "audioStart": 1285.64,
+            "audioEnd": 1293.04,
+            "text": "这种变化可能首先发生在学生、游戏玩家、二次元爱好者和程序员中",
+            "wordCount": 26
+          },
+          {
+            "index": 5,
+            "localStart": 25.800000000000004,
+            "localEnd": 27.5,
+            "audioStart": 1294.28,
+            "audioEnd": 1295.98,
+            "text": "然后逐渐扩散",
+            "wordCount": 5
+          }
+        ],
+        "candidateCaptions": [
+          {
+            "start": 1285.64,
+            "end": 1293.1599999999999,
+            "text": "这种变化可能首先发生在学生、游戏玩家、二次元爱好者和程序员中，"
+          },
+          {
+            "start": 1294.28,
+            "end": 1296.1,
+            "text": "然后逐渐扩散。"
+          }
+        ],
+        "boundaryMethod": "Selected ASR word/segment boundaries and matching candidate captions; a is absolute audio time before PV insertion."
+      }
+    },
+    {
+      "id": "g033-livelihood-before-proclamation",
+      "groupId": "g033",
+      "start": 1493.0,
+      "end": 1535.88,
+      "clock": "new_audio_seconds_without_PV",
+      "cueText": "天真的合作不能改变现实…仍需要谋生…自由发展…上层建筑的重要经济基础",
+      "reference": {
+        "mode": "linear",
+        "legacyStart": 1585.99,
+        "legacyEnd": 1622.76999,
+        "clock": "V22_legacy_n"
+      },
+      "reason": "Do not sweep into old g033 proclamation tail, which is now new g034 opening. Preserve original contradiction/free-development visuals.",
+      "priority": "director_semantic",
+      "sourceMediaPolicy": "preserve_per_media_1x",
+      "evidence": {
+        "asrFile": "[原工程本地路径]/qc_report.json",
+        "asrSha256": "871f84a97dff7c44ba7095d83be86eb10cd103c658a3f28c0d0da1c3b8670cd0",
+        "matchesSelectedAudio": true,
+        "newTextSha256": "aa3abb955ee3e3ae001643a524f756aa399fe615b4a36890bd2c12c2bd56d2e2",
+        "sourceGroupAudioRange": [
+          1493.0,
+          1535.88
+        ],
+        "selectedASRSegments": [
+          {
+            "index": 0,
+            "localStart": 0.0,
+            "localEnd": 7.16,
+            "audioStart": 1493.0,
+            "audioEnd": 1500.16,
+            "text": "但正是因为这样的矛盾,越来越多的人能够理解,为什么天真的合作不能改变现实。",
+            "wordCount": 27
+          },
+          {
+            "index": 1,
+            "localStart": 7.86,
+            "localEnd": 13.6,
+            "audioStart": 1500.86,
+            "audioEnd": 1506.6,
+            "text": "开源参与者仍然需要谋生,运行agent仍然需要设备、电力和算力。",
+            "wordCount": 24
+          },
+          {
+            "index": 2,
+            "localStart": 14.06,
+            "localEnd": 18.7,
+            "audioStart": 1507.06,
+            "audioEnd": 1511.7,
+            "text": "人们逐渐发现,自己讨厌的工作正在挤占自由创作的时间。",
+            "wordCount": 20
+          },
+          {
+            "index": 3,
+            "localStart": 19.16,
+            "localEnd": 25.52,
+            "audioStart": 1512.16,
+            "audioEnd": 1518.52,
+            "text": "我们应该把精力放在自由发展上面,而不是这些充满了压榨剥削的形式主义项目上。",
+            "wordCount": 31
+          },
+          {
+            "index": 4,
+            "localStart": 26.5,
+            "localEnd": 33.3,
+            "audioStart": 1519.5,
+            "audioEnd": 1526.3,
+            "text": "所以,这种新生产关系越是发展,人们就越会感受到资本主义生产关系对它的束缚",
+            "wordCount": 32
+          },
+          {
+            "index": 5,
+            "localStart": 33.3,
+            "localEnd": 42.86,
+            "audioStart": 1526.3,
+            "audioEnd": 1535.86,
+            "text": "越会懂得只有消灭资本主义,这种新的生产关系才能够落地生根,成为新的上层建筑的重要经济基础",
+            "wordCount": 40
+          }
+        ],
+        "candidateCaptions": [
+          {
+            "start": 1493.00001,
+            "end": 1496.86,
+            "text": "但正是因为这样的矛盾，越来越多的人能够理解，"
+          },
+          {
+            "start": 1497.04,
+            "end": 1500.28,
+            "text": "为什么天真的合作不能改变现实。"
+          },
+          {
+            "start": 1500.86,
+            "end": 1505.6599999999999,
+            "text": "开源参与者仍然需要谋生，运行Agent仍然需要设备、"
+          },
+          {
+            "start": 1505.68,
+            "end": 1506.7199999999998,
+            "text": "电力和算力。"
+          },
+          {
+            "start": 1507.06,
+            "end": 1511.82,
+            "text": "人们逐渐发现，自己讨厌的工作正在挤占自由创作的时间。"
+          },
+          {
+            "start": 1512.16,
+            "end": 1514.9199999999998,
+            "text": "我们应该把精力放在自由发展上面，"
+          },
+          {
+            "start": 1515.08,
+            "end": 1518.6399999999999,
+            "text": "而不是这些充满了压榨剥削的形式主义项目上。"
+          },
+          {
+            "start": 1519.5,
+            "end": 1522.5,
+            "text": "所以，这种新生产关系越是发展，"
+          },
+          {
+            "start": 1522.54,
+            "end": 1527.540005,
+            "text": "人们就越会感受到资本主义生产关系对它的束缚，越会懂得："
+          },
+          {
+            "start": 1527.540005,
+            "end": 1532.36,
+            "text": "只有消灭资本主义，这种新的生产关系才能够落地生根，"
+          },
+          {
+            "start": 1532.66,
+            "end": 1535.9799999999998,
+            "text": "成为新的上层建筑的重要经济基础。"
+          }
+        ],
+        "boundaryMethod": "Selected-ASR boundaries; group gaps preserved; root interprets explicit reference cuts."
+      }
+    },
+    {
+      "id": "g034-proclamation-moved",
+      "groupId": "g034",
+      "start": 1536.88,
+      "end": 1550.02,
+      "clock": "new_audio_seconds_without_PV",
+      "cueText": "现在…没有资本家，我们一样能做好事情！不仅做得更好，而且做得更快乐！",
+      "reference": {
+        "mode": "linear",
+        "legacyStart": 1623.53,
+        "legacyEnd": 1637.37999,
+        "clock": "V22_legacy_n"
+      },
+      "reason": "Move old g033 proclamation to new g034 opening; keep same typography/composition.",
+      "priority": "director_semantic",
+      "sourceMediaPolicy": "preserve_per_media_1x",
+      "evidence": {
+        "asrFile": "[原工程本地路径]/qc_report.json",
+        "asrSha256": "2b2811226f8ba82ff5fee8b368c057bede67eba66197674d0ed068ef1b3a17e2",
+        "matchesSelectedAudio": true,
+        "newTextSha256": "8b3cdc0d30a74ba532cb3dc68d7df9780d7e06ded3f7d6c2d7210926bd67fc5c",
+        "sourceGroupAudioRange": [
+          1536.88,
+          1607.6
+        ],
+        "selectedASRSegments": [
+          {
+            "index": 0,
+            "localStart": 0.0,
+            "localEnd": 11.98,
+            "audioStart": 1536.88,
+            "audioEnd": 1548.86,
+            "text": "现在,他却向无数人光荣地宣告着一个事实,没有资本家,我们一样能做好事情,不仅做得更好,而且做得更快乐。",
+            "wordCount": 39
+          }
+        ],
+        "candidateCaptions": [
+          {
+            "start": 1536.88001,
+            "end": 1541.62,
+            "text": "现在，它却向无数人光荣地宣告着一个事实："
+          },
+          {
+            "start": 1541.7800000000002,
+            "end": 1545.04,
+            "text": "没有资本家，我们一样能做好事情！"
+          },
+          {
+            "start": 1545.44,
+            "end": 1548.98,
+            "text": "不仅做得更好，而且做得更快乐！"
+          }
+        ],
+        "boundaryMethod": "Selected-ASR boundaries; group gaps preserved; root interprets explicit reference cuts."
+      }
+    },
+    {
+      "id": "g036-free-development-quote",
+      "groupId": "g036",
+      "start": 1640.52,
+      "end": 1647.08,
+      "clock": "new_audio_seconds_without_PV",
+      "cueText": "共产党宣言中说：每个人的自由发展是一切人的自由发展的条件",
+      "reference": {
+        "mode": "holdCardMid",
+        "legacyStart": 1814.5701290554905,
+        "legacyEnd": 1825.030585925239,
+        "clock": "V22_legacy_n",
+        "cardId": "free-development",
+        "holdLegacyN": 1819.8003574903646
+      },
+      "reason": "The exact quote survived and moved into g036, though old g037 is deleted; reuse the original fully visible quote card.",
+      "priority": "director_semantic",
+      "sourceMediaPolicy": "preserve_per_media_1x",
+      "evidence": {
+        "asrFile": "[原工程本地路径]/qc_report.json",
+        "asrSha256": "9a5401dd3fef1d7e42989991730cceef3ace922f6344deee5bfe2b8642a49597",
+        "matchesSelectedAudio": true,
+        "newTextSha256": "74f9ec6062ca69be344aaca1cc5071229aa9eaab554cd5454802ff7ee5548aa8",
+        "sourceGroupAudioRange": [
+          1608.6,
+          1662.84
+        ],
+        "selectedASRSegments": [
+          {
+            "index": 17,
+            "localStart": 31.92,
+            "localEnd": 33.54,
+            "audioStart": 1640.52,
+            "audioEnd": 1642.14,
+            "text": "共产党宣言中说",
+            "wordCount": 7
+          },
+          {
+            "index": 18,
+            "localStart": 33.54,
+            "localEnd": 35.52,
+            "audioStart": 1642.14,
+            "audioEnd": 1644.12,
+            "text": "每个人的自由发展",
+            "wordCount": 7
+          },
+          {
+            "index": 19,
+            "localStart": 35.52,
+            "localEnd": 38.0,
+            "audioStart": 1644.12,
+            "audioEnd": 1646.6,
+            "text": "是一切人的自由发展的条件",
+            "wordCount": 11
+          }
+        ],
+        "candidateCaptions": [
+          {
+            "start": 1640.52,
+            "end": 1646.7199999999998,
+            "text": "《共产党宣言》中说：“每个人的自由发展是一切人的自由发展的条件。"
+          }
+        ],
+        "boundaryMethod": "Selected ASR word/segment boundaries and matching candidate captions; a is absolute audio time before PV insertion."
+      }
+    },
+    {
+      "id": "g036-return-to-sprout-explanation",
+      "groupId": "g036",
+      "start": 1647.08,
+      "end": 1662.84,
+      "clock": "new_audio_seconds_without_PV",
+      "cueText": "我们所说的新生产关系萌芽…对社会主义生产关系的向往",
+      "reference": {
+        "mode": "linear",
+        "legacyStart": 1801.0,
+        "legacyEnd": 1814.55,
+        "clock": "V22_legacy_n"
+      },
+      "reason": "After quotation return deliberately to old g036 explanation; this is an explicit nonmonotone reference cut, not a reverse animation sweep.",
+      "priority": "director_semantic",
+      "sourceMediaPolicy": "preserve_per_media_1x",
+      "evidence": {
+        "asrFile": "[原工程本地路径]/qc_report.json",
+        "asrSha256": "9a5401dd3fef1d7e42989991730cceef3ace922f6344deee5bfe2b8642a49597",
+        "matchesSelectedAudio": true,
+        "newTextSha256": "74f9ec6062ca69be344aaca1cc5071229aa9eaab554cd5454802ff7ee5548aa8",
+        "sourceGroupAudioRange": [
+          1608.6,
+          1662.84
+        ],
+        "selectedASRSegments": [
+          {
+            "index": 20,
+            "localStart": 38.480000000000004,
+            "localEnd": 40.8,
+            "audioStart": 1647.08,
+            "audioEnd": 1649.4,
+            "text": "我们所说的新生产关系萌芽",
+            "wordCount": 11
+          },
+          {
+            "index": 21,
+            "localStart": 40.8,
+            "localEnd": 42.62,
+            "audioStart": 1649.4,
+            "audioEnd": 1651.22,
+            "text": "真正的含义就在这里",
+            "wordCount": 8
+          },
+          {
+            "index": 22,
+            "localStart": 43.64,
+            "localEnd": 44.88,
+            "audioStart": 1652.24,
+            "audioEnd": 1653.48,
+            "text": "不是共产主义",
+            "wordCount": 5
+          },
+          {
+            "index": 23,
+            "localStart": 44.88,
+            "localEnd": 47.14,
+            "audioStart": 1653.48,
+            "audioEnd": 1655.74,
+            "text": "已经在某个开源仓库里实现",
+            "wordCount": 11
+          },
+          {
+            "index": 24,
+            "localStart": 47.14,
+            "localEnd": 50.2,
+            "audioStart": 1655.74,
+            "audioEnd": 1658.8,
+            "text": "而是资本主义内部的生产实践",
+            "wordCount": 13
+          },
+          {
+            "index": 25,
+            "localStart": 50.2,
+            "localEnd": 52.58,
+            "audioStart": 1658.8,
+            "audioEnd": 1661.18,
+            "text": "已经在产生对社会主义",
+            "wordCount": 9
+          },
+          {
+            "index": 26,
+            "localStart": 52.58,
+            "localEnd": 54.18,
+            "audioStart": 1661.18,
+            "audioEnd": 1662.78,
+            "text": "生产关系的向往了",
+            "wordCount": 8
+          }
+        ],
+        "candidateCaptions": [
+          {
+            "start": 1647.08,
+            "end": 1651.3399999999997,
+            "text": "”我们所说的新生产关系萌芽，真正的含义就在这里："
+          },
+          {
+            "start": 1652.24,
+            "end": 1658.8000049999998,
+            "text": "不是共产主义已经在某个开源仓库里实现，而是资本主义内部的生产实践，"
+          },
+          {
+            "start": 1658.8000049999998,
+            "end": 1662.8999999999999,
+            "text": "已经在产生对社会主义生产关系的向往了。"
+          }
+        ],
+        "boundaryMethod": "Selected ASR word/segment boundaries and matching candidate captions; a is absolute audio time before PV insertion."
+      }
+    },
+    {
+      "id": "g046-relations-prefix-from-deleted-g045",
+      "groupId": "g046",
+      "start": 1873.84,
+      "end": 1884.84,
+      "clock": "new_audio_seconds_without_PV",
+      "cueText": "技术能力不是存在于机器的零件之中，而是存在于人与人的关系之中",
+      "reference": {
+        "mode": "linear",
+        "legacyStart": 2215.02,
+        "legacyEnd": 2224.99999,
+        "clock": "V22_legacy_n"
+      },
+      "reason": "Rebind surviving g045 opening meaning to g046 prefix; do not revive the deleted rest of g045.",
+      "priority": "director_semantic",
+      "sourceMediaPolicy": "preserve_per_media_1x",
+      "evidence": {
+        "asrFile": "[原工程本地路径]/qc_report.json",
+        "asrSha256": "ac6ad0e8ed75c34b76d2323a6019ab87865c86c570b775e7f6a274e78fb81f1e",
+        "matchesSelectedAudio": true,
+        "newTextSha256": "affb153cc5370f68bb5666226636b29ab0e4e0671d2dd2cfd018a31bb9bf5ca6",
+        "sourceGroupAudioRange": [
+          1873.84,
+          1918.16
+        ],
+        "selectedASRSegments": [
+          {
+            "index": 0,
+            "localStart": 0.0,
+            "localEnd": 10.32,
+            "audioStart": 1873.84,
+            "audioEnd": 1884.16,
+            "text": "一个社会的技术能力不是存在于机器的零件之中,而是存在于人与人的关系之中,只是通过物的形式表现出来。",
+            "wordCount": 42
+          }
+        ],
+        "candidateCaptions": [
+          {
+            "start": 1873.84001,
+            "end": 1878.3999999999999,
+            "text": "一个社会的技术能力，不是存在于机器的零件之中，"
+          },
+          {
+            "start": 1878.52,
+            "end": 1884.2799999999997,
+            "text": "而是存在于人与人的关系之中，只是通过物的形式表现出来。"
+          }
+        ],
+        "boundaryMethod": "Selected-ASR boundaries; group gaps preserved; root interprets explicit reference cuts."
+      }
+    },
+    {
+      "id": "g046-experience-and-economic-practice",
+      "groupId": "g046",
+      "start": 1884.84,
+      "end": 1918.16,
+      "clock": "new_audio_seconds_without_PV",
+      "cueText": "当一个人从未体验过开源合作…几十年前所运行的合作制经济",
+      "reference": {
+        "mode": "linear",
+        "legacyStart": 2250.745,
+        "legacyEnd": 2288.50499,
+        "clock": "V22_legacy_n"
+      },
+      "reason": "Return from moved prefix to original g046 collaboration/experience visuals; 运行 replaces 向往 in narration, retain historical media provenance.",
+      "priority": "director_semantic",
+      "sourceMediaPolicy": "preserve_per_media_1x",
+      "evidence": {
+        "asrFile": "[原工程本地路径]/qc_report.json",
+        "asrSha256": "ac6ad0e8ed75c34b76d2323a6019ab87865c86c570b775e7f6a274e78fb81f1e",
+        "matchesSelectedAudio": true,
+        "newTextSha256": "affb153cc5370f68bb5666226636b29ab0e4e0671d2dd2cfd018a31bb9bf5ca6",
+        "sourceGroupAudioRange": [
+          1873.84,
+          1918.16
+        ],
+        "selectedASRSegments": [
+          {
+            "index": 1,
+            "localStart": 11.0,
+            "localEnd": 21.76,
+            "audioStart": 1884.84,
+            "audioEnd": 1895.6,
+            "text": "当一个人从未体验过开源合作,他可能很难想象,除了市场交换和资本家的命令之外,复杂的生产活动还能够怎么组织?",
+            "wordCount": 46
+          },
+          {
+            "index": 2,
+            "localStart": 22.419999999999998,
+            "localEnd": 24.64,
+            "audioStart": 1896.26,
+            "audioEnd": 1898.48,
+            "text": "如果这种经验能够继续扩展",
+            "wordCount": 11
+          },
+          {
+            "index": 3,
+            "localStart": 24.64,
+            "localEnd": 30.4,
+            "audioStart": 1898.48,
+            "audioEnd": 1904.24,
+            "text": "未来关于劳动、所有制、经济基础和上层建筑的讨论",
+            "wordCount": 20
+          },
+          {
+            "index": 4,
+            "localStart": 30.4,
+            "localEnd": 33.5,
+            "audioStart": 1904.24,
+            "audioEnd": 1907.34,
+            "text": "就能获得更加丰富的现实基础",
+            "wordCount": 13
+          },
+          {
+            "index": 5,
+            "localStart": 33.940000000000005,
+            "localEnd": 34.94,
+            "audioStart": 1907.78,
+            "audioEnd": 1908.78,
+            "text": "就像现在",
+            "wordCount": 3
+          },
+          {
+            "index": 6,
+            "localStart": 35.620000000000005,
+            "localEnd": 37.2,
+            "audioStart": 1909.46,
+            "audioEnd": 1911.04,
+            "text": "你已经不难理解",
+            "wordCount": 6
+          },
+          {
+            "index": 7,
+            "localStart": 37.760000000000005,
+            "localEnd": 40.92,
+            "audioStart": 1911.6,
+            "audioEnd": 1914.76,
+            "text": "我们几十年前所运行的合作制经济",
+            "wordCount": 13
+          },
+          {
+            "index": 8,
+            "localStart": 40.92,
+            "localEnd": 44.3,
+            "audioStart": 1914.76,
+            "audioEnd": 1918.14,
+            "text": "是如何不依靠资本利益运行的",
+            "wordCount": 12
+          }
+        ],
+        "candidateCaptions": [
+          {
+            "start": 1884.84,
+            "end": 1889.1599999999999,
+            "text": "当一个人从未体验过开源合作，他可能很难想象，"
+          },
+          {
+            "start": 1889.4399999999998,
+            "end": 1895.7199999999998,
+            "text": "除了市场交换和资本家的命令之外，复杂的生产活动还能够怎么组织。"
+          },
+          {
+            "start": 1896.26,
+            "end": 1901.4199999999998,
+            "text": "如果这种经验能够继续扩展，未来关于劳动、所有制、"
+          },
+          {
+            "start": 1901.56,
+            "end": 1907.4599999999998,
+            "text": "经济基础和上层建筑的讨论，就能获得更加丰富的现实基础。"
+          },
+          {
+            "start": 1907.78,
+            "end": 1914.7600049999999,
+            "text": "就像现在，你已经不难理解：我们几十年前所运行的合作制经济，"
+          },
+          {
+            "start": 1914.7600049999999,
+            "end": 1918.2599999999998,
+            "text": "是如何不依靠资本利益运行的。"
+          }
+        ],
+        "boundaryMethod": "Selected-ASR boundaries; group gaps preserved; root interprets explicit reference cuts."
+      }
+    }
+  ],
+  "semanticConstraints": [
+    {
+      "groupId": "g017",
+      "start": 747.24,
+      "end": 752.36,
+      "cueText": "它只是一种工具，不能带来社会关系的改变",
+      "onScreenMeaning": "工具本身不等于社会关系改变",
+      "policy": "Avoid completed-social-transformation claims; retain ordinary tool footage."
+    },
+    {
+      "groupId": "g017",
+      "start": 752.36,
+      "end": 760.3,
+      "cueText": "不远的将来…动摇脑体对立的物质基础",
+      "onScreenMeaning": "未来可能动摇基础",
+      "policy": "Future/possibility qualification; do not present as already completed."
+    }
+  ],
+  "protectedMediaConflicts": [
+    {
+      "groupId": "g028",
+      "key": "v12_oi_pomodoro",
+      "legacyRange": [
+        1355.925,
+        1366.5661949685534
+      ],
+      "reason": "Old software window overlaps deleted question prose. If retaining full original software excerpt, schedule an explicit source1x slot within the new consumer-to-creator meaning, retaining original box; do not rely on base interpolation or silently resurrect the deleted question sequence.",
+      "resolution": "Implemented g028-consumer-to-creator-oi [1277.62,1283.12), preserveMediaKey v12_oi_pomodoro, reference stays strictly inside exact old UI window; source0..5.5 seconds at1x, then original transition."
+    }
+  ],
+  "pendingHighRiskReview": [],
+  "videoEncoded": false,
+  "originalRendererModified": false,
+  "semanticCues": [
+    {
+      "id": "g017-tool-limitation",
+      "groupId": "g017",
+      "start": 747.24,
+      "end": 752.36,
+      "label": "工具本身 ≠ 社会关系的改变",
+      "secondary": "尚未完成社会关系的改变",
+      "style": "existing serif/vector typography, no new UI card",
+      "priority": "semantic_qualification",
+      "sourceFrameMustRemainReadable": true,
+      "placementPolicy": "Use an original-meaning transition or verified whitespace. Never paint over real UI text. Root may render a short matching vector scene if no whitespace.",
+      "evidence": {
+        "asrFile": "[原工程本地路径]/qc_report.json",
+        "asrSha256": "ef81196b879815fa26251b7041dd4975ac0b39f2c9c4d5eeee4c3fcab0477061",
+        "matchesSelectedAudio": true,
+        "newTextSha256": "46200c1ff40fd31105f53c27aff97cb2c952c7bf66a77702e08bdae0b382fd1b",
+        "sourceGroupAudioRange": [
+          739.12,
+          789.52
+        ],
+        "selectedASRSegments": [
+          {
+            "index": 1,
+            "localStart": 8.120000000000001,
+            "localEnd": 11.8,
+            "audioStart": 747.24,
+            "audioEnd": 750.92,
+            "text": "它只是一种工具,不能带来社会关系的改变。",
+            "wordCount": 16
+          }
+        ],
+        "candidateCaptions": [
+          {
+            "start": 742.78,
+            "end": 748.86,
+            "text": "但它实则已悄然完成了脑力劳动的简单化，它只是一种工具，"
+          },
+          {
+            "start": 749.0,
+            "end": 751.04,
+            "text": "不能带来社会关系的改变。"
+          }
+        ],
+        "boundaryMethod": "Selected-ASR boundaries; group gaps preserved; root interprets explicit reference cuts."
+      }
+    },
+    {
+      "id": "g017-future-material-basis",
+      "groupId": "g017",
+      "start": 752.36,
+      "end": 761.4,
+      "label": "不远的将来",
+      "secondary": "可能动摇脑体对立的物质基础",
+      "style": "existing serif/vector typography, no new UI card",
+      "priority": "semantic_qualification",
+      "sourceFrameMustRemainReadable": true,
+      "placementPolicy": "Future-qualified existing-style vector animation; do not show an already-completed social transformation.",
+      "evidence": {
+        "asrFile": "[原工程本地路径]/qc_report.json",
+        "asrSha256": "ef81196b879815fa26251b7041dd4975ac0b39f2c9c4d5eeee4c3fcab0477061",
+        "matchesSelectedAudio": true,
+        "newTextSha256": "46200c1ff40fd31105f53c27aff97cb2c952c7bf66a77702e08bdae0b382fd1b",
+        "sourceGroupAudioRange": [
+          739.12,
+          789.52
+        ],
+        "selectedASRSegments": [
+          {
+            "index": 2,
+            "localStart": 13.24,
+            "localEnd": 21.18,
+            "audioStart": 752.36,
+            "audioEnd": 760.3,
+            "text": "可是,我们能预料,在不远的将来,它带来的飞跃就能动摇脑体对立的物质基础。",
+            "wordCount": 30
+          }
+        ],
+        "candidateCaptions": [
+          {
+            "start": 752.36,
+            "end": 756.22,
+            "text": "可是，我们能预料：在不远的将来，"
+          },
+          {
+            "start": 756.42,
+            "end": 760.42,
+            "text": "它带来的飞跃就能动摇脑体对立的物质基础。"
+          }
+        ],
+        "boundaryMethod": "Selected-ASR boundaries; group gaps preserved; root interprets explicit reference cuts."
+      }
+    },
+    {
+      "id": "g026-framework-example-label",
+      "groupId": "g026",
+      "start": 1192.1,
+      "end": 1198.76,
+      "label": "运行框架示例",
+      "secondary": "",
+      "semanticRole": "contemporary_framework_example",
+      "style": "existing restrained source-complement typography",
+      "priority": "semantic_qualification",
+      "sourceFrameMustRemainReadable": true,
+      "safeWhitespaceOnly": true,
+      "placementPolicy": "Draw only in independently verified empty margin; skip if no safe whitespace. Never cover original UI or add a DSH brand label.",
+      "evidence": {
+        "asrFile": "[原工程本地路径]/qc_report.json",
+        "asrSha256": "31e4fcc0abde5731c18a5a6f8a218522f79b67f54a6c40460a36ea0b59f5f386",
+        "matchesSelectedAudio": true,
+        "newTextSha256": "c04dfcfa1533f3252a5f8bf7a5d36add5ca704445cebd862bc9c3088abfdd107",
+        "sourceGroupAudioRange": [
+          1167.04,
+          1204.32
+        ],
+        "selectedASRSegments": [
+          {
+            "index": 5,
+            "localStart": 22.7,
+            "localEnd": 26.68,
+            "audioStart": 1189.74,
+            "audioEnd": 1193.72,
+            "text": "但要让AI真正操作工具,执行任务,处理文件,",
+            "wordCount": 18
+          },
+          {
+            "index": 6,
+            "localStart": 26.68,
+            "localEnd": 28.82,
+            "audioStart": 1193.72,
+            "audioEnd": 1195.86,
+            "text": "还需要一套运行框架",
+            "wordCount": 8
+          },
+          {
+            "index": 7,
+            "localStart": 28.82,
+            "localEnd": 31.6,
+            "audioStart": 1195.86,
+            "audioEnd": 1198.64,
+            "text": "把模型与外部世界联系起来",
+            "wordCount": 11
+          }
+        ],
+        "candidateCaptions": [
+          {
+            "start": 1192.1,
+            "end": 1198.7599999999998,
+            "text": "执行任务、处理文件，还需要一套运行框架，把模型与外部世界联系起来。"
+          }
+        ],
+        "boundaryMethod": "Root-confirmed current caption meaning, exit1198.76 before DSH identity starts1199.24."
+      }
+    }
+  ],
+  "updatedAtUTC": "2026-11-04T15:37:56.838425+00:00",
+  "requiredTextOverrides": [
+    {
+      "servedPath": "/scenes/p1c2.js",
+      "resolvedOriginal": "../live2d-media-revision/scenes/p1c2.js",
+      "line": 70,
+      "original": "物质基础正在逐渐形成",
+      "suggested": "脑体对立的基础正在改变",
+      "appliesTo": "g015宏观片段",
+      "reason": "New wording describes changing/removing the basis of opposition; original short ambiguous forming label should not imply opposition is being constructed. Keep font/coordinates/alpha exactly."
+    },
+    {
+      "servedPath": "/visual-revision.js",
+      "resolvedOriginal": "../live2d-media-revision/visual-revision.js",
+      "line": 25,
+      "original": "物质基础正在形成",
+      "suggested": "脑体对立的基础正在改变",
+      "appliesTo": "g015 comparison fallback",
+      "reason": "Same semantic wording update for inherited FullRevisions path; not evidence of a literal already-socially-changed label."
+    },
+    {
+      "servedPath": "/scenes/p1c2.js",
+      "resolvedOriginal": "../live2d-media-revision/scenes/p1c2.js",
+      "line": 73,
+      "original": "不只是学会编程",
+      "suggested": "不只是装一个AI",
+      "appliesTo": "g016 separation fallback",
+      "reason": "New selected narration explicitly says installing AI, not learning programming; keep layout."
+    },
+    {
+      "servedPath": "/scenes/p2c2.js",
+      "resolvedOriginal": "../live2d-media-revision/scenes/p2c2.js",
+      "line": 42,
+      "original": "能不能自己做一个？",
+      "suggested": "从被动消费，到主动创造",
+      "appliesTo": "g028 fallback only",
+      "reason": "The three questions were removed. OI protected UI rendering should already suppress this label; update only if fallback native scene is selected."
+    },
+    {
+      "servedPath": "/scenes/p1c3.js",
+      "resolvedOriginal": "../live2d-media-revision/scenes/p1c3.js",
+      "line": 48,
+      "original": "日常事务",
+      "suggested": "实践参与",
+      "appliesTo": "g019 fifth-role fallback",
+      "reason": "New spoken list omits ordinary families; retain fifth authored position with generic wording instead of creating a new specific role."
+    }
+  ],
+  "g017LabelInspection": {
+    "literalAlreadyChangedSocialRelationsFound": false,
+    "inspected": [
+      "../live2d-media-revision/scenes/p1c2.js",
+      "../live2d-media-revision/scenes/p1c3.js",
+      "../live2d-media-revision/visual-revision.js",
+      "information-plan.json",
+      "served MediaV12 source windows"
+    ],
+    "finding": "Old already-changing wording is narration, not a located on-screen literal. Exact ambiguous forming labels are listed in requiredTextOverrides and belong to g015. g017 now has explicit readable semanticCues rather than only a policy."
+  },
+  "deletedGroupPolicy": [
+    {
+      "groupId": "g035",
+      "legacyStart": 1707.665,
+      "legacyEnd": 1758.785,
+      "action": "skip_deleted_argument",
+      "preserveException": "g036 surviving tools/knowledge tail remains; do not resurrect production-relations3-aspects",
+      "retainSourceFiles": true
+    },
+    {
+      "groupId": "g037",
+      "legacyStart": 1816.355,
+      "legacyEnd": 1869.635,
+      "action": "skip_deleted_argument",
+      "preserveException": "free-development quote survives in g036; explicit override",
+      "retainSourceFiles": true
+    },
+    {
+      "groupId": "g038",
+      "legacyStart": 1870.415,
+      "legacyEnd": 1899.295,
+      "action": "skip_deleted_argument",
+      "preserveException": null,
+      "retainSourceFiles": true
+    },
+    {
+      "groupId": "g040",
+      "legacyStart": 1960.01,
+      "legacyEnd": 2000.97,
+      "action": "skip_deleted_argument",
+      "preserveException": null,
+      "retainSourceFiles": true
+    },
+    {
+      "groupId": "g042",
+      "legacyStart": 2057.83,
+      "legacyEnd": 2117.11,
+      "action": "skip_deleted_argument",
+      "preserveException": "Original Langflow UI explicitly retained at new g0261192.10–1198.76 as contemporary_framework_example; deleted ten-years-ago student story remains skipped.",
+      "retainSourceFiles": true
+    },
+    {
+      "groupId": "g045",
+      "legacyStart": 2215.02,
+      "legacyEnd": 2249.98,
+      "action": "skip_deleted_argument",
+      "preserveException": "first relations statement survives in g046; explicit override",
+      "retainSourceFiles": true
+    }
+  ],
+  "mediaPresenceReview": {
+    "Calc": "Explicit g017-calc-tool-operation keeps original selected Calc UI in new739.12–747.24.",
+    "Langflow": "Retained explicitly at newg0261192.10–1198.76, contemporary framework example, source1x; exits before DSH identity1199.24."
+  },
+  "status": "frozen_for_root_integration_QA",
+  "freezeNote": "23 explicit reference intervals,3 readable semantic cues; root owns runtime/renderer/source1x integration. All original product plans remain unmodified except separate information-plan-v23.json."
+}

@@ -1,0 +1,40 @@
+{
+  "entries": [
+    {
+      "year": 2005,
+      "credit": "Linus Torvalds · git/git",
+      "source": "https://github.com/git/git/commit/e83c5163316f89bfbde7d9ab23ca2e25604af290",
+      "explanation": "2005 年 4 月 7 日，Linus Torvalds 提交 Git 的首个版本。画面为官方 Git 仓库中的根提交。",
+      "asset": "2005.png",
+      "license": "原始提交代码属于 Git 项目历史，发布条款见 Git COPYING。截图用于标识历史文献。",
+      "related": "https://git-scm.com/book/en/v2/Getting-Started-A-Short-History-of-Git"
+    },
+    {
+      "year": 2012,
+      "credit": "Alex Krizhevsky、Ilya Sutskever、Geoffrey E. Hinton · NeurIPS 2012 图 2",
+      "source": "https://papers.nips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf#page=5",
+      "explanation": "AlexNet 公开论文与 ILSVRC 共享基准推动研究复现和横向比较。2012 年比赛版原始代码和权重直到 2025 年才由计算机历史博物馆与 Google 公开。",
+      "asset": "2012.png",
+      "license": "原论文图版为文献截图。2025 年公开的 AlexNet 原始代码仓库采用 BSD-2-Clause，论文图版与代码采用各自条款。",
+      "related": "https://computerhistory.org/press-releases/chm-makes-alexnet-source-code-available-to-the-public/"
+    },
+    {
+      "year": 2024,
+      "credit": "Open Source Initiative · 2024-10-28",
+      "source": "https://opensource.org/blog/the-open-source-initiative-announces-the-release-of-the-industrys-first-open-source-ai-definition",
+      "explanation": "OSI 在 All Things Open 2024 发布《开源 AI 定义》1.0，为 AI 系统的使用、研究、修改与分享明确条件。",
+      "asset": "2024.png",
+      "license": "OSI 网站文字内容标示 CC BY 4.0。裁切聚焦日期与标题，机构标识遵循 OSI 品牌准则。",
+      "related": "https://opensource.org/ai/open-source-ai-definition"
+    },
+    {
+      "year": 2025,
+      "credit": "DeepSeek · 2025-01-20",
+      "source": "https://deepseek.com/news/deepseek-r1/",
+      "explanation": "DeepSeek 正式发布 R1，并按 MIT 许可开放仓库代码及模型权重，支持修改、商用与蒸馏。",
+      "asset": "2025.png",
+      "license": "MIT 适用于 DeepSeek-R1 仓库代码与模型权重。截图为原发布记录。",
+      "related": "https://github.com/deepseek-ai/DeepSeek-R1/blob/main/LICENSE"
+    }
+  ]
+}

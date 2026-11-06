@@ -1,0 +1,7619 @@
+{
+  "timing": {
+    "finalReady": true,
+    "completeTimeline": true,
+    "audioSource": "[原工程本地路径]/大肥鱼_拉普兰德_全文_正文朗读版.wav",
+    "sourceSha256": "7d94c135b8f0b769a3d35da02bbcea583fa987bed9a5dadfa4e1623199c8e431",
+    "sourceManifest": "[原工程本地路径]/最终修补记录.json",
+    "duration": 2655.8094166666665,
+    "sampleRate": 24000,
+    "clips": [
+      {
+        "id": "intro1",
+        "title": "开头",
+        "section": "intro",
+        "actualOffset": 0,
+        "actualDuration": 67.6,
+        "sceneDuration": 67.4,
+        "segments": [
+          {
+            "audioStart": 0,
+            "audioEnd": 62.56,
+            "sceneStart": 0,
+            "sceneEnd": 62.56,
+            "sceneId": "intro1"
+          },
+          {
+            "audioStart": 62.56,
+            "audioEnd": 62.76,
+            "sceneStart": 62.56,
+            "sceneEnd": 62.56,
+            "sceneId": "intro1"
+          },
+          {
+            "audioStart": 62.76,
+            "audioEnd": 67.6,
+            "sceneStart": 62.56,
+            "sceneEnd": 67.4,
+            "sceneId": "intro1"
+          }
+        ],
+        "cuts": [],
+        "sourceStartSample": 0,
+        "sourceEndSample": 1622400
+      },
+      {
+        "id": "intro2",
+        "title": "机器人发展时间轴",
+        "section": "intro",
+        "actualOffset": 67.6,
+        "actualDuration": 186.1,
+        "sceneDuration": 185.7,
+        "segments": [
+          {
+            "audioStart": 0,
+            "audioEnd": 70.91999999999999,
+            "sceneStart": 0,
+            "sceneEnd": 70.92,
+            "sceneId": "intro2"
+          },
+          {
+            "audioStart": 70.91999999999999,
+            "audioEnd": 71.12,
+            "sceneStart": 70.92,
+            "sceneEnd": 70.92,
+            "sceneId": "intro2"
+          },
+          {
+            "audioStart": 71.12,
+            "audioEnd": 129.12,
+            "sceneStart": 70.92,
+            "sceneEnd": 128.92,
+            "sceneId": "intro2"
+          },
+          {
+            "audioStart": 129.12,
+            "audioEnd": 129.32,
+            "sceneStart": 128.92,
+            "sceneEnd": 128.92,
+            "sceneId": "intro2"
+          },
+          {
+            "audioStart": 129.32,
+            "audioEnd": 186.1,
+            "sceneStart": 128.92,
+            "sceneEnd": 185.7,
+            "sceneId": "intro2"
+          }
+        ],
+        "cuts": [],
+        "sourceStartSample": 1622400,
+        "sourceEndSample": 6088800
+      },
+      {
+        "id": "intro3",
+        "title": "引子收束",
+        "section": "intro",
+        "actualOffset": 253.7,
+        "actualDuration": 103.05645833333335,
+        "sceneDuration": 108.94,
+        "segments": [
+          {
+            "audioStart": 0,
+            "audioEnd": 5.139999999999986,
+            "sceneStart": 0,
+            "sceneEnd": 5.14,
+            "sceneId": "intro3"
+          },
+          {
+            "audioStart": 5.139999999999986,
+            "audioEnd": 5.339999999999975,
+            "sceneStart": 5.14,
+            "sceneEnd": 5.14,
+            "sceneId": "intro3"
+          },
+          {
+            "audioStart": 5.339999999999975,
+            "audioEnd": 62.54000000000002,
+            "sceneStart": 5.14,
+            "sceneEnd": 62.34,
+            "sceneId": "intro3"
+          },
+          {
+            "audioStart": 62.54000000000002,
+            "audioEnd": 62.74000000000001,
+            "sceneStart": 62.34,
+            "sceneEnd": 62.34,
+            "sceneId": "intro3"
+          },
+          {
+            "audioStart": 62.74000000000001,
+            "audioEnd": 71.63999999999999,
+            "sceneStart": 62.34,
+            "sceneEnd": 71.24,
+            "sceneId": "intro3"
+          },
+          {
+            "audioStart": 71.63999999999999,
+            "audioEnd": 71.98245833333334,
+            "sceneStart": 71.24,
+            "sceneEnd": 72.2,
+            "sceneId": "intro3"
+          },
+          {
+            "audioStart": 71.98245833333334,
+            "audioEnd": 77.42245833333334,
+            "sceneStart": 72.2,
+            "sceneEnd": 77.98,
+            "sceneId": "intro3"
+          },
+          {
+            "audioStart": 77.42245833333334,
+            "audioEnd": 77.92245833333334,
+            "sceneStart": 77.98,
+            "sceneEnd": 78.9,
+            "sceneId": "intro3"
+          },
+          {
+            "audioStart": 77.92245833333334,
+            "audioEnd": 80.66245833333335,
+            "sceneStart": 78.9,
+            "sceneEnd": 82.44,
+            "sceneId": "intro3"
+          },
+          {
+            "audioStart": 80.66245833333335,
+            "audioEnd": 82.68245833333333,
+            "sceneStart": 82.44,
+            "sceneEnd": 85.6,
+            "sceneId": "intro3"
+          },
+          {
+            "audioStart": 82.68245833333333,
+            "audioEnd": 85.64245833333331,
+            "sceneStart": 85.6,
+            "sceneEnd": 88.48,
+            "sceneId": "intro3"
+          },
+          {
+            "audioStart": 85.64245833333331,
+            "audioEnd": 87.50245833333332,
+            "sceneStart": 88.48,
+            "sceneEnd": 91.6,
+            "sceneId": "intro3"
+          },
+          {
+            "audioStart": 87.50245833333332,
+            "audioEnd": 89.10245833333335,
+            "sceneStart": 91.6,
+            "sceneEnd": 93.06,
+            "sceneId": "intro3"
+          },
+          {
+            "audioStart": 89.10245833333335,
+            "audioEnd": 89.92245833333334,
+            "sceneStart": 93.06,
+            "sceneEnd": 93.82,
+            "sceneId": "intro3"
+          },
+          {
+            "audioStart": 89.92245833333334,
+            "audioEnd": 93.04245833333334,
+            "sceneStart": 93.82,
+            "sceneEnd": 97.4,
+            "sceneId": "intro3"
+          },
+          {
+            "audioStart": 93.04245833333334,
+            "audioEnd": 95.60245833333335,
+            "sceneStart": 97.4,
+            "sceneEnd": 101.3,
+            "sceneId": "intro3"
+          },
+          {
+            "audioStart": 95.60245833333335,
+            "audioEnd": 98.16245833333335,
+            "sceneStart": 101.3,
+            "sceneEnd": 104.42,
+            "sceneId": "intro3"
+          },
+          {
+            "audioStart": 98.16245833333335,
+            "audioEnd": 102.88245833333332,
+            "sceneStart": 104.42,
+            "sceneEnd": 108.5,
+            "sceneId": "intro3"
+          },
+          {
+            "audioStart": 102.88245833333332,
+            "audioEnd": 102.94245833333332,
+            "sceneStart": 108.5,
+            "sceneEnd": 108.94,
+            "sceneId": "intro3"
+          },
+          {
+            "audioStart": 102.94245833333332,
+            "audioEnd": 103.05645833333335,
+            "sceneStart": 108.94,
+            "sceneEnd": 108.94,
+            "sceneId": "intro3"
+          }
+        ],
+        "cuts": [],
+        "sourceStartSample": 6088800,
+        "sourceEndSample": 8562155
+      },
+      {
+        "id": "p1c1",
+        "title": "从技术消费者到技术创造者",
+        "section": "part1",
+        "actualOffset": 356.75645833333334,
+        "actualDuration": 135.07366666666667,
+        "sceneDuration": 208.6,
+        "segments": [
+          {
+            "audioStart": 0,
+            "audioEnd": 4.8258889136432686,
+            "sceneStart": 7.2966249980361,
+            "sceneEnd": 13.77433333,
+            "sceneId": "p1c1"
+          },
+          {
+            "audioStart": 4.8258889136432686,
+            "audioEnd": 4.825889159493045,
+            "sceneStart": 13.77433333,
+            "sceneEnd": 14.038,
+            "sceneId": "p1c1"
+          },
+          {
+            "audioStart": 4.825889159493045,
+            "audioEnd": 8.982985888548058,
+            "sceneStart": 14.038,
+            "sceneEnd": 18.975,
+            "sceneId": "p1c1"
+          },
+          {
+            "audioStart": 8.982985888548058,
+            "audioEnd": 9.99618509132847,
+            "sceneStart": 18.975,
+            "sceneEnd": 20.36,
+            "sceneId": "p1c1"
+          },
+          {
+            "audioStart": 9.99618509132847,
+            "audioEnd": 10.472984716166309,
+            "sceneStart": 20.36,
+            "sceneEnd": 20.36,
+            "sceneId": "p1c1"
+          },
+          {
+            "audioStart": 10.472984716166309,
+            "audioEnd": 13.11028264105073,
+            "sceneStart": 20.36,
+            "sceneEnd": 23.438,
+            "sceneId": "p1c1"
+          },
+          {
+            "audioStart": 13.11028264105073,
+            "audioEnd": 16.015780354906326,
+            "sceneStart": 23.438,
+            "sceneEnd": 26.96,
+            "sceneId": "p1c1"
+          },
+          {
+            "audioStart": 16.015780354906326,
+            "audioEnd": 16.03068009733272,
+            "sceneStart": 26.96,
+            "sceneEnd": 27.0025,
+            "sceneId": "p1c1"
+          },
+          {
+            "audioStart": 16.03068009733272,
+            "audioEnd": 41.039999999999964,
+            "sceneStart": 27.0025,
+            "sceneEnd": 60.57208333000004,
+            "sceneId": "p1c1"
+          },
+          {
+            "audioStart": 41.039999999999964,
+            "audioEnd": 51.180624999999964,
+            "sceneStart": 60.57208333000004,
+            "sceneEnd": 70.71270833000003,
+            "sceneId": "p1c1"
+          },
+          {
+            "audioStart": 51.180624999999964,
+            "audioEnd": 51.26281599854519,
+            "sceneStart": 70.71270833000003,
+            "sceneEnd": 70.81495833,
+            "sceneId": "p1c1"
+          },
+          {
+            "audioStart": 51.26281599854519,
+            "audioEnd": 53.52959952810579,
+            "sceneStart": 70.81495833,
+            "sceneEnd": 74.68,
+            "sceneId": "p1c1"
+          },
+          {
+            "audioStart": 53.52959952810579,
+            "audioEnd": 53.96366445929823,
+            "sceneStart": 74.68,
+            "sceneEnd": 74.68,
+            "sceneId": "p1c1"
+          },
+          {
+            "audioStart": 53.96366445929823,
+            "audioEnd": 56.825277709381794,
+            "sceneStart": 74.68,
+            "sceneEnd": 78.42,
+            "sceneId": "p1c1"
+          },
+          {
+            "audioStart": 56.825277709381794,
+            "audioEnd": 62.00190392582516,
+            "sceneStart": 78.42,
+            "sceneEnd": 83.64,
+            "sceneId": "p1c1"
+          },
+          {
+            "audioStart": 62.00190392582516,
+            "audioEnd": 62.30062499999997,
+            "sceneStart": 83.64,
+            "sceneEnd": 83.64,
+            "sceneId": "p1c1"
+          },
+          {
+            "audioStart": 62.30062499999997,
+            "audioEnd": 73.03429166333325,
+            "sceneStart": 128.1937916666667,
+            "sceneEnd": 138.92745833,
+            "sceneId": "p1c1"
+          },
+          {
+            "audioStart": 73.03429166333325,
+            "audioEnd": 76.61429133333326,
+            "sceneStart": 138.92745833,
+            "sceneEnd": 142.68,
+            "sceneId": "p1c1"
+          },
+          {
+            "audioStart": 76.61429133333326,
+            "audioEnd": 81.55429133333325,
+            "sceneStart": 142.68,
+            "sceneEnd": 147.68,
+            "sceneId": "p1c1"
+          },
+          {
+            "audioStart": 81.55429133333325,
+            "audioEnd": 88.3142913333333,
+            "sceneStart": 147.68,
+            "sceneEnd": 154.8,
+            "sceneId": "p1c1"
+          },
+          {
+            "audioStart": 88.3142913333333,
+            "audioEnd": 96.27429133333334,
+            "sceneStart": 154.8,
+            "sceneEnd": 162.6,
+            "sceneId": "p1c1"
+          },
+          {
+            "audioStart": 96.27429133333334,
+            "audioEnd": 100.1342913333333,
+            "sceneStart": 162.6,
+            "sceneEnd": 166.2,
+            "sceneId": "p1c1"
+          },
+          {
+            "audioStart": 100.1342913333333,
+            "audioEnd": 100.15429166333331,
+            "sceneStart": 166.2,
+            "sceneEnd": 166.7625,
+            "sceneId": "p1c1"
+          },
+          {
+            "audioStart": 100.15429166333331,
+            "audioEnd": 126.35816666666665,
+            "sceneStart": 166.7625,
+            "sceneEnd": 192.96637500333335,
+            "sceneId": "p1c1"
+          },
+          {
+            "audioStart": 126.35816666666665,
+            "audioEnd": 134.7843342556718,
+            "sceneStart": 192.96637500333335,
+            "sceneEnd": 208.6,
+            "sceneId": "p1c1"
+          },
+          {
+            "audioStart": 134.7843342556718,
+            "audioEnd": 135.07366666666667,
+            "sceneStart": 208.6,
+            "sceneEnd": 208.6,
+            "sceneId": "p1c1"
+          }
+        ],
+        "cuts": [
+          {
+            "audio": 62.30062499999997,
+            "fromScene": 83.64,
+            "toScene": 128.1937916666667,
+            "fromSceneId": "p1c1",
+            "toSceneId": "p1c1",
+            "kind": "content-handoff"
+          }
+        ],
+        "sourceStartSample": 8562155,
+        "sourceEndSample": 11803923
+      },
+      {
+        "id": "p1c2",
+        "title": "从知识获取到实际劳动",
+        "section": "part1",
+        "actualOffset": 491.830125,
+        "actualDuration": 343.0609166666666,
+        "sceneDuration": 305.18,
+        "segments": [
+          {
+            "audioStart": 0,
+            "audioEnd": 2,
+            "sceneStart": 0,
+            "sceneEnd": 3.082059632371157,
+            "sceneId": "p1c2"
+          },
+          {
+            "audioStart": 2,
+            "audioEnd": 3.938041329999919,
+            "sceneStart": 3.082059632371157,
+            "sceneEnd": 5.12,
+            "sceneId": "p1c2"
+          },
+          {
+            "audioStart": 3.938041329999919,
+            "audioEnd": 6.958041330000015,
+            "sceneStart": 5.12,
+            "sceneEnd": 9.12,
+            "sceneId": "p1c2"
+          },
+          {
+            "audioStart": 6.958041330000015,
+            "audioEnd": 7.558041329999924,
+            "sceneStart": 9.12,
+            "sceneEnd": 9.12,
+            "sceneId": "p1c2"
+          },
+          {
+            "audioStart": 7.558041329999924,
+            "audioEnd": 10.778041329999951,
+            "sceneStart": 9.12,
+            "sceneEnd": 12.64,
+            "sceneId": "p1c2"
+          },
+          {
+            "audioStart": 10.778041329999951,
+            "audioEnd": 15.438041659999953,
+            "sceneStart": 12.64,
+            "sceneEnd": 17.7825,
+            "sceneId": "p1c2"
+          },
+          {
+            "audioStart": 15.438041659999953,
+            "audioEnd": 66.86258332999995,
+            "sceneStart": 17.7825,
+            "sceneEnd": 69.20704167,
+            "sceneId": "p1c2"
+          },
+          {
+            "audioStart": 66.86258332999995,
+            "audioEnd": 71.50258332999994,
+            "sceneStart": 69.20704167,
+            "sceneEnd": 74.36,
+            "sceneId": "p1c2"
+          },
+          {
+            "audioStart": 71.50258332999994,
+            "audioEnd": 75.26258332999993,
+            "sceneStart": 74.36,
+            "sceneEnd": 77.44,
+            "sceneId": "p1c2"
+          },
+          {
+            "audioStart": 75.26258332999993,
+            "audioEnd": 76.14258332999992,
+            "sceneStart": 77.44,
+            "sceneEnd": 77.44,
+            "sceneId": "p1c2"
+          },
+          {
+            "audioStart": 76.14258332999992,
+            "audioEnd": 79.08258332999986,
+            "sceneStart": 77.44,
+            "sceneEnd": 80.44,
+            "sceneId": "p1c2"
+          },
+          {
+            "audioStart": 79.08258332999986,
+            "audioEnd": 79.64258332999992,
+            "sceneStart": 80.44,
+            "sceneEnd": 80.44,
+            "sceneId": "p1c2"
+          },
+          {
+            "audioStart": 79.64258332999992,
+            "audioEnd": 81.86258332999995,
+            "sceneStart": 80.44,
+            "sceneEnd": 83.2,
+            "sceneId": "p1c2"
+          },
+          {
+            "audioStart": 81.86258332999995,
+            "audioEnd": 82.40258332999991,
+            "sceneStart": 83.2,
+            "sceneEnd": 83.2,
+            "sceneId": "p1c2"
+          },
+          {
+            "audioStart": 82.40258332999991,
+            "audioEnd": 85.70258332999987,
+            "sceneStart": 83.2,
+            "sceneEnd": 86.88,
+            "sceneId": "p1c2"
+          },
+          {
+            "audioStart": 85.70258332999987,
+            "audioEnd": 86.34258332999985,
+            "sceneStart": 86.88,
+            "sceneEnd": 86.88,
+            "sceneId": "p1c2"
+          },
+          {
+            "audioStart": 86.34258332999985,
+            "audioEnd": 88.32258332999987,
+            "sceneStart": 86.88,
+            "sceneEnd": 88.96,
+            "sceneId": "p1c2"
+          },
+          {
+            "audioStart": 88.32258332999987,
+            "audioEnd": 93.34258332999985,
+            "sceneStart": 88.96,
+            "sceneEnd": 94.16,
+            "sceneId": "p1c2"
+          },
+          {
+            "audioStart": 93.34258332999985,
+            "audioEnd": 93.96258332999986,
+            "sceneStart": 94.16,
+            "sceneEnd": 94.16,
+            "sceneId": "p1c2"
+          },
+          {
+            "audioStart": 93.96258332999986,
+            "audioEnd": 95.94258332999988,
+            "sceneStart": 94.16,
+            "sceneEnd": 96,
+            "sceneId": "p1c2"
+          },
+          {
+            "audioStart": 95.94258332999988,
+            "audioEnd": 100.70258332999987,
+            "sceneStart": 96,
+            "sceneEnd": 100.2475,
+            "sceneId": "p1c2"
+          },
+          {
+            "audioStart": 100.70258332999987,
+            "audioEnd": 139.26754165999972,
+            "sceneStart": 100.2475,
+            "sceneEnd": 138.81245833,
+            "sceneId": "p1c2"
+          },
+          {
+            "audioStart": 139.26754165999972,
+            "audioEnd": 143.04754132999977,
+            "sceneStart": 138.81245833,
+            "sceneEnd": 142.56,
+            "sceneId": "p1c2"
+          },
+          {
+            "audioStart": 143.04754132999977,
+            "audioEnd": 143.57754132999975,
+            "sceneStart": 142.56,
+            "sceneEnd": 142.56,
+            "sceneId": "p1c2"
+          },
+          {
+            "audioStart": 143.57754132999975,
+            "audioEnd": 146.92754132999988,
+            "sceneStart": 142.56,
+            "sceneEnd": 146.213,
+            "sceneId": "p1c2"
+          },
+          {
+            "audioStart": 146.92754132999988,
+            "audioEnd": 152.0675416599999,
+            "sceneStart": 146.213,
+            "sceneEnd": 151.195,
+            "sceneId": "p1c2"
+          },
+          {
+            "audioStart": 152.0675416599999,
+            "audioEnd": 165.7948333333332,
+            "sceneStart": 151.195,
+            "sceneEnd": 164.95156713624493,
+            "sceneId": "p1c2"
+          },
+          {
+            "audioStart": 165.7948333333332,
+            "audioEnd": 166.1832083333332,
+            "sceneStart": 83.64,
+            "sceneEnd": 83.64,
+            "sceneId": "p1c1"
+          },
+          {
+            "audioStart": 166.1832083333332,
+            "audioEnd": 171.10320833333316,
+            "sceneStart": 83.64,
+            "sceneEnd": 88.76,
+            "sceneId": "p1c1"
+          },
+          {
+            "audioStart": 171.10320833333316,
+            "audioEnd": 174.5432083333332,
+            "sceneStart": 88.76,
+            "sceneEnd": 92.0975,
+            "sceneId": "p1c1"
+          },
+          {
+            "audioStart": 174.5432083333332,
+            "audioEnd": 198.5987916666666,
+            "sceneStart": 92.0975,
+            "sceneEnd": 116.15308333333337,
+            "sceneId": "p1c1"
+          },
+          {
+            "audioStart": 198.5987916666666,
+            "audioEnd": 217.07879166666652,
+            "sceneStart": 164.95156713624493,
+            "sceneEnd": 180.20724119417727,
+            "sceneId": "p1c2"
+          },
+          {
+            "audioStart": 217.07879166666652,
+            "audioEnd": 236.19079132999974,
+            "sceneStart": 180.20724119417727,
+            "sceneEnd": 199.36,
+            "sceneId": "p1c2"
+          },
+          {
+            "audioStart": 236.19079132999974,
+            "audioEnd": 239.61079132999993,
+            "sceneStart": 199.36,
+            "sceneEnd": 202.88,
+            "sceneId": "p1c2"
+          },
+          {
+            "audioStart": 239.61079132999993,
+            "audioEnd": 244.0307913299999,
+            "sceneStart": 202.88,
+            "sceneEnd": 207.82,
+            "sceneId": "p1c2"
+          },
+          {
+            "audioStart": 244.0307913299999,
+            "audioEnd": 249.79079132999988,
+            "sceneStart": 207.82,
+            "sceneEnd": 214,
+            "sceneId": "p1c2"
+          },
+          {
+            "audioStart": 249.79079132999988,
+            "audioEnd": 250.47079132999983,
+            "sceneStart": 214,
+            "sceneEnd": 214.08,
+            "sceneId": "p1c2"
+          },
+          {
+            "audioStart": 250.47079132999983,
+            "audioEnd": 255.21079132999984,
+            "sceneStart": 214.08,
+            "sceneEnd": 218.88,
+            "sceneId": "p1c2"
+          },
+          {
+            "audioStart": 255.21079132999984,
+            "audioEnd": 258.05079132999987,
+            "sceneStart": 218.88,
+            "sceneEnd": 221.6,
+            "sceneId": "p1c2"
+          },
+          {
+            "audioStart": 258.05079132999987,
+            "audioEnd": 260.6707916599999,
+            "sceneStart": 221.6,
+            "sceneEnd": 224.0725,
+            "sceneId": "p1c2"
+          },
+          {
+            "audioStart": 260.6707916599999,
+            "audioEnd": 260.8083749999999,
+            "sceneStart": 224.0725,
+            "sceneEnd": 224.21008333999998,
+            "sceneId": "p1c2"
+          },
+          {
+            "audioStart": 260.8083749999999,
+            "audioEnd": 268.8083749999999,
+            "sceneStart": 224.21008333999998,
+            "sceneEnd": 231.2457083400001,
+            "sceneId": "p1c2"
+          },
+          {
+            "audioStart": 268.8083749999999,
+            "audioEnd": 311.1876666599997,
+            "sceneStart": 231.2457083400001,
+            "sceneEnd": 273.625,
+            "sceneId": "p1c2"
+          },
+          {
+            "audioStart": 311.1876666599997,
+            "audioEnd": 312.0076663299997,
+            "sceneStart": 273.625,
+            "sceneEnd": 274.88,
+            "sceneId": "p1c2"
+          },
+          {
+            "audioStart": 312.0076663299997,
+            "audioEnd": 312.58766632999976,
+            "sceneStart": 274.88,
+            "sceneEnd": 274.88,
+            "sceneId": "p1c2"
+          },
+          {
+            "audioStart": 312.58766632999976,
+            "audioEnd": 319.48766632999974,
+            "sceneStart": 274.88,
+            "sceneEnd": 281.48,
+            "sceneId": "p1c2"
+          },
+          {
+            "audioStart": 319.48766632999974,
+            "audioEnd": 319.50766665999987,
+            "sceneStart": 281.48,
+            "sceneEnd": 281.6625,
+            "sceneId": "p1c2"
+          },
+          {
+            "audioStart": 319.50766665999987,
+            "audioEnd": 343.0251666599997,
+            "sceneStart": 281.6625,
+            "sceneEnd": 305.18,
+            "sceneId": "p1c2"
+          },
+          {
+            "audioStart": 343.0251666699998,
+            "audioEnd": 343.0609166666665,
+            "sceneStart": 305.18,
+            "sceneEnd": 305.18,
+            "sceneId": "p1c2"
+          }
+        ],
+        "cuts": [
+          {
+            "audio": 165.7948333333332,
+            "fromScene": 164.95156713624493,
+            "toScene": 83.64,
+            "fromSceneId": "p1c2",
+            "toSceneId": "p1c1",
+            "kind": "content-handoff"
+          },
+          {
+            "audio": 198.5987916666666,
+            "fromScene": 116.15308333333337,
+            "toScene": 164.95156713624493,
+            "fromSceneId": "p1c1",
+            "toSceneId": "p1c2",
+            "kind": "content-handoff"
+          }
+        ],
+        "sourceStartSample": 11803923,
+        "sourceEndSample": 20037385
+      },
+      {
+        "id": "p1c3",
+        "title": "从创造能力到思想觉醒",
+        "section": "part1",
+        "actualOffset": 834.8910416666666,
+        "actualDuration": 239.9520416666668,
+        "sceneDuration": 238.08,
+        "segments": [
+          {
+            "audioStart": 0,
+            "audioEnd": 35.369625003333226,
+            "sceneStart": 3.0603749966667277,
+            "sceneEnd": 38.43,
+            "sceneId": "p1c3"
+          },
+          {
+            "audioStart": 35.369625003333226,
+            "audioEnd": 40.66962500333318,
+            "sceneStart": 38.43,
+            "sceneEnd": 43.7,
+            "sceneId": "p1c3"
+          },
+          {
+            "audioStart": 40.66962500333318,
+            "audioEnd": 41.42962500333317,
+            "sceneStart": 43.7,
+            "sceneEnd": 44.26,
+            "sceneId": "p1c3"
+          },
+          {
+            "audioStart": 41.42962500333317,
+            "audioEnd": 44.16962500333318,
+            "sceneStart": 44.26,
+            "sceneEnd": 47.044,
+            "sceneId": "p1c3"
+          },
+          {
+            "audioStart": 44.16962500333318,
+            "audioEnd": 44.6496250033332,
+            "sceneStart": 47.044,
+            "sceneEnd": 47.044,
+            "sceneId": "p1c3"
+          },
+          {
+            "audioStart": 44.6496250033332,
+            "audioEnd": 50.729625003333126,
+            "sceneStart": 47.044,
+            "sceneEnd": 53.065,
+            "sceneId": "p1c3"
+          },
+          {
+            "audioStart": 50.729625003333126,
+            "audioEnd": 56.849625003333244,
+            "sceneStart": 53.065,
+            "sceneEnd": 58.86,
+            "sceneId": "p1c3"
+          },
+          {
+            "audioStart": 56.849625003333244,
+            "audioEnd": 57.40962500333319,
+            "sceneStart": 58.86,
+            "sceneEnd": 58.86,
+            "sceneId": "p1c3"
+          },
+          {
+            "audioStart": 57.40962500333319,
+            "audioEnd": 62.229625003333126,
+            "sceneStart": 58.86,
+            "sceneEnd": 63.56,
+            "sceneId": "p1c3"
+          },
+          {
+            "audioStart": 62.229625003333126,
+            "audioEnd": 62.709625003333144,
+            "sceneStart": 63.56,
+            "sceneEnd": 63.56,
+            "sceneId": "p1c3"
+          },
+          {
+            "audioStart": 62.709625003333144,
+            "audioEnd": 66.60962500333324,
+            "sceneStart": 63.56,
+            "sceneEnd": 67.364,
+            "sceneId": "p1c3"
+          },
+          {
+            "audioStart": 66.60962500333324,
+            "audioEnd": 67.08962500333325,
+            "sceneStart": 67.364,
+            "sceneEnd": 67.364,
+            "sceneId": "p1c3"
+          },
+          {
+            "audioStart": 67.08962500333325,
+            "audioEnd": 70.1496250033332,
+            "sceneStart": 67.364,
+            "sceneEnd": 70.68,
+            "sceneId": "p1c3"
+          },
+          {
+            "audioStart": 70.1496250033332,
+            "audioEnd": 70.5096250033331,
+            "sceneStart": 70.68,
+            "sceneEnd": 70.68,
+            "sceneId": "p1c3"
+          },
+          {
+            "audioStart": 70.5096250033331,
+            "audioEnd": 73.5096250033331,
+            "sceneStart": 70.68,
+            "sceneEnd": 73.56,
+            "sceneId": "p1c3"
+          },
+          {
+            "audioStart": 73.5096250033331,
+            "audioEnd": 73.52962500333331,
+            "sceneStart": 73.56,
+            "sceneEnd": 73.5925,
+            "sceneId": "p1c3"
+          },
+          {
+            "audioStart": 73.52962500333331,
+            "audioEnd": 106.07708333333323,
+            "sceneStart": 73.5925,
+            "sceneEnd": 106.13995833,
+            "sceneId": "p1c3"
+          },
+          {
+            "audioStart": 106.07708333333323,
+            "audioEnd": 108.47708300333329,
+            "sceneStart": 106.13995833,
+            "sceneEnd": 108.116,
+            "sceneId": "p1c3"
+          },
+          {
+            "audioStart": 108.47708300333329,
+            "audioEnd": 113.7170830033333,
+            "sceneStart": 108.116,
+            "sceneEnd": 113.56,
+            "sceneId": "p1c3"
+          },
+          {
+            "audioStart": 113.7170830033333,
+            "audioEnd": 117.23708300333328,
+            "sceneStart": 113.56,
+            "sceneEnd": 117.071,
+            "sceneId": "p1c3"
+          },
+          {
+            "audioStart": 117.23708300333328,
+            "audioEnd": 122.5970830033333,
+            "sceneStart": 117.071,
+            "sceneEnd": 122.615,
+            "sceneId": "p1c3"
+          },
+          {
+            "audioStart": 122.5970830033333,
+            "audioEnd": 124.69708300333332,
+            "sceneStart": 122.615,
+            "sceneEnd": 124.7,
+            "sceneId": "p1c3"
+          },
+          {
+            "audioStart": 124.69708300333332,
+            "audioEnd": 124.79708333333326,
+            "sceneStart": 124.7,
+            "sceneEnd": 125.38,
+            "sceneId": "p1c3"
+          },
+          {
+            "audioStart": 124.79708333333326,
+            "audioEnd": 166.2559166666665,
+            "sceneStart": 125.38,
+            "sceneEnd": 166.83883332465257,
+            "sceneId": "p1c3"
+          },
+          {
+            "audioStart": 166.2559166666665,
+            "audioEnd": 172.92604018384384,
+            "sceneStart": 166.83883332465257,
+            "sceneEnd": 173.13995833,
+            "sceneId": "p1c3"
+          },
+          {
+            "audioStart": 172.92604018384384,
+            "audioEnd": 172.9260405331687,
+            "sceneStart": 173.13995833,
+            "sceneEnd": 173.26,
+            "sceneId": "p1c3"
+          },
+          {
+            "audioStart": 172.9260405331687,
+            "audioEnd": 175.678298443671,
+            "sceneStart": 173.26,
+            "sceneEnd": 176.06,
+            "sceneId": "p1c3"
+          },
+          {
+            "audioStart": 175.678298443671,
+            "audioEnd": 179.8913701682087,
+            "sceneStart": 176.06,
+            "sceneEnd": 179.46,
+            "sceneId": "p1c3"
+          },
+          {
+            "audioStart": 179.8913701682087,
+            "audioEnd": 182.91885386976094,
+            "sceneStart": 179.46,
+            "sceneEnd": 182.18,
+            "sceneId": "p1c3"
+          },
+          {
+            "audioStart": 182.91885386976094,
+            "audioEnd": 183.6810175988229,
+            "sceneStart": 182.18,
+            "sceneEnd": 182.18,
+            "sceneId": "p1c3"
+          },
+          {
+            "audioStart": 183.6810175988229,
+            "audioEnd": 187.99994539684155,
+            "sceneStart": 182.18,
+            "sceneEnd": 186.33,
+            "sceneId": "p1c3"
+          },
+          {
+            "audioStart": 187.99994539684155,
+            "audioEnd": 192.17067469198707,
+            "sceneStart": 186.33,
+            "sceneEnd": 189.895,
+            "sceneId": "p1c3"
+          },
+          {
+            "audioStart": 192.17067469198707,
+            "audioEnd": 195.51572661398188,
+            "sceneStart": 189.895,
+            "sceneEnd": 193.46,
+            "sceneId": "p1c3"
+          },
+          {
+            "audioStart": 195.51572661398188,
+            "audioEnd": 195.5368974793529,
+            "sceneStart": 193.46,
+            "sceneEnd": 193.82,
+            "sceneId": "p1c3"
+          },
+          {
+            "audioStart": 195.5368974793529,
+            "audioEnd": 205.05591666666658,
+            "sceneStart": 193.82,
+            "sceneEnd": 202.8124166600001,
+            "sceneId": "p1c3"
+          },
+          {
+            "audioStart": 205.05591666666658,
+            "audioEnd": 239.9520416666668,
+            "sceneStart": 202.8124166600001,
+            "sceneEnd": 237.70854166000012,
+            "sceneId": "p1c3"
+          }
+        ],
+        "cuts": [],
+        "sourceStartSample": 20037385,
+        "sourceEndSample": 25796234
+      },
+      {
+        "id": "p2c1",
+        "title": "兴趣与技术启蒙",
+        "section": "part2",
+        "actualOffset": 1074.8430833333334,
+        "actualDuration": 202.18291666666664,
+        "sceneDuration": 205.7,
+        "segments": [
+          {
+            "audioStart": 0,
+            "audioEnd": 3,
+            "sceneStart": 0,
+            "sceneEnd": 3.964499999999779,
+            "sceneId": "p2c1"
+          },
+          {
+            "audioStart": 3,
+            "audioEnd": 12.21045833333369,
+            "sceneStart": 3.964499999999779,
+            "sceneEnd": 13.174958333333382,
+            "sceneId": "p2c1"
+          },
+          {
+            "audioStart": 12.21045833333369,
+            "audioEnd": 15.550115953260729,
+            "sceneStart": 13.174958333333382,
+            "sceneEnd": 17.140000000000004,
+            "sceneId": "p2c1"
+          },
+          {
+            "audioStart": 15.550115953260729,
+            "audioEnd": 15.718571061715693,
+            "sceneStart": 17.140000000000008,
+            "sceneEnd": 17.140000000000008,
+            "sceneId": "p2c1"
+          },
+          {
+            "audioStart": 15.718571061715693,
+            "audioEnd": 22.450458333333472,
+            "sceneStart": 17.14,
+            "sceneEnd": 25.132499999999844,
+            "sceneId": "p2c1"
+          },
+          {
+            "audioStart": 22.450458333333472,
+            "audioEnd": 75.31545833333371,
+            "sceneStart": 25.132499999999844,
+            "sceneEnd": 77.99749999999989,
+            "sceneId": "p2c1"
+          },
+          {
+            "audioStart": 75.31545833333371,
+            "audioEnd": 82.97211933299354,
+            "sceneStart": 77.99749999999989,
+            "sceneEnd": 86.18,
+            "sceneId": "p2c1"
+          },
+          {
+            "audioStart": 82.97211933299354,
+            "audioEnd": 83.15926656182751,
+            "sceneStart": 86.18,
+            "sceneEnd": 86.18,
+            "sceneId": "p2c1"
+          },
+          {
+            "audioStart": 83.15926656182751,
+            "audioEnd": 89.07545833333347,
+            "sceneStart": 86.18,
+            "sceneEnd": 92.5025,
+            "sceneId": "p2c1"
+          },
+          {
+            "audioStart": 89.07545833333347,
+            "audioEnd": 144.917916666667,
+            "sceneStart": 92.5025,
+            "sceneEnd": 148.34495833333324,
+            "sceneId": "p2c1"
+          },
+          {
+            "audioStart": 144.917916666667,
+            "audioEnd": 154.58195271250702,
+            "sceneStart": 148.34495833333324,
+            "sceneEnd": 158.10000000000002,
+            "sceneId": "p2c1"
+          },
+          {
+            "audioStart": 154.58195271250702,
+            "audioEnd": 154.7800868953443,
+            "sceneStart": 158.10000000000002,
+            "sceneEnd": 158.10000000000002,
+            "sceneId": "p2c1"
+          },
+          {
+            "audioStart": 154.7800868953443,
+            "audioEnd": 175.71791666666718,
+            "sceneStart": 158.1,
+            "sceneEnd": 179.2349999999998,
+            "sceneId": "p2c1"
+          },
+          {
+            "audioStart": 175.71791666666718,
+            "audioEnd": 202.18291666666664,
+            "sceneStart": 179.2349999999998,
+            "sceneEnd": 205.6999999999993,
+            "sceneId": "p2c1"
+          }
+        ],
+        "cuts": [],
+        "sourceStartSample": 25796234,
+        "sourceEndSample": 30648624
+      },
+      {
+        "id": "p2c2",
+        "title": "插件与创造",
+        "section": "part2",
+        "actualOffset": 1277.026,
+        "actualDuration": 195.62608333333333,
+        "sceneDuration": 194.96,
+        "segments": [
+          {
+            "audioStart": 6.821210263296962e-13,
+            "audioEnd": 13.502500000000282,
+            "sceneStart": 0,
+            "sceneEnd": 13.502499999999749,
+            "sceneId": "p2c2"
+          },
+          {
+            "audioStart": 13.502500000000282,
+            "audioEnd": 16.56068050018189,
+            "sceneStart": 13.50249999999975,
+            "sceneEnd": 16.4,
+            "sceneId": "p2c2"
+          },
+          {
+            "audioStart": 16.56068050018189,
+            "audioEnd": 16.771771475172727,
+            "sceneStart": 16.4,
+            "sceneEnd": 16.4,
+            "sceneId": "p2c2"
+          },
+          {
+            "audioStart": 16.771771475172727,
+            "audioEnd": 35.34250000000043,
+            "sceneStart": 16.4,
+            "sceneEnd": 33.994999999999784,
+            "sceneId": "p2c2"
+          },
+          {
+            "audioStart": 35.34250000000043,
+            "audioEnd": 82.09245833333375,
+            "sceneStart": 33.994999999999784,
+            "sceneEnd": 80.74495833333307,
+            "sceneId": "p2c2"
+          },
+          {
+            "audioStart": 82.09245833333375,
+            "audioEnd": 86.43051524388079,
+            "sceneStart": 80.74495833333307,
+            "sceneEnd": 85.84,
+            "sceneId": "p2c2"
+          },
+          {
+            "audioStart": 86.43051524388079,
+            "audioEnd": 86.60080067800868,
+            "sceneStart": 85.84,
+            "sceneEnd": 85.84,
+            "sceneId": "p2c2"
+          },
+          {
+            "audioStart": 86.60080067800868,
+            "audioEnd": 94.97245833333386,
+            "sceneStart": 85.84,
+            "sceneEnd": 95.67249999999977,
+            "sceneId": "p2c2"
+          },
+          {
+            "audioStart": 94.97245833333386,
+            "audioEnd": 142.84745833333386,
+            "sceneStart": 95.67249999999977,
+            "sceneEnd": 143.54749999999984,
+            "sceneId": "p2c2"
+          },
+          {
+            "audioStart": 142.84745833333386,
+            "audioEnd": 150.9844884085221,
+            "sceneStart": 143.54749999999984,
+            "sceneEnd": 150.96,
+            "sceneId": "p2c2"
+          },
+          {
+            "audioStart": 150.9844884085221,
+            "audioEnd": 151.20403728070255,
+            "sceneStart": 150.96,
+            "sceneEnd": 150.96,
+            "sceneId": "p2c2"
+          },
+          {
+            "audioStart": 151.20403728070255,
+            "audioEnd": 160.36745833333384,
+            "sceneStart": 150.96,
+            "sceneEnd": 159.30749999999964,
+            "sceneId": "p2c2"
+          },
+          {
+            "audioStart": 160.36745833333384,
+            "audioEnd": 195.62608333333333,
+            "sceneStart": 159.30749999999964,
+            "sceneEnd": 194.56612499999935,
+            "sceneId": "p2c2"
+          }
+        ],
+        "cuts": [],
+        "sourceStartSample": 30648624,
+        "sourceEndSample": 35343650
+      },
+      {
+        "id": "p2c3",
+        "title": "知识与协作",
+        "section": "part2",
+        "actualOffset": 1472.6520833333334,
+        "actualDuration": 177.31804166666666,
+        "sceneDuration": 182.23,
+        "segments": [
+          {
+            "audioStart": 0,
+            "audioEnd": 2,
+            "sceneStart": 0,
+            "sceneEnd": 4.1364583333329445,
+            "sceneId": "p2c3"
+          },
+          {
+            "audioStart": 2,
+            "audioEnd": 19.363541666666833,
+            "sceneStart": 4.1364583333329445,
+            "sceneEnd": 21.499999999999794,
+            "sceneId": "p2c3"
+          },
+          {
+            "audioStart": 19.363541666666833,
+            "audioEnd": 28.646629637941714,
+            "sceneStart": 21.4999999999998,
+            "sceneEnd": 31.040000000000006,
+            "sceneId": "p2c3"
+          },
+          {
+            "audioStart": 28.646629637941714,
+            "audioEnd": 28.8412436415324,
+            "sceneStart": 31.040000000000006,
+            "sceneEnd": 31.040000000000006,
+            "sceneId": "p2c3"
+          },
+          {
+            "audioStart": 28.8412436415324,
+            "audioEnd": 41.0435416666669,
+            "sceneStart": 31.04,
+            "sceneEnd": 43.57999999999972,
+            "sceneId": "p2c3"
+          },
+          {
+            "audioStart": 41.0435416666669,
+            "audioEnd": 94.6835000000001,
+            "sceneStart": 43.57999999999972,
+            "sceneEnd": 97.21995833333307,
+            "sceneId": "p2c3"
+          },
+          {
+            "audioStart": 94.6835000000001,
+            "audioEnd": 101.18696090012122,
+            "sceneStart": 97.21995833333307,
+            "sceneEnd": 103.68,
+            "sceneId": "p2c3"
+          },
+          {
+            "audioStart": 101.18696090012122,
+            "audioEnd": 101.38830514016445,
+            "sceneStart": 103.68,
+            "sceneEnd": 103.68,
+            "sceneId": "p2c3"
+          },
+          {
+            "audioStart": 101.38830514016445,
+            "audioEnd": 114.52350000000024,
+            "sceneStart": 103.68,
+            "sceneEnd": 116.72749999999989,
+            "sceneId": "p2c3"
+          },
+          {
+            "audioStart": 114.52350000000024,
+            "audioEnd": 153.2759583333334,
+            "sceneStart": 116.72749999999989,
+            "sceneEnd": 155.479958333333,
+            "sceneId": "p2c3"
+          },
+          {
+            "audioStart": 153.2759583333334,
+            "audioEnd": 159.87752277783306,
+            "sceneStart": 155.479958333333,
+            "sceneEnd": 162.88,
+            "sceneId": "p2c3"
+          },
+          {
+            "audioStart": 159.87752277783306,
+            "audioEnd": 160.0559424338801,
+            "sceneStart": 162.88,
+            "sceneEnd": 162.88,
+            "sceneId": "p2c3"
+          },
+          {
+            "audioStart": 160.0559424338801,
+            "audioEnd": 177.31804166666666,
+            "sceneStart": 162.88,
+            "sceneEnd": 182.2299972091001,
+            "sceneId": "p2c3"
+          }
+        ],
+        "cuts": [],
+        "sourceStartSample": 35343650,
+        "sourceEndSample": 39599283
+      },
+      {
+        "id": "p2c4",
+        "title": "共同需要与成果",
+        "section": "part2",
+        "actualOffset": 1649.970125,
+        "actualDuration": 286.20112500000005,
+        "sceneDuration": 289.43,
+        "segments": [
+          {
+            "audioStart": 0,
+            "audioEnd": 2.4897569801396457e-06,
+            "sceneStart": 0,
+            "sceneEnd": 0,
+            "sceneId": "p2c4"
+          },
+          {
+            "audioStart": 2.4897569801396457e-06,
+            "audioEnd": 0.03791666666688798,
+            "sceneStart": 0,
+            "sceneEnd": 0.04249999999979081,
+            "sceneId": "p2c4"
+          },
+          {
+            "audioStart": 0.03791666666688798,
+            "audioEnd": 49.855416666667,
+            "sceneStart": 0.04249999999979081,
+            "sceneEnd": 49.85999999999989,
+            "sceneId": "p2c4"
+          },
+          {
+            "audioStart": 49.855416666667,
+            "audioEnd": 55.54637429268746,
+            "sceneStart": 49.85999999999989,
+            "sceneEnd": 56.49,
+            "sceneId": "p2c4"
+          },
+          {
+            "audioStart": 55.54637429268746,
+            "audioEnd": 55.71804722258253,
+            "sceneStart": 56.49,
+            "sceneEnd": 56.49,
+            "sceneId": "p2c4"
+          },
+          {
+            "audioStart": 55.71804722258253,
+            "audioEnd": 66.41541666666694,
+            "sceneStart": 56.49,
+            "sceneEnd": 68.95249999999984,
+            "sceneId": "p2c4"
+          },
+          {
+            "audioStart": 66.41541666666694,
+            "audioEnd": 117.77791666666712,
+            "sceneStart": 68.95249999999984,
+            "sceneEnd": 120.31499999999973,
+            "sceneId": "p2c4"
+          },
+          {
+            "audioStart": 117.77791666666712,
+            "audioEnd": 130.41910039046502,
+            "sceneStart": 120.31499999999973,
+            "sceneEnd": 133.13,
+            "sceneId": "p2c4"
+          },
+          {
+            "audioStart": 130.41910039046502,
+            "audioEnd": 130.61638769009483,
+            "sceneStart": 133.13,
+            "sceneEnd": 133.13,
+            "sceneId": "p2c4"
+          },
+          {
+            "audioStart": 130.61638769009483,
+            "audioEnd": 139.77791666666712,
+            "sceneStart": 133.13,
+            "sceneEnd": 142.4174999999999,
+            "sceneId": "p2c4"
+          },
+          {
+            "audioStart": 139.77791666666712,
+            "audioEnd": 186.4903750000003,
+            "sceneStart": 142.4174999999999,
+            "sceneEnd": 189.12995833333312,
+            "sceneId": "p2c4"
+          },
+          {
+            "audioStart": 186.4903750000003,
+            "audioEnd": 201.262592651452,
+            "sceneStart": 189.12995833333312,
+            "sceneEnd": 204.41,
+            "sceneId": "p2c4"
+          },
+          {
+            "audioStart": 201.262592651452,
+            "audioEnd": 201.45594575838322,
+            "sceneStart": 204.41,
+            "sceneEnd": 204.41,
+            "sceneId": "p2c4"
+          },
+          {
+            "audioStart": 201.45594575838322,
+            "audioEnd": 207.69037500000036,
+            "sceneStart": 204.41,
+            "sceneEnd": 210.8587499999998,
+            "sceneId": "p2c4"
+          },
+          {
+            "audioStart": 207.69037500000036,
+            "audioEnd": 261.55408333333366,
+            "sceneStart": 210.8587499999998,
+            "sceneEnd": 264.72245833333307,
+            "sceneId": "p2c4"
+          },
+          {
+            "audioStart": 261.55408333333366,
+            "audioEnd": 272.27120595651604,
+            "sceneStart": 264.72245833333307,
+            "sceneEnd": 275.13,
+            "sceneId": "p2c4"
+          },
+          {
+            "audioStart": 272.27120595651604,
+            "audioEnd": 272.4771551223505,
+            "sceneStart": 275.13,
+            "sceneEnd": 275.13,
+            "sceneId": "p2c4"
+          },
+          {
+            "audioStart": 272.4771551223505,
+            "audioEnd": 279.55408333333366,
+            "sceneStart": 275.13,
+            "sceneEnd": 282.0024999999997,
+            "sceneId": "p2c4"
+          },
+          {
+            "audioStart": 279.55408333333366,
+            "audioEnd": 286.20112500000005,
+            "sceneStart": 282.0024999999997,
+            "sceneEnd": 288.64954166666615,
+            "sceneId": "p2c4"
+          }
+        ],
+        "cuts": [],
+        "sourceStartSample": 39599283,
+        "sourceEndSample": 46468110
+      },
+      {
+        "id": "p3c1",
+        "title": "如果失去大肥鱼",
+        "section": "part3",
+        "actualOffset": 1936.17125,
+        "actualDuration": 69.35208333333321,
+        "sceneDuration": 69.35208333333321,
+        "segments": [
+          {
+            "audioStart": 0,
+            "audioEnd": 69.35208333333321,
+            "sceneStart": 0,
+            "sceneEnd": 69.35208333333321,
+            "sceneId": "p3c1"
+          }
+        ],
+        "cuts": [],
+        "sourceStartSample": 46468110,
+        "sourceEndSample": 48132560
+      },
+      {
+        "id": "p3c2",
+        "title": "被切断的接口与机会",
+        "section": "part3",
+        "actualOffset": 2005.5233333333333,
+        "actualDuration": 260.6115000000002,
+        "sceneDuration": 260.6115000000002,
+        "segments": [
+          {
+            "audioStart": 0,
+            "audioEnd": 260.6115000000002,
+            "sceneStart": 0,
+            "sceneEnd": 260.6115000000002,
+            "sceneId": "p3c2"
+          }
+        ],
+        "cuts": [],
+        "sourceStartSample": 48132560,
+        "sourceEndSample": 54387236
+      },
+      {
+        "id": "p3c3",
+        "title": "思想与协作的损失",
+        "section": "part3",
+        "actualOffset": 2266.1348333333335,
+        "actualDuration": 185.09270833333312,
+        "sceneDuration": 185.09270833333312,
+        "segments": [
+          {
+            "audioStart": 0,
+            "audioEnd": 185.09270833333312,
+            "sceneStart": 0,
+            "sceneEnd": 185.09270833333312,
+            "sceneId": "p3c3"
+          }
+        ],
+        "cuts": [],
+        "sourceStartSample": 54387236,
+        "sourceEndSample": 58829461
+      },
+      {
+        "id": "outro",
+        "title": "我们不能失去大肥鱼",
+        "section": "outro",
+        "actualOffset": 2451.2275416666666,
+        "actualDuration": 204.58187499999985,
+        "sceneDuration": 204.58187499999985,
+        "segments": [
+          {
+            "audioStart": 0,
+            "audioEnd": 204.58187499999985,
+            "sceneStart": 0,
+            "sceneEnd": 204.58187499999985,
+            "sceneId": "outro"
+          }
+        ],
+        "cuts": [],
+        "sourceStartSample": 58829461,
+        "sourceEndSample": 63739426
+      }
+    ],
+    "mapping": "Each segment runs forward within its original source scene. Cross-scene/reordered paragraphs are explicit cuts, never negative-rate interpolation."
+  },
+  "anchors": [
+    {
+      "new": 0,
+      "old": 0,
+      "reason": "master_start",
+      "locked": true
+    },
+    {
+      "old": 5,
+      "new": 4.176229508196721,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 6,
+      "new": 4.676229508196721,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 11.6,
+      "new": 10.819672131147541,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 16,
+      "new": 15,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 21,
+      "new": 20.800000000000004,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 26,
+      "new": 25.724137931034484,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 31.16,
+      "new": 31.439999999999998,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 31.8,
+      "new": 31.759999999999998,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 34.24,
+      "new": 35.590005000000005,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 35.4,
+      "new": 36.170005,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 40.24,
+      "new": 41.06999999999999,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 40.6,
+      "new": 41.25,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 44.6,
+      "new": 45.989999999999995,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 45.28,
+      "new": 46.33,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 46.32,
+      "new": 47.61391304347826,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 47.2,
+      "new": 48.05391304347826,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 52,
+      "new": 53.263913043478254,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 52.28,
+      "new": 53.403913043478255,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 55.24,
+      "new": 56.97,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 56,
+      "new": 57.349999999999994,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 60.106,
+      "new": 61.535,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 62.56,
+      "new": 64.11,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 62.76,
+      "new": 64.21,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 66.92,
+      "new": 68.65,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 68.16,
+      "new": 69.27,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 72.565,
+      "new": 74.07627906976744,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 74,
+      "new": 75.23418604651162,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 75.88,
+      "new": 76.17418604651162,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 78.6,
+      "new": 78.64999999999999,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 79.84,
+      "new": 79.27,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 85.44,
+      "new": 84.67209302325581,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 86,
+      "new": 84.95209302325581,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 88.68,
+      "new": 88.04999999999998,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 89.6,
+      "new": 88.50999999999999,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 92.44,
+      "new": 91.6,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 93,
+      "new": 92.11999999999999,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 97.32,
+      "new": 96.66999999999999,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 98.04,
+      "new": 97.03,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 100.04,
+      "new": 98.79,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 101.36,
+      "new": 99.45,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 103.6,
+      "new": 102.44000000000001,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 104.24,
+      "new": 102.76000000000002,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 109.6,
+      "new": 108.51,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 109.96,
+      "new": 108.69,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 111.68,
+      "new": 110.48714285714286,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 112.36,
+      "new": 110.82714285714286,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 117.36,
+      "new": 116.10285714285715,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 117.52,
+      "new": 116.18285714285716,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 120.76,
+      "new": 119.54,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 121.8,
+      "new": 120.06,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 122.48,
+      "new": 120.51285714285714,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 123.16,
+      "new": 120.85285714285715,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 125.2,
+      "new": 123.69,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 126.12,
+      "new": 124.15,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 130,
+      "new": 128.74,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 130.56,
+      "new": 129.02,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 133.72,
+      "new": 132.49,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 134.24,
+      "new": 132.75,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 138.48,
+      "new": 138.36,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 138.72,
+      "new": 138.48000000000002,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 140,
+      "new": 140.09,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 140.52,
+      "new": 140.35000000000002,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 144,
+      "new": 144.39000000000001,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 144.44,
+      "new": 144.61,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 146.28,
+      "new": 147.15000000000003,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 146.88,
+      "new": 147.45000000000002,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 149.88,
+      "new": 150.93,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 150.32,
+      "new": 151.15,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 150.92,
+      "new": 151.51,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 151.84,
+      "new": 151.97,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 155.56,
+      "new": 156.64,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 156.64,
+      "new": 157.2,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 158.04,
+      "new": 158.59,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 158.48,
+      "new": 158.81,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 162.08,
+      "new": 163.2,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 162.48,
+      "new": 163.6,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 165.88,
+      "new": 167.12,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 166.44,
+      "new": 167.6,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 170.84,
+      "new": 172.2285714285714,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 172.92,
+      "new": 174.23999999999998,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 173.8,
+      "new": 174.88,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 176.36,
+      "new": 177.81,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 176.8,
+      "new": 178.03,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 180.92,
+      "new": 182.64,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 184.88,
+      "new": 186.72,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 185.44,
+      "new": 187.2,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 188.6,
+      "new": 191.26999999999998,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 188.8,
+      "new": 191.37,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 192.64,
+      "new": 196.29,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 192.76,
+      "new": 196.35,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 196.54,
+      "new": 200.37134146341464,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 196.92,
+      "new": 200.56134146341464,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 200.968,
+      "new": 205.62731707317073,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 205.23,
+      "new": 210.78829268292685,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 206.956,
+      "new": 212.80780487804878,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 210.92,
+      "new": 218.02,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 213.953,
+      "new": 221.8410810810811,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 217.92,
+      "new": 226.2,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 222.56,
+      "new": 232.27792207792209,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 227.04,
+      "new": 237.8883116883117,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 232.04,
+      "new": 244.2,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 235.08,
+      "new": 253.2,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 238.48,
+      "new": 257.20000000000005,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 243.2,
+      "new": 262.2,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 246.2,
+      "new": 266.20000000000005,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 250.8,
+      "new": 271.20000000000005,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 253.7,
+      "new": 275.2,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 254.043,
+      "new": 276.16001,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 258.84,
+      "new": 281.90000000000003,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 259.04,
+      "new": 282.42,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 262.52,
+      "new": 286.38000000000005,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 262.8,
+      "new": 286.84000000000003,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 265.88,
+      "new": 290.01500000000004,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 265.9,
+      "new": 290.02500000000003,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 267.9,
+      "new": 292.46500000000003,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 268.36,
+      "new": 292.69500000000005,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 273,
+      "new": 298.20000000000005,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 273.6,
+      "new": 298.62,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 275.58,
+      "new": 300.84000000000003,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 276.04,
+      "new": 301.28000000000003,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 279.76,
+      "new": 305.560005,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 280.2,
+      "new": 305.78000499999996,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 285.66,
+      "new": 312.29625,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 289.92,
+      "new": 317.04,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 290.46,
+      "new": 317.8,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 294.04,
+      "new": 322.14,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 299.74,
+      "new": 328.08,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 300.66,
+      "new": 329.4,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 305.18,
+      "new": 333.76,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 307.96,
+      "new": 337.02,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 310.44,
+      "new": 339.72,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 311.12,
+      "new": 340.12,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 312.54,
+      "new": 341.6,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 315.3,
+      "new": 344.36,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 316.44,
+      "new": 345.2,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 322.82,
+      "new": 352.04,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 323.24,
+      "new": 352.36,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 325.34,
+      "new": 355.24,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 325.682458,
+      "new": 355.44001,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 331.122458,
+      "new": 360.995,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 331.622458,
+      "new": 361.245,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 333.962458,
+      "new": 363.96,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 334.362458,
+      "new": 364.32,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 336.382458,
+      "new": 366.38,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 338.482458,
+      "new": 368.44,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 339.342458,
+      "new": 369.24,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 342.802458,
+      "new": 372.8,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 343.622458,
+      "new": 373.6,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 346.742458,
+      "new": 376.7584,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 349.302458,
+      "new": 379.42,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 351.862458,
+      "new": 381.6,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "new": 386.4,
+      "old": 356.5824585799991,
+      "reason": "g010_title_start",
+      "locked": true
+    },
+    {
+      "new": 389.4,
+      "old": 356.75645833333334,
+      "reason": "g010_title_end",
+      "locked": true
+    },
+    {
+      "old": 363.076458,
+      "new": 395.79999999999995,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 370.136458,
+      "new": 402.52,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 377.096458,
+      "new": 409.39199999999994,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 381.216458,
+      "new": 412.71999999999997,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 388.556458,
+      "new": 420.12,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 393.176458,
+      "new": 424.96,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 397.776458,
+      "new": 429.43499999999995,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 397.796458,
+      "new": 429.44499999999994,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 400.144375,
+      "new": 432.28,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 403.704375,
+      "new": 435.71999999999997,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 407.937083,
+      "new": 440.12,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 414.457083,
+      "new": 446.79999999999995,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 418.977083,
+      "new": 450.16845299999994,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 419.343291,
+      "new": 450.35155699999996,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 423.063291,
+      "new": 454.88,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 423.823291,
+      "new": 455.71999999999997,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 425.623291,
+      "new": 457.51,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 425.823291,
+      "new": 457.61,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 429.543291,
+      "new": 461.23999999999995,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 429.790749,
+      "new": 462,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 433.370749,
+      "new": 465.8706976744186,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 438.310749,
+      "new": 470.98,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 445.070749,
+      "new": 477.55999999999995,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 453.030749,
+      "new": 484.71999999999997,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 456.759714,
+      "new": 488.84000000000003,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 460.348249,
+      "new": 492.59999999999997,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 466.748249,
+      "new": 498.76,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 469.048249,
+      "new": 501.41499999999996,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 469.308249,
+      "new": 501.54499999999996,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 472.128249,
+      "new": 504.2513636363637,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 472.388249,
+      "new": 504.3813636363637,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 477.748249,
+      "new": 509.8,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 478.008249,
+      "new": 510.44,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 482.888249,
+      "new": 515.4,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 483.114625,
+      "new": 516.2,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 491.674625,
+      "new": 525.80225,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "new": 525.88,
+      "old": 491.830125,
+      "reason": "g013_title_start",
+      "locked": true
+    },
+    {
+      "new": 527.88,
+      "old": 493.830125,
+      "reason": "g013_title_end",
+      "locked": true
+    },
+    {
+      "old": 495.768166,
+      "new": 530.3627586206896,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 498.788166,
+      "new": 533.73,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 499.388166,
+      "new": 534.03,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 502.608166,
+      "new": 538.38,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 507.248166,
+      "new": 543.700625,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 507.965666,
+      "new": 544.0593749999999,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 511.736666,
+      "new": 548.2436363636364,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 514.845666,
+      "new": 551.88,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 518.402666,
+      "new": 555.88,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 521.765666,
+      "new": 559.88,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 526.445666,
+      "new": 564.88,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 530.045666,
+      "new": 568.77,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 530.485666,
+      "new": 568.99,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 533.205666,
+      "new": 572.74,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 533.765666,
+      "new": 573.02,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 538.445666,
+      "new": 577.79,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 538.805666,
+      "new": 577.97,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 542.405666,
+      "new": 581.79,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 543.485666,
+      "new": 582.33,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 545.125666,
+      "new": 584.003076923077,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 550.565666,
+      "new": 589.9,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 551.445666,
+      "new": 590.3399999999999,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 555.965666,
+      "new": 595.2,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 558.700376,
+      "new": 598.4,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 563.332708,
+      "new": 603.44,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 567.092708,
+      "new": 607.1400000000001,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 567.972708,
+      "new": 607.58,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 570.912708,
+      "new": 610.02,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 571.472708,
+      "new": 610.3,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 573.692708,
+      "new": 612.7850000000001,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 574.232708,
+      "new": 613.0550000000001,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 577.532708,
+      "new": 616.72,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 578.172708,
+      "new": 617.04,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 580.152708,
+      "new": 619.3199999999999,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 585.172708,
+      "new": 623.72,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 585.792708,
+      "new": 624.36,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 587.772708,
+      "new": 626.28,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 592.512708,
+      "new": 630.92,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 592.765208,
+      "new": 631.72,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 597.925208,
+      "new": 636.76,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 599.645208,
+      "new": 638.9399999999999,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 600.125208,
+      "new": 639.62,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 604.485208,
+      "new": 644.9,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 605.125208,
+      "new": 645.22,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 608.965208,
+      "new": 649.64,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 609.405208,
+      "new": 650.28,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 611.885208,
+      "new": 653.2,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 612.365208,
+      "new": 653.7,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 614.845208,
+      "new": 657.08,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 615.845208,
+      "new": 657.58,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 620.525208,
+      "new": 663.54,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 622.205208,
+      "new": 665.56,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 622.765208,
+      "new": 665.84,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 627.165208,
+      "new": 671.18,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 630.905208,
+      "new": 674.9418905,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 631.097666,
+      "new": 675.0381195,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 634.877666,
+      "new": 678.6175000000001,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 635.407666,
+      "new": 678.8824999999999,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 638.757666,
+      "new": 683,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 643.877666,
+      "new": 687.90375,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 644.262666,
+      "new": 688.09625,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 648.262666,
+      "new": 693,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 651.934666,
+      "new": 696.9130434782609,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 657.262666,
+      "new": 702.8123332499999,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 658.013333,
+      "new": 703.1876667500001,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 662.933333,
+      "new": 708,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 666.353333,
+      "new": 711,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 666.875833,
+      "new": 712,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 669.835833,
+      "new": 715,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 674.715833,
+      "new": 720,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 679.155833,
+      "new": 724,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 682.435833,
+      "new": 727,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 686.755833,
+      "new": 731,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 690.155833,
+      "new": 735,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 690.428917,
+      "new": 735.24001,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 700.448917,
+      "new": 744.14,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 708.848917,
+      "new": 752.84,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 708.908917,
+      "new": 753.32,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 714.323416,
+      "new": 759.11,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 715.323416,
+      "new": 759.61,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 716.643416,
+      "new": 761.2550000000001,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 717.063416,
+      "new": 761.465,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 719.663416,
+      "new": 764.31,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 719.863416,
+      "new": 764.4100000000001,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 723.763416,
+      "new": 769.23,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 724.283416,
+      "new": 769.49,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 727.723416,
+      "new": 772.285625,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 728.020916,
+      "new": 772.434375,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 731.440916,
+      "new": 776.36,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 735.860916,
+      "new": 781.36,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 741.620916,
+      "new": 788.19,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 742.300916,
+      "new": 788.53,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 747.040916,
+      "new": 794.36,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 749.880916,
+      "new": 797.36,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 752.480916,
+      "new": 800.240604,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 752.6385,
+      "new": 800.319396,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 760.6185,
+      "new": 807.68,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 760.912791,
+      "new": 808.68,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 764.831791,
+      "new": 812.3784615384616,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 770.152791,
+      "new": 819.02,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 775.512791,
+      "new": 825.04,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 775.952791,
+      "new": 825.56,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 780.980791,
+      "new": 830.3199999999999,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 786.032791,
+      "new": 835.92,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 786.552791,
+      "new": 836.92,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 789.752791,
+      "new": 840.6,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 790.072791,
+      "new": 841.12,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 793.752791,
+      "new": 845.12,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 794.272791,
+      "new": 845.56,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 797.672791,
+      "new": 849.8399999999999,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 802.672791,
+      "new": 855.07375,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 803.017791,
+      "new": 855.2462499999999,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 803.837791,
+      "new": 856.015,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 804.417791,
+      "new": 856.305,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 811.317791,
+      "new": 862.950625,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 812.155291,
+      "new": 863.369375,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 815.583291,
+      "new": 867.16,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 819.777291,
+      "new": 871.16,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 822.555291,
+      "new": 874.16,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 828.455291,
+      "new": 878.9849999999999,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 829.155291,
+      "new": 879.335,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 834.595291,
+      "new": 885,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 835.590667,
+      "new": 885.88,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 838.128667,
+      "new": 888.1199999999999,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 842.530667,
+      "new": 893.28,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 847.530667,
+      "new": 898.3,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 852.530667,
+      "new": 903.04,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 858.530667,
+      "new": 908.5999999999999,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 861.530667,
+      "new": 910.5285714285715,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 865.530667,
+      "new": 914.6,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 869.530667,
+      "new": 918.3305434782609,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 870.260667,
+      "new": 918.6955434782609,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 875.560667,
+      "new": 923.4100000000001,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 876.320667,
+      "new": 923.79,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 879.060667,
+      "new": 926.0514285714286,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 879.540667,
+      "new": 926.2914285714286,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 885.620667,
+      "new": 931.8857142857144,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 891.740667,
+      "new": 937.46,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 892.300667,
+      "new": 937.74,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 897.120667,
+      "new": 941.48,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 897.600667,
+      "new": 941.72,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 901.500667,
+      "new": 944.48,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 901.980667,
+      "new": 944.72,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 905.040667,
+      "new": 947.51,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 905.400667,
+      "new": 947.69,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 908.396899,
+      "new": 950.6,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 914.565167,
+      "new": 956.6,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 919.388167,
+      "new": 961.820005,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 921.410167,
+      "new": 963.9754838709678,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 925.603167,
+      "new": 968.04,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 930.388167,
+      "new": 974.04,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 935.388167,
+      "new": 979.3591489361702,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 940.388167,
+      "new": 983.8950104999999,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 940.968125,
+      "new": 984.1849895,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 943.368125,
+      "new": 986.6485714285714,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 948.608125,
+      "new": 992.3399999999999,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 952.128125,
+      "new": 996.22,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 957.488125,
+      "new": 1002.3399999999999,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 959.588125,
+      "new": 1004.755,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 959.688125,
+      "new": 1004.8050000000001,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 964.931125,
+      "new": 1010.8600000000001,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 971.768125,
+      "new": 1018.04,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 975.208125,
+      "new": 1020.8971428571429,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 980.728125,
+      "new": 1026.04,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 983.288125,
+      "new": 1028.6345945945945,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 988.888125,
+      "new": 1034.04,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 993.448125,
+      "new": 1037.1434482758618,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 995.848125,
+      "new": 1039.04,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1000.968125,
+      "new": 1044.9952915,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 1001.146959,
+      "new": 1045.0847085,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 1008.986959,
+      "new": 1051.08,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1016.386959,
+      "new": 1057.1599999999999,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1024.026959,
+      "new": 1064.08,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1031.086959,
+      "new": 1069.56,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1039.866959,
+      "new": 1077.34,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 1039.946959,
+      "new": 1077.38,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 1041.500542,
+      "new": 1078.9099999999999,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1046.500542,
+      "new": 1083.56,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1050.794542,
+      "new": 1087.56,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1056.417542,
+      "new": 1092.56,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1059.864542,
+      "new": 1095.8266666666668,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1063.794542,
+      "new": 1099.56,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1068.434542,
+      "new": 1104.56,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1072.514542,
+      "new": 1107.7599999999998,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1074.804542,
+      "new": 1109.56,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "new": 1109.72,
+      "old": 1074.8430833333334,
+      "reason": "g024_title_start",
+      "locked": true
+    },
+    {
+      "new": 1112.72,
+      "old": 1077.8430833333334,
+      "reason": "g024_title_end",
+      "locked": true
+    },
+    {
+      "old": 1079.538583,
+      "new": 1114.8130232558142,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1083.298583,
+      "new": 1118.7897674418605,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1087.053541,
+      "new": 1121.72,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1094.793541,
+      "new": 1130.0261224489795,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1097.273541,
+      "new": 1132.713125,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 1097.301041,
+      "new": 1132.7268749999998,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 1100.221041,
+      "new": 1136.12,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1103.261041,
+      "new": 1139.1599999999999,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1106.421041,
+      "new": 1142.3600000000001,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1109.061041,
+      "new": 1145.08,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1111.901041,
+      "new": 1148.08,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1114.181041,
+      "new": 1149.88,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1118.421041,
+      "new": 1153.6399999999999,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1121.741041,
+      "new": 1157.495,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 1122.001041,
+      "new": 1157.625,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 1123.541041,
+      "new": 1159.04,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 1124.821041,
+      "new": 1159.6799999999998,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 1127.641041,
+      "new": 1163.1350000000002,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 1127.901041,
+      "new": 1163.265,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 1131.741041,
+      "new": 1167.170005,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 1132.501041,
+      "new": 1167.550005,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 1137.621041,
+      "new": 1172.665,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 1138.641041,
+      "new": 1173.175,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 1143.261041,
+      "new": 1178.9699999999998,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 1144.021041,
+      "new": 1179.35,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 1148.381041,
+      "new": 1185.4734782608693,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 1148.421041,
+      "new": 1185.4934782608693,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 1149.961041,
+      "new": 1187.190625,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 1150.158541,
+      "new": 1187.2893749999998,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 1155.698541,
+      "new": 1194.2058536585364,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1161.018541,
+      "new": 1199.8400000000001,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1163.838541,
+      "new": 1202.76,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 1163.918541,
+      "new": 1202.8,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 1164.396041,
+      "new": 1203.1999999999998,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1168.396041,
+      "new": 1206.88,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1175.596041,
+      "new": 1214.52,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1184.196041,
+      "new": 1224.6399999999999,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1189.316041,
+      "new": 1229.64,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1193.836041,
+      "new": 1234.04,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1197.316041,
+      "new": 1238.2400000000002,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1202.796041,
+      "new": 1243.6800000000003,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1207.116041,
+      "new": 1248.3600000000001,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1212.116041,
+      "new": 1253.3600000000001,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1219.761,
+      "new": 1260.94,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1226.641,
+      "new": 1268.14,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1233.761,
+      "new": 1274.44,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1239.281,
+      "new": 1279.8400000000001,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1244.501,
+      "new": 1285,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1250.461,
+      "new": 1291.975,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 1250.561,
+      "new": 1292.025,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 1255.426,
+      "new": 1296,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1258.426,
+      "new": 1298.5714285714284,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1261.626,
+      "new": 1302,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1263.926,
+      "new": 1303.8000000000002,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1266.926,
+      "new": 1306,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1270.926,
+      "new": 1310,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1272.926,
+      "new": 1311.8000000000002,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1276.926,
+      "new": 1314.975,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 1277.026,
+      "new": 1315.025,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 1281.426,
+      "new": 1319,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1283.926,
+      "new": 1321.3157894736842,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1290.5285,
+      "new": 1327,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1295.0485,
+      "new": 1331,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1300.7885,
+      "new": 1336,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1308.6685,
+      "new": 1343,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1312.2485,
+      "new": 1347.13875,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 1312.4935,
+      "new": 1347.26125,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 1315.6535,
+      "new": 1349.5076923076922,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1318.7735,
+      "new": 1352.2,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1327.130643,
+      "new": 1359.8153846153846,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1330.7735,
+      "new": 1363.7,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1336.7735,
+      "new": 1370.2784313725492,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1341.7735,
+      "new": 1374.2,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1344.7735,
+      "new": 1377.2,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1348.7735,
+      "new": 1382.2,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1351.7735,
+      "new": 1385.2,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1353.7735,
+      "new": 1387.2,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1356.7735,
+      "new": 1390.2,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1359.118458,
+      "new": 1392.6444444444446,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1368.038458,
+      "new": 1400.96,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1371.978458,
+      "new": 1405.913125,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 1372.165958,
+      "new": 1406.006875,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 1377.813017,
+      "new": 1412.615172413793,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1381.165958,
+      "new": 1416.96,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1384.245958,
+      "new": 1419.7860869565218,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1386.545958,
+      "new": 1421.96,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1389.105958,
+      "new": 1424.96,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1392.425958,
+      "new": 1428.96,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1397.045958,
+      "new": 1434.22,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1402.405958,
+      "new": 1439.88,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1407.025958,
+      "new": 1444.72,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1409.065958,
+      "new": 1447.04,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1415.065958,
+      "new": 1453.28,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1419.065958,
+      "new": 1458.28,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1419.873458,
+      "new": 1459.2935135135135,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1428.573458,
+      "new": 1465.78,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1437.293458,
+      "new": 1474.226875,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 1437.505958,
+      "new": 1474.333125,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 1443.685958,
+      "new": 1480.28,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1446.985958,
+      "new": 1482.28,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1454.185958,
+      "new": 1488.94,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1457.465958,
+      "new": 1492.78,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1459.825958,
+      "new": 1495.08,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1463.265958,
+      "new": 1499.1866666666665,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1466.665958,
+      "new": 1502.5,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1469.545958,
+      "new": 1505.3200000000002,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "new": 1508.48,
+      "old": 1472.6520833333334,
+      "reason": "g031_title_start",
+      "locked": true
+    },
+    {
+      "new": 1510.48,
+      "old": 1474.6520833333334,
+      "reason": "g031_title_end",
+      "locked": true
+    },
+    {
+      "old": 1479.415625,
+      "new": 1514.1744444444444,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1483.215625,
+      "new": 1517.48,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1487.115625,
+      "new": 1520.3688888888887,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1489.915625,
+      "new": 1523.48,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1492.015625,
+      "new": 1525.48,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1497.055625,
+      "new": 1531.08,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1506.495625,
+      "new": 1540.1400050000002,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1513.595625,
+      "new": 1546.818888888889,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 1513.695625,
+      "new": 1546.868888888889,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 1514.155625,
+      "new": 1547.098888888889,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1519.155625,
+      "new": 1551.88,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1528.155625,
+      "new": 1561.7253333333333,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1530.835625,
+      "new": 1564.69,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 1531.595625,
+      "new": 1565.07,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 1532.475625,
+      "new": 1565.6417391304349,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 1532.795625,
+      "new": 1565.8017391304347,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 1534.515625,
+      "new": 1567.826086956522,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1536.315625,
+      "new": 1569.6600000000003,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 1536.555625,
+      "new": 1569.7800000000002,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 1538.035625,
+      "new": 1571.1200000000001,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 1538.835625,
+      "new": 1571.76,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 1540.275625,
+      "new": 1573.1753846153847,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1541.675625,
+      "new": 1574.4138461538464,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1543.635625,
+      "new": 1576.3600000000001,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 1544.035625,
+      "new": 1577.2800000000002,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 1544.835625,
+      "new": 1577.8250000000003,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 1545.075625,
+      "new": 1577.9450000000002,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 1546.995625,
+      "new": 1579.9016666666666,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1548.995625,
+      "new": 1582.1200000000001,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 1549.395625,
+      "new": 1582.92,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 1549.995625,
+      "new": 1583.3384615384616,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 1550.315625,
+      "new": 1583.4984615384615,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 1552.355625,
+      "new": 1586.16,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 1552.475625,
+      "new": 1586.3200000000002,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 1554.875625,
+      "new": 1588.88,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 1555.075625,
+      "new": 1589.0800000000002,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 1556.275625,
+      "new": 1590.19,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1558.035625,
+      "new": 1592.0400000000002,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 1558.155625,
+      "new": 1592.8400000000001,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 1563.155625,
+      "new": 1597.480005,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1567.335583,
+      "new": 1601.2123076923076,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1574.835583,
+      "new": 1608.3661538461538,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1582.275583,
+      "new": 1616.0726315789475,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1587.115583,
+      "new": 1621.4368749999999,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 1587.448083,
+      "new": 1621.603125,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 1591.404925,
+      "new": 1625.8600000000001,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1598.188083,
+      "new": 1633.3000000000002,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1602.828083,
+      "new": 1638.42,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1606.508083,
+      "new": 1641.8400000000001,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1609.868083,
+      "new": 1645.26,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1612.748083,
+      "new": 1648.56,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1615.788083,
+      "new": 1651.063448275862,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1619.708083,
+      "new": 1655.1599999999999,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1622.188083,
+      "new": 1657.293333333333,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1625.928041,
+      "new": 1661.7657142857142,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1634.988041,
+      "new": 1669.2423529411763,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1643.168041,
+      "new": 1678.04,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1649.970125,
+      "new": 1686.36,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 1650.008042,
+      "new": 1686.96,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 1660.135542,
+      "new": 1694.84,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1664.135542,
+      "new": 1698.32,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1672.135542,
+      "new": 1704.8400000000001,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1679.135542,
+      "new": 1710.56,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1683.922776,
+      "new": 1715.8933333333334,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1688.135542,
+      "new": 1720.56,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1691.335542,
+      "new": 1723.9423529411765,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1694.935542,
+      "new": 1727.0992156862744,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1699.825542,
+      "new": 1732.06,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1708.985542,
+      "new": 1741.2199999999998,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1716.265542,
+      "new": 1747.986534090909,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 1716.523042,
+      "new": 1748.115284090909,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 1724.523042,
+      "new": 1754.46,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1727.523042,
+      "new": 1757.46,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1731.123042,
+      "new": 1760.46,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1733.763042,
+      "new": 1764.34,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 1734.243042,
+      "new": 1764.58,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 1736.523042,
+      "new": 1766.46,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1739.843042,
+      "new": 1769.46,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 1740.123042,
+      "new": 1770.00001,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 1741.843042,
+      "new": 1771.5793548387096,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1743.483042,
+      "new": 1773.1587096774192,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1746.243042,
+      "new": 1776.12,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 1746.483042,
+      "new": 1777.04,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 1749.923042,
+      "new": 1780.4994594594596,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1751.323042,
+      "new": 1781.7667567567566,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 1751.443042,
+      "new": 1781.8267567567568,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 1754.523042,
+      "new": 1785.04,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 1754.763042,
+      "new": 1785.88,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 1758.283042,
+      "new": 1789.4554838709678,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1761.363042,
+      "new": 1792.7,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1765.323042,
+      "new": 1797.017142857143,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1767.748042,
+      "new": 1798.92,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1776.908042,
+      "new": 1807.3070967741937,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1781.308042,
+      "new": 1811.92,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1785.328042,
+      "new": 1816.2057142857143,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1789.728042,
+      "new": 1820.92,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 1789.760542,
+      "new": 1821.28001,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 1795.460542,
+      "new": 1827.28,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1799.260542,
+      "new": 1831.28,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1803.260542,
+      "new": 1836.28,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1810.260542,
+      "new": 1844.28,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1813.260542,
+      "new": 1847.28,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1817.260542,
+      "new": 1851.72,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1820.260542,
+      "new": 1854.3600000000001,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1824.260542,
+      "new": 1858.96,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1830.260542,
+      "new": 1864,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1832.260542,
+      "new": 1866.48,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1836.4605,
+      "new": 1870.4650000000001,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1844.9205,
+      "new": 1878.6599999999999,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1854.0605,
+      "new": 1886.991111111111,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1857.6405,
+      "new": 1891.6305555555555,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 1857.6605,
+      "new": 1891.6405555555555,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 1859.241939,
+      "new": 1892.8400000000001,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1865.15892,
+      "new": 1899.08,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1873.61175,
+      "new": 1906.08,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1880.11175,
+      "new": 1912.44,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1886.61175,
+      "new": 1918.1999999999998,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1892.61175,
+      "new": 1923.48,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1899.21175,
+      "new": 1930.1066666666666,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1902.61175,
+      "new": 1933.52,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1906.61175,
+      "new": 1936.88,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1910.61175,
+      "new": 1940.56,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1911.524208,
+      "new": 1941.808,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1915.864208,
+      "new": 1944.7199999999998,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1924.324208,
+      "new": 1954.0133333333333,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1929.404208,
+      "new": 1958.868125,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 1929.931708,
+      "new": 1959.131875,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 1932.931708,
+      "new": 1961.3066666666668,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 1933.091708,
+      "new": 1961.3866666666668,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "new": 1964.32,
+      "old": 1936.17125,
+      "reason": "g040_title_start",
+      "locked": true
+    },
+    {
+      "new": 1967.32,
+      "old": 1939.17125,
+      "reason": "g040_title_end",
+      "locked": true
+    },
+    {
+      "old": 1940.03125,
+      "new": 1967.75,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 1948.15125,
+      "new": 1975.94,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1953.03125,
+      "new": 1982.1799999999998,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1956.53125,
+      "new": 1986.7599999999998,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1960.45125,
+      "new": 1991.96,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1965.41125,
+      "new": 1997.46,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1971.41125,
+      "new": 2002.96,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1975.35125,
+      "new": 2006.46,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1978.15125,
+      "new": 2009.96,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1982.11125,
+      "new": 2012.96,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1987.19125,
+      "new": 2017.46,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1992.11125,
+      "new": 2023.96,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 1996.65125,
+      "new": 2028.96,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2001.53125,
+      "new": 2033.96,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2005.41125,
+      "new": 2039.96,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "new": 2040.52,
+      "old": 2005.5233333333333,
+      "reason": "g041_title_start",
+      "locked": true
+    },
+    {
+      "new": 2042.52,
+      "old": 2007.5233333333333,
+      "reason": "g041_title_end",
+      "locked": true
+    },
+    {
+      "old": 2007.823333,
+      "new": 2042.6699998333333,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "old": 2013.083333,
+      "new": 2048.52,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2016.943333,
+      "new": 2052.52,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2020.183333,
+      "new": 2056.0654545454545,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2024.643333,
+      "new": 2061.52,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2029.403333,
+      "new": 2066.52,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2031.223333,
+      "new": 2068.52,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2034.563333,
+      "new": 2072.52,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2039.203333,
+      "new": 2076.52,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2044.943333,
+      "new": 2084.52,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2049.463333,
+      "new": 2089.52,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2051.703333,
+      "new": 2092.2,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2057.703333,
+      "new": 2099.2,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2062.703333,
+      "new": 2103.866666666667,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2066.243333,
+      "new": 2107.2,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2071.123333,
+      "new": 2113.422222222222,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2078.043333,
+      "new": 2120.3428571428567,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2083.443333,
+      "new": 2126,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2086.683333,
+      "new": 2129.2,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2092.163333,
+      "new": 2135.2,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2097.143333,
+      "new": 2140.2,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2102.983333,
+      "new": 2145.2,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2110.243333,
+      "new": 2154.2,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2112.883333,
+      "new": 2156.4881355932202,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2118.823333,
+      "new": 2163.581355932203,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2123.243333,
+      "new": 2167.7,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2129.643333,
+      "new": 2174.7,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2136.163333,
+      "new": 2181.5363636363636,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2139.023333,
+      "new": 2185.2999999999997,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2143.063333,
+      "new": 2189.7,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2150.263333,
+      "new": 2197.7,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2155.523333,
+      "new": 2203.7,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2159.043333,
+      "new": 2206.7,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2164.523333,
+      "new": 2211.7,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2170.503333,
+      "new": 2217.16,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2172.143333,
+      "new": 2218.62,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2178.403333,
+      "new": 2223.83,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2183.763333,
+      "new": 2228.7,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2189.043333,
+      "new": 2233.6,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2192.323333,
+      "new": 2237.12,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2197.483333,
+      "new": 2241.84,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2202.223333,
+      "new": 2247.3999999999996,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2206.123333,
+      "new": 2250.7799999999997,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2210.983333,
+      "new": 2255.0699999999997,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2214.383333,
+      "new": 2258.9799999999996,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2219.043333,
+      "new": 2263.3199999999997,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2223.063333,
+      "new": 2267.4399999999996,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2228.143333,
+      "new": 2271.070005,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2233.908333,
+      "new": 2276.84,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2240.083333,
+      "new": 2283.3,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2246.283333,
+      "new": 2289.5199999999995,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2250.203333,
+      "new": 2293.79,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2254.243333,
+      "new": 2298.5299999999997,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2257.363333,
+      "new": 2301.67,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2259.623333,
+      "new": 2304.49,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2263.783333,
+      "new": 2308.6400000000003,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2266.103333,
+      "new": 2311.14,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "new": 2311.24,
+      "old": 2266.1348333333335,
+      "reason": "g046_title_start",
+      "locked": true
+    },
+    {
+      "new": 2313.24,
+      "old": 2268.1348333333335,
+      "reason": "g046_title_end",
+      "locked": true
+    },
+    {
+      "old": 2272.834833,
+      "new": 2318.9399999999996,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2279.654833,
+      "new": 2326.0899999999997,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2284.214833,
+      "new": 2330.7799999999997,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2291.274833,
+      "new": 2338.2599999999998,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2296.254833,
+      "new": 2343.66,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2300.534833,
+      "new": 2347.6099999999997,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2305.294833,
+      "new": 2353.0899999999997,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2308.334833,
+      "new": 2355.830005,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2314.794833,
+      "new": 2362.626666666667,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2320.834833,
+      "new": 2370.36,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2327.714833,
+      "new": 2377.36,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2329.974833,
+      "new": 2379.8,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2334.874833,
+      "new": 2385.2,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2339.194833,
+      "new": 2389.6800000000003,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2345.474833,
+      "new": 2395.88,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2350.354833,
+      "new": 2401,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2352.574833,
+      "new": 2403.6618181818185,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2357.274833,
+      "new": 2408.32,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2361.554833,
+      "new": 2412.76,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2368.214833,
+      "new": 2419.6104347826085,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2373.494833,
+      "new": 2425.5200000000004,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2380.214833,
+      "new": 2433.1000000000004,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2383.014833,
+      "new": 2436.44,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2388.374833,
+      "new": 2442.04,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2391.634833,
+      "new": 2445.6800000000003,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2397.454833,
+      "new": 2451.5200000000004,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2400.614833,
+      "new": 2454.1000050000002,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2405.214833,
+      "new": 2458.62,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2410.714833,
+      "new": 2463.12,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2414.674833,
+      "new": 2467.098723404255,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2421.174833,
+      "new": 2474.12,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2425.794833,
+      "new": 2479.051506849315,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2431.774833,
+      "new": 2485.9556164383557,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2437.914833,
+      "new": 2492.12,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2442.174833,
+      "new": 2497.12,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2447.554833,
+      "new": 2503.12,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2451.194833,
+      "new": 2506.9836456666667,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "new": 2507,
+      "old": 2451.2275416666666,
+      "reason": "g050_title_start",
+      "locked": true
+    },
+    {
+      "new": 2510,
+      "old": 2454.2275416666666,
+      "reason": "g050_title_end",
+      "locked": true
+    },
+    {
+      "old": 2460.487542,
+      "new": 2516.75,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2464.087542,
+      "new": 2522.3900000000003,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2470.647542,
+      "new": 2529.4,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2474.767542,
+      "new": 2534.98,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2481.347542,
+      "new": 2541.58,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2487.667542,
+      "new": 2547.93,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2495.467542,
+      "new": 2555.5600000000004,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2501.227542,
+      "new": 2562.58,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2503.467542,
+      "new": 2565.58,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2505.387542,
+      "new": 2568.8599999999997,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2511.787542,
+      "new": 2575.73,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2514.847542,
+      "new": 2578.5200050000003,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2520.447542,
+      "new": 2584,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2526.107542,
+      "new": 2589.3199999999997,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2532.387542,
+      "new": 2596.04,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2537.847542,
+      "new": 2602.0299999999997,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2544.427542,
+      "new": 2607.06,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2547.007542,
+      "new": 2610.04,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2550.467542,
+      "new": 2613.0199999999995,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2558.007542,
+      "new": 2619.71,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2563.747542,
+      "new": 2626.000005,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2567.787542,
+      "new": 2630.29,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2574.587542,
+      "new": 2636.7299999999996,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2578.447542,
+      "new": 2641.66,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2583.167542,
+      "new": 2648.02,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2587.907542,
+      "new": 2653.56,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2589.927542,
+      "new": 2656.35,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2596.407542,
+      "new": 2664.240005,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2600.087542,
+      "new": 2668.34,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2604.347542,
+      "new": 2673.01,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2607.767542,
+      "new": 2677.21,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2614.447542,
+      "new": 2683.77,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2619.447542,
+      "new": 2688.96,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2622.707542,
+      "new": 2692.1400000000003,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2627.467542,
+      "new": 2696.34,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2635.767542,
+      "new": 2704.2200000000003,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2641.827542,
+      "new": 2710.06,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2650.047542,
+      "new": 2717.71,
+      "boundaryCount": 2,
+      "reason": "shared_subtitle_boundary_new_gap_midpoint",
+      "locked": false
+    },
+    {
+      "old": 2655.487542,
+      "new": 2723.42,
+      "boundaryCount": 1,
+      "reason": "subtitle_boundary",
+      "locked": false
+    },
+    {
+      "new": 2723.6,
+      "old": 2655.8094166666665,
+      "reason": "master_end",
+      "locked": true
+    }
+  ],
+  "cards": [
+    {
+      "id": "practice-revolution",
+      "start": 1099.55,
+      "end": 1110.6166666667,
+      "lines": [
+        {
+          "text": "环境的改变和人的活动",
+          "fontWeight": 650,
+          "semanticRole": "premise",
+          "revealGroup": 0
+        },
+        {
+          "text": "或自我改变的一致，",
+          "fontWeight": 650,
+          "semanticRole": "premise",
+          "revealGroup": 0
+        },
+        {
+          "text": "只能被看作是并合理地理解为",
+          "fontWeight": 700,
+          "semanticRole": "bridge",
+          "revealGroup": 1
+        },
+        {
+          "text": "革命的实践。",
+          "emphasis": true,
+          "fontWeight": 900,
+          "semanticRole": "conclusion",
+          "revealGroup": 2
+        }
+      ],
+      "author": "马克思",
+      "work": "《关于费尔巴哈的提纲》第三条",
+      "year": "1845",
+      "source": "https://www.marxists.org/chinese/marx/marxist.org-chinese-marx-1845.htm",
+      "duration": 11.06666666670003,
+      "entranceDuration": 1.12
+    },
+    {
+      "id": "general-intellect",
+      "start": 1508.4666666666667,
+      "end": 1525.4833333333333,
+      "lines": [
+        {
+          "text": "一般社会知识，",
+          "fontWeight": 700,
+          "semanticRole": "theme",
+          "revealGroup": 0
+        },
+        {
+          "text": "已经在多么大的程度上",
+          "fontWeight": 650,
+          "semanticRole": "premise",
+          "revealGroup": 0
+        },
+        {
+          "text": "变成了直接的生产力",
+          "emphasis": true,
+          "fontWeight": 900,
+          "semanticRole": "conclusion",
+          "revealGroup": 1
+        }
+      ],
+      "author": "马克思",
+      "work": "《1857—1858年经济学手稿》",
+      "year": "1857—1858",
+      "source": "https://www.marxists.org/chinese/marx-engels2/08/14.htm",
+      "duration": 17.01666666660003,
+      "entranceDuration": 1.04
+    },
+    {
+      "id": "capital-opposition",
+      "start": 1525.4833333333333,
+      "end": 1535.1666666666667,
+      "lines": [
+        {
+          "text": "知识和技能的积累，",
+          "fontWeight": 650,
+          "semanticRole": "premise",
+          "revealGroup": 0
+        },
+        {
+          "text": "社会智力的一般生产力的积累，",
+          "fontWeight": 650,
+          "semanticRole": "premise",
+          "revealGroup": 0
+        },
+        {
+          "text": "就同劳动相对立",
+          "fontWeight": 900,
+          "semanticRole": "conclusion",
+          "revealGroup": 1
+        },
+        {
+          "text": "而被吸收在资本当中，",
+          "emphasis": true,
+          "fontWeight": 900,
+          "semanticRole": "conclusion",
+          "revealGroup": 1
+        }
+      ],
+      "author": "马克思",
+      "work": "《1857—1858年经济学手稿》",
+      "year": "1857—1858",
+      "source": "https://www.marxists.org/chinese/marx-engels2/08/14.htm",
+      "duration": 9.683333333400014,
+      "entranceDuration": 1.12
+    },
+    {
+      "id": "relations-existing",
+      "start": 1633.2833333333333,
+      "end": 1648.5666666666666,
+      "lines": [
+        {
+          "text": "新的生产力和生产关系",
+          "fontWeight": 700,
+          "semanticRole": "theme",
+          "revealGroup": 0
+        },
+        {
+          "text": "不是从无中发展起来的，",
+          "fontWeight": 650,
+          "semanticRole": "premise",
+          "revealGroup": 0
+        },
+        {
+          "text": "……",
+          "fontWeight": 500,
+          "semanticRole": "omission",
+          "revealGroup": 0
+        },
+        {
+          "text": "而是在现有的生产发展过程内部",
+          "fontWeight": 700,
+          "semanticRole": "premise",
+          "revealGroup": 1
+        },
+        {
+          "text": "和流传下来的、传统的所有制关系内部，",
+          "fontWeight": 700,
+          "semanticRole": "premise",
+          "revealGroup": 1
+        },
+        {
+          "text": "并且与它们相对立而发展起来的。",
+          "emphasis": true,
+          "fontWeight": 900,
+          "semanticRole": "conclusion",
+          "revealGroup": 2
+        }
+      ],
+      "author": "马克思",
+      "work": "《1857—1858年经济学手稿》",
+      "year": "1857—1858",
+      "source": "https://www.marxists.org/chinese/marx-engels-2/30/009.htm",
+      "duration": 15.283333333399924,
+      "entranceDuration": 1.24
+    },
+    {
+      "id": "relations-change",
+      "start": 1667.2,
+      "end": 1687.9833333333333,
+      "lines": [
+        {
+          "text": "当着不变更生产关系，",
+          "fontWeight": 650,
+          "semanticRole": "premise",
+          "revealGroup": 0
+        },
+        {
+          "text": "生产力就不能发展的时候，",
+          "fontWeight": 650,
+          "semanticRole": "premise",
+          "revealGroup": 0
+        },
+        {
+          "text": "生产关系的变更",
+          "fontWeight": 900,
+          "semanticRole": "conclusion",
+          "revealGroup": 1
+        },
+        {
+          "text": "就起了主要的决定的作用。",
+          "emphasis": true,
+          "fontWeight": 900,
+          "semanticRole": "conclusion",
+          "revealGroup": 1
+        }
+      ],
+      "author": "毛泽东",
+      "work": "《矛盾论》",
+      "year": "1937",
+      "source": "https://news.12371.cn/2017/08/29/ARTI1504001209326173.shtml",
+      "duration": 20.78333333329988,
+      "entranceDuration": 1.16
+    },
+    {
+      "id": "free-development",
+      "start": 1884.4,
+      "end": 1893.5333333333333,
+      "lines": [
+        {
+          "text": "每个人的自由发展",
+          "fontWeight": 700,
+          "semanticRole": "theme",
+          "revealGroup": 0
+        },
+        {
+          "text": "是一切人的自由发展的条件。",
+          "emphasis": true,
+          "fontWeight": 900,
+          "semanticRole": "conclusion",
+          "revealGroup": 1
+        }
+      ],
+      "author": "马克思、恩格斯",
+      "work": "《共产党宣言》",
+      "year": "1848",
+      "source": "https://www.marxists.org/chinese/marx/01.htm",
+      "duration": 9.133333333300016,
+      "entranceDuration": 1
+    },
+    {
+      "id": "self-emancipation",
+      "start": 2378.883333333333,
+      "end": 2395.883333333333,
+      "lines": [
+        {
+          "text": "工人阶级的解放",
+          "fontWeight": 700,
+          "semanticRole": "theme",
+          "revealGroup": 0
+        },
+        {
+          "text": "应该由工人阶级",
+          "fontWeight": 650,
+          "semanticRole": "bridge",
+          "revealGroup": 0
+        },
+        {
+          "text": "自己去争取；",
+          "emphasis": true,
+          "fontWeight": 900,
+          "semanticRole": "conclusion",
+          "revealGroup": 1
+        }
+      ],
+      "author": "马克思",
+      "work": "《协会临时章程》",
+      "year": "1864",
+      "source": "https://www.marxists.org/chinese/marx-engels/16/002.htm",
+      "duration": 17,
+      "entranceDuration": 1.08
+    },
+    {
+      "id": "change-ourselves",
+      "start": 2395.883333333333,
+      "end": 2412.766666666667,
+      "lines": [
+        {
+          "text": "改造客观世界，",
+          "fontWeight": 700,
+          "semanticRole": "premise",
+          "revealGroup": 0
+        },
+        {
+          "text": "也改造自己的主观世界",
+          "emphasis": true,
+          "fontWeight": 900,
+          "semanticRole": "conclusion",
+          "revealGroup": 1
+        }
+      ],
+      "author": "毛泽东",
+      "work": "《实践论》",
+      "year": "1937",
+      "source": "https://news.12371.cn/2017/08/29/ARTI1504001411770206.shtml",
+      "duration": 16.88333333340006,
+      "entranceDuration": 1
+    },
+    {
+      "id": "ownership-rupture",
+      "start": 2412.766666666667,
+      "end": 2429.633333333333,
+      "lines": [
+        {
+          "text": "共产主义革命",
+          "fontWeight": 700,
+          "semanticRole": "theme",
+          "revealGroup": 0
+        },
+        {
+          "text": "就是同传统的所有制关系",
+          "fontWeight": 650,
+          "semanticRole": "premise",
+          "revealGroup": 0
+        },
+        {
+          "text": "实行最彻底的决裂；",
+          "emphasis": true,
+          "fontWeight": 900,
+          "semanticRole": "conclusion",
+          "revealGroup": 1
+        }
+      ],
+      "author": "马克思、恩格斯",
+      "work": "《共产党宣言》",
+      "year": "1848",
+      "source": "https://www.marxists.org/chinese/marx/01.htm",
+      "duration": 16.86666666659994,
+      "entranceDuration": 1.1
+    },
+    {
+      "id": "new-relations-womb",
+      "start": 2469.75,
+      "end": 2492.116666666667,
+      "lines": [
+        {
+          "text": "新的更高的生产关系，",
+          "fontWeight": 700,
+          "semanticRole": "theme",
+          "revealGroup": 0
+        },
+        {
+          "text": "在它的物质存在条件",
+          "fontWeight": 650,
+          "semanticRole": "premise",
+          "revealGroup": 1
+        },
+        {
+          "text": "在旧社会的胎胞里成熟以前，",
+          "fontWeight": 650,
+          "semanticRole": "premise",
+          "revealGroup": 1
+        },
+        {
+          "text": "是决不会出现的。",
+          "emphasis": true,
+          "fontWeight": 900,
+          "semanticRole": "conclusion",
+          "revealGroup": 2
+        }
+      ],
+      "author": "马克思",
+      "work": "《〈政治经济学批判〉序言》",
+      "year": "1859",
+      "source": "https://www.marxists.org/chinese/marx/06.htm",
+      "duration": 22.366666666699984,
+      "entranceDuration": 1.22
+    },
+    {
+      "id": "material-foundation",
+      "start": 2492.116666666667,
+      "end": 2507,
+      "lines": [
+        {
+          "text": "生产力和社会关系",
+          "fontWeight": 700,
+          "semanticRole": "theme",
+          "revealGroup": 0
+        },
+        {
+          "text": "……",
+          "fontWeight": 500,
+          "semanticRole": "omission",
+          "revealGroup": 0
+        },
+        {
+          "text": "但是，实际上它们是",
+          "fontWeight": 650,
+          "semanticRole": "bridge",
+          "revealGroup": 1
+        },
+        {
+          "text": "炸毁这个基础的物质条件。",
+          "emphasis": true,
+          "fontWeight": 900,
+          "semanticRole": "conclusion",
+          "revealGroup": 2
+        }
+      ],
+      "author": "马克思",
+      "work": "《1857—1858年经济学手稿》",
+      "year": "1857—1858",
+      "source": "https://www.marxists.org/chinese/marx-engels2/08/14.htm",
+      "duration": 14.883333333300016,
+      "entranceDuration": 1.12,
+      "artKey": "material-foundation"
+    },
+    {
+      "id": "material-hold",
+      "start": 2507,
+      "end": 2508.2,
+      "lines": [
+        {
+          "text": "生产力和社会关系",
+          "fontWeight": 700,
+          "semanticRole": "theme",
+          "revealGroup": 0
+        },
+        {
+          "text": "……",
+          "fontWeight": 500,
+          "semanticRole": "omission",
+          "revealGroup": 0
+        },
+        {
+          "text": "但是，实际上它们是",
+          "fontWeight": 650,
+          "semanticRole": "bridge",
+          "revealGroup": 1
+        },
+        {
+          "text": "炸毁这个基础的物质条件。",
+          "emphasis": true,
+          "fontWeight": 900,
+          "semanticRole": "conclusion",
+          "revealGroup": 2
+        }
+      ],
+      "author": "马克思",
+      "work": "《1857—1858年经济学手稿》",
+      "year": "1857—1858",
+      "source": "https://www.marxists.org/chinese/marx-engels2/08/14.htm",
+      "hold": true,
+      "duration": 1.2,
+      "entranceDuration": 0,
+      "artKey": "material-foundation"
+    }
+  ],
+  "pictureDuration": 2723.6,
+  "chapters": [
+    {
+      "id": 0,
+      "time_base": "1/120000",
+      "start": 0,
+      "start_time": "0.000000",
+      "end": 8278800,
+      "end_time": "68.990000",
+      "tags": {
+        "title": "开头"
+      }
+    },
+    {
+      "id": 1,
+      "time_base": "1/120000",
+      "start": 8278800,
+      "start_time": "68.990000",
+      "end": 33024000,
+      "end_time": "275.200000",
+      "tags": {
+        "title": "机器人发展时间轴"
+      }
+    },
+    {
+      "id": 2,
+      "time_base": "1/120000",
+      "start": 33024000,
+      "start_time": "275.200000",
+      "end": 46368000,
+      "end_time": "386.400000",
+      "tags": {
+        "title": "引子收束"
+      }
+    },
+    {
+      "id": 3,
+      "time_base": "1/120000",
+      "start": 46368000,
+      "start_time": "386.400000",
+      "end": 63105600,
+      "end_time": "525.880000",
+      "tags": {
+        "title": "从技术消费者到技术创造者"
+      }
+    },
+    {
+      "id": 4,
+      "time_base": "1/120000",
+      "start": 63105600,
+      "start_time": "525.880000",
+      "end": 106231375,
+      "end_time": "885.261458",
+      "tags": {
+        "title": "从知识获取到实际劳动"
+      }
+    },
+    {
+      "id": 5,
+      "time_base": "1/120000",
+      "start": 106231375,
+      "start_time": "885.261458",
+      "end": 133166400,
+      "end_time": "1109.720000",
+      "tags": {
+        "title": "从创造能力到思想觉醒"
+      }
+    },
+    {
+      "id": 6,
+      "time_base": "1/120000",
+      "start": 133166400,
+      "start_time": "1109.720000",
+      "end": 157803000,
+      "end_time": "1315.025000",
+      "tags": {
+        "title": "兴趣与技术启蒙"
+      }
+    },
+    {
+      "id": 7,
+      "time_base": "1/120000",
+      "start": 157803000,
+      "start_time": "1315.025000",
+      "end": 181017600,
+      "end_time": "1508.480000",
+      "tags": {
+        "title": "插件与创造"
+      }
+    },
+    {
+      "id": 8,
+      "time_base": "1/120000",
+      "start": 181017600,
+      "start_time": "1508.480000",
+      "end": 202363200,
+      "end_time": "1686.360000",
+      "tags": {
+        "title": "知识与协作"
+      }
+    },
+    {
+      "id": 9,
+      "time_base": "1/120000",
+      "start": 202363200,
+      "start_time": "1686.360000",
+      "end": 235718400,
+      "end_time": "1964.320000",
+      "tags": {
+        "title": "共同需要与成果"
+      }
+    },
+    {
+      "id": 10,
+      "time_base": "1/120000",
+      "start": 235718400,
+      "start_time": "1964.320000",
+      "end": 244862400,
+      "end_time": "2040.520000",
+      "tags": {
+        "title": "如果失去大肥鱼"
+      }
+    },
+    {
+      "id": 11,
+      "time_base": "1/120000",
+      "start": 244862400,
+      "start_time": "2040.520000",
+      "end": 277348800,
+      "end_time": "2311.240000",
+      "tags": {
+        "title": "被切断的接口与机会"
+      }
+    },
+    {
+      "id": 12,
+      "time_base": "1/120000",
+      "start": 277348800,
+      "start_time": "2311.240000",
+      "end": 300840000,
+      "end_time": "2507.000000",
+      "tags": {
+        "title": "思想与协作的损失"
+      }
+    },
+    {
+      "id": 13,
+      "time_base": "1/120000",
+      "start": 300840000,
+      "start_time": "2507.000000",
+      "end": 326832000,
+      "end_time": "2723.600000",
+      "tags": {
+        "title": "我们不能失去大肥鱼"
+      }
+    }
+  ]
+}

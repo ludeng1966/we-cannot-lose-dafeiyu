@@ -1,0 +1,20 @@
+{
+  "scope": "本工程现有可运行阅读册的实际浏览器操作录屏",
+  "items": [
+    {
+      "key": "reading_tool",
+      "src": "assets/local-tool/reading-tool-demo.mp4",
+      "duration": 9.6,
+      "fps": 60,
+      "width": 1280,
+      "height": 720,
+      "hasAudio": false,
+      "kind": "local-runnable-tool-recording",
+      "sourcePage": "assets/shared-demo/derived/index.html",
+      "captureScript": "assets/local-tool/record-tool.cjs",
+      "recordedActions": ["滚动浏览现有六个资料条目", "返回搜索栏", "搜索复用并显示实际筛选结果", "改搜工具并显示实际筛选结果"],
+      "contentBoundary": "是本工程自制工具的实际运行与输出，不是某位用户的DSH任务记录，不证明任何平台行为。界面文字、过滤结果与计数由原页面代码生成；光标是录屏指示层。",
+      "color": "原页面颜色，未灰度处理"
+    }
+  ]
+}

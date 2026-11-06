@@ -1,0 +1,75 @@
+{
+  "items": [
+    {
+      "key": "p3_help_docs",
+      "src": "assets/full-p3/p3_help_docs.png",
+      "sourcePage": "https://github.com/QCYTSN/dsh-dafeiyu/issues/24",
+      "author": "QCYTSN",
+      "date": "2026-09-02T12:13:57Z",
+      "excerpt": "文档已随 #63 合入 main，并包含在刚刚发布的 v0.1.7 中",
+      "kind": "code-composed-source-quotation",
+      "boundary": "公开评论原话的图形编排，非网页原始截图；保留作者与日期，不虚构历史活动"
+    },
+    {
+      "key": "p3_help_release",
+      "src": "assets/full-p3/p3_help_release.png",
+      "sourcePage": "https://github.com/QCYTSN/dsh-dafeiyu/issues/12",
+      "author": "QCYTSN",
+      "date": "2026-08-17T04:59:45Z",
+      "excerpt": "已完成并随 `v0.1.0-alpha.10` 发布：",
+      "kind": "code-composed-source-quotation",
+      "boundary": "公开评论原话的图形编排，非网页原始截图；保留作者与日期，不虚构历史活动"
+    },
+    {
+      "key": "p3_help_support",
+      "src": "assets/full-p3/p3_help_support.png",
+      "sourcePage": "https://github.com/PC2005-cloud/dsh-pet/issues/246",
+      "author": "PC2005-cloud",
+      "date": "2026-10-30T09:25:14Z",
+      "excerpt": "支持👍",
+      "kind": "code-composed-source-quotation",
+      "boundary": "公开评论原话的图形编排，非网页原始截图；保留作者与日期，不虚构历史活动"
+    },
+    {
+      "key": "p3_book30",
+      "src": "evidence/截图/20_手稿第30卷_236页_新生产关系.png",
+      "kind": "user-provided-original-scan"
+    },
+    {
+      "key": "p3_book31",
+      "src": "evidence/截图/21_手稿第31卷_101页_物质条件.png",
+      "kind": "user-provided-original-scan"
+    },
+    {
+      "key": "p3_workbench",
+      "src": "assets/full-p3/p3_workbench.mp4",
+      "duration": 20,
+      "fps": 60,
+      "width": 1280,
+      "height": 720,
+      "sourcePage": "assets/full-p3/workbench.html",
+      "boundary": "本工程实际建立的资料检索/阅读/索引导出网页，实际操作与结果；不是某位真实历史用户的Agent任务"
+    },
+    {
+      "key": "p3_browser_notes",
+      "src": "assets/full-p3/p3-browser-notes.mp4",
+      "duration": 16,
+      "fps": 30,
+      "sourcePage": "https://github.com/ROOKIE02314/dsh-browser",
+      "sourceOriginal": "assets/motion-sources/originals/browser_actions.mp4",
+      "sourceStart": 118,
+      "sourceEnd": 134,
+      "boundary": "作者真实软件演示的未用片段，不作为本机新任务或历史学生实践凭证"
+    },
+    {
+      "key": "p3_geometry",
+      "src": "assets/full-p3/p3-geometry.mp4",
+      "duration": 16,
+      "fps": 60,
+      "width": 1280,
+      "height": 720,
+      "sourcePage": "assets/full-p3/geometry-tool.html",
+      "boundary": "本工程自制可运行三维投影工具，实际旋转/展开与SVG导出，无外部模型任务、业务数据或统计声称"
+    }
+  ]
+}

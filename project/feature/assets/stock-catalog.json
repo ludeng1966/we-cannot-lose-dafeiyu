@@ -1,0 +1,103 @@
+{
+  "date": "2026-11-01",
+  "items": [
+    {
+      "key": "stock_keyboard",
+      "src": "assets/stock/clips/stock_keyboard.mp4",
+      "duration": 9,
+      "width": 1280,
+      "height": 720,
+      "fps": 30,
+      "page": "https://mixkit.co/free-stock-video/hands-of-a-person-typing-on-an-editing-keyboard-41266/",
+      "mediaUrl": "https://assets.mixkit.co/videos/41266/41266-720.mp4",
+      "license": "Mixkit Stock Video Free License",
+      "licenseUrl": "https://mixkit.co/license/#videoFree",
+      "title": "键盘输入｜手部实拍",
+      "usage": "泛指实拍情境，不暗示照片对象使用过DSH或经历封禁"
+    },
+    {
+      "key": "stock_student",
+      "src": "assets/stock/clips/stock_student.mp4",
+      "duration": 6.2,
+      "width": 1280,
+      "height": 720,
+      "fps": 30,
+      "page": "https://mixkit.co/free-stock-video/concentrated-boy-studying-at-home-4761/",
+      "mediaUrl": "https://assets.mixkit.co/videos/4761/4761-720.mp4",
+      "license": "Mixkit Stock Video Free License",
+      "licenseUrl": "https://mixkit.co/license/#videoFree",
+      "title": "学习与笔记",
+      "usage": "泛指实拍情境，不暗示照片对象使用过DSH或经历封禁"
+    },
+    {
+      "key": "stock_book",
+      "src": "assets/stock/clips/stock_book.mp4",
+      "duration": 6.8,
+      "width": 1280,
+      "height": 720,
+      "fps": 30,
+      "page": "https://mixkit.co/free-stock-video/person-flipping-through-a-book-looking-for-a-page-4723/",
+      "mediaUrl": "https://assets.mixkit.co/videos/4723/4723-720.mp4",
+      "license": "Mixkit Stock Video Free License",
+      "licenseUrl": "https://mixkit.co/license/#videoFree",
+      "title": "阅读与翻页",
+      "usage": "泛指实拍情境，不暗示照片对象使用过DSH或经历封禁"
+    },
+    {
+      "key": "stock_phone",
+      "src": "assets/stock/clips/stock_phone.mp4",
+      "duration": 9,
+      "width": 1280,
+      "height": 720,
+      "fps": 30,
+      "page": "https://mixkit.co/free-stock-video/hands-of-a-person-typing-on-a-cell-phone-4915/",
+      "mediaUrl": "https://assets.mixkit.co/videos/4915/4915-720.mp4",
+      "license": "Mixkit Stock Video Free License",
+      "licenseUrl": "https://mixkit.co/license/#videoFree",
+      "title": "手机输入",
+      "usage": "泛指实拍情境，不暗示照片对象使用过DSH或经历封禁"
+    },
+    {
+      "key": "stock_design",
+      "src": "assets/stock/clips/stock_design.mp4",
+      "duration": 9,
+      "width": 1280,
+      "height": 720,
+      "fps": 30,
+      "page": "https://mixkit.co/free-stock-video/a-graphic-designer-working-with-a-color-picker-for-a-50600/",
+      "mediaUrl": "https://assets.mixkit.co/videos/50600/50600-720.mp4",
+      "license": "Mixkit Stock Video Free License",
+      "licenseUrl": "https://mixkit.co/license/#videoFree",
+      "title": "图形设计与调色",
+      "usage": "泛指实拍情境，不暗示照片对象使用过DSH或经历封禁"
+    },
+    {
+      "key": "stock_edit",
+      "src": "assets/stock/clips/stock_edit.mp4",
+      "duration": 9,
+      "width": 1280,
+      "height": 720,
+      "fps": 30,
+      "page": "https://mixkit.co/free-stock-video/cursor-working-on-a-video-editing-software-close-up-shot-50605/",
+      "mediaUrl": "https://assets.mixkit.co/videos/50605/50605-720.mp4",
+      "license": "Mixkit Stock Video Free License",
+      "licenseUrl": "https://mixkit.co/license/#videoFree",
+      "title": "剪辑时间线操作",
+      "usage": "泛指实拍情境，不暗示照片对象使用过DSH或经历封禁"
+    },
+    {
+      "key": "stock_programmer",
+      "src": "assets/stock/clips/stock_programmer.mp4",
+      "duration": 9,
+      "width": 1280,
+      "height": 720,
+      "fps": 30,
+      "page": "https://mixkit.co/free-stock-video/programmer-working-with-codes-on-a-computer-41637/",
+      "mediaUrl": "https://assets.mixkit.co/videos/41637/41637-720.mp4",
+      "license": "Mixkit Stock Video Free License",
+      "licenseUrl": "https://mixkit.co/license/#videoFree",
+      "title": "软件开发工作",
+      "usage": "泛指实拍情境，不暗示照片对象使用过DSH或经历封禁"
+    }
+  ]
+}

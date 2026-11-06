@@ -1,0 +1,359 @@
+{
+  "version": "V14.1",
+  "status": "native_preview_verified",
+  "pictureDuration": 2601.725,
+  "exported": false,
+  "windows": [
+    {
+      "id": "manual-labour",
+      "key": "porter",
+      "start": 705.82,
+      "end": 709.52,
+      "sourceStart": 13.7,
+      "credit": "《保时捷名场面高清版》片段 · MJanho / B站",
+      "avatar": [
+        65,
+        600,
+        240
+      ],
+      "box": [
+        350,
+        55,
+        1500,
+        830
+      ],
+      "reason": "脑力劳动与体力劳动分工；只取跑车经过与载货搬运劳动同框，不认定车主或当事人关系。",
+      "avatarSize": "small"
+    },
+    {
+      "id": "factory-work",
+      "key": "factory_eighteen",
+      "start": 755.92,
+      "end": 761.52,
+      "sourceStart": 139.4,
+      "credit": "《十八岁的流水线》片段 · 天书小羊说 / B站",
+      "avatar": [
+        65,
+        600,
+        240
+      ],
+      "box": [
+        350,
+        55,
+        1500,
+        830
+      ],
+      "reason": "工人操作机器、创造财富；保留焊接/组装过程，不用伤口和医疗画面，不补充工资、身份或工时断言。",
+      "avatarSize": "small"
+    },
+    {
+      "id": "lovable-partner",
+      "key": "night_study",
+      "start": 1224.53,
+      "end": 1231.03,
+      "credit": "用户提供插画",
+      "avatar": false,
+      "box": [
+        460,
+        18,
+        1000,
+        890
+      ],
+      "reason": "“不再首先是一套知识体系，而是一个可爱的伙伴”；完整展出插画，不冒充操作录屏。"
+    },
+    {
+      "id": "dsh-creative-plugin",
+      "key": "dsh_creative",
+      "start": 1263.6,
+      "end": 1270.6,
+      "sourceStart": 21,
+      "credit": "DeepSeekHarness · 创造模式",
+      "avatar": [
+        -210,
+        45,
+        760
+      ],
+      "avatarSize": "large",
+      "box": [
+        380,
+        55,
+        1470,
+        830
+      ],
+      "reason": "DSH框架及插件设计；同源工具执行到下班倒计时结果，7秒原速，不作为首次用户的个人记录。"
+    },
+    {
+      "id": "fan-rice-bowl",
+      "key": "envy_fish",
+      "start": 2406.31,
+      "end": 2409.51,
+      "sourceStart": 24.7,
+      "credit": "《所以说我很羡慕你啊…大肥鱼》· a网友爱顺音",
+      "avatar": false,
+      "box": [
+        150,
+        44,
+        1620,
+        850
+      ],
+      "reason": "贪吃白饭的蓝色鲸鱼娘；二次元二创，只作文化形象，不称Live2D或Agent实操。"
+    },
+    {
+      "id": "ownership-question",
+      "key": "party",
+      "start": 2488.16,
+      "end": 2493.16,
+      "sourceStart": 112,
+      "credit": "聚会现场片段 · 爱吃朝天椒的喵酱 / B站",
+      "avatar": [
+        65,
+        600,
+        240
+      ],
+      "box": [
+        350,
+        55,
+        1500,
+        830
+      ],
+      "reason": "“支配为什么集中在少数所有者手中”的视觉对照；只表现举杯聚会，不推断犯罪、交易，也不将题名日期当已核事件日期。",
+      "avatarSize": "small"
+    }
+  ],
+  "overlays": [
+    {
+      "id": "side-v12_dsh_cloud",
+      "key": "v12_dsh_cloud",
+      "start": 581.0811616161616,
+      "end": 604.1300000000001,
+      "avatar": [
+        -210,
+        45,
+        760
+      ],
+      "avatarSize": "large",
+      "mediaBox": [
+        380,
+        55,
+        1470,
+        830
+      ],
+      "reason": "原生全身在既有左侧栏放大约3.17倍；透明画布边距不计人物大小，保留完整形体及素材安全间隙。"
+    },
+    {
+      "id": "side-v12_calc",
+      "key": "v12_calc",
+      "start": 770.915891891892,
+      "end": 778.7476906291919,
+      "avatar": [
+        -210,
+        45,
+        760
+      ],
+      "avatarSize": "large",
+      "mediaBox": [
+        380,
+        55,
+        1470,
+        830
+      ],
+      "reason": "原生全身在既有左侧栏放大约3.17倍；透明画布边距不计人物大小，保留完整形体及素材安全间隙。"
+    },
+    {
+      "id": "side-v12_flowise_agentflow",
+      "key": "v12_flowise_agentflow",
+      "start": 824.4374,
+      "end": 840.8145890410958,
+      "avatar": [
+        -210,
+        45,
+        760
+      ],
+      "avatarSize": "large",
+      "mediaBox": [
+        380,
+        55,
+        1470,
+        830
+      ],
+      "reason": "原生全身在既有左侧栏放大约3.17倍；透明画布边距不计人物大小，保留完整形体及素材安全间隙。"
+    },
+    {
+      "id": "side-v12_msg_locator",
+      "key": "v12_msg_locator",
+      "start": 1270.625,
+      "end": 1284.483173122963,
+      "avatar": [
+        -210,
+        45,
+        760
+      ],
+      "avatarSize": "large",
+      "mediaBox": null,
+      "reason": "原生全身在既有左侧栏放大约3.17倍；透明画布边距不计人物大小，保留完整形体及素材安全间隙。"
+    },
+    {
+      "id": "side-v12_desktop_windows",
+      "key": "v12_desktop_windows",
+      "start": 1285.276851851852,
+      "end": 1291.2294444444447,
+      "avatar": [
+        -210,
+        45,
+        760
+      ],
+      "avatarSize": "large",
+      "mediaBox": [
+        380,
+        55,
+        1470,
+        830
+      ],
+      "reason": "原生全身在既有左侧栏放大约3.17倍；透明画布边距不计人物大小，保留完整形体及素材安全间隙。"
+    },
+    {
+      "id": "side-v12_oi_pomodoro",
+      "key": "v12_oi_pomodoro",
+      "start": 1355.925,
+      "end": 1366.5661949685534,
+      "avatar": [
+        -210,
+        45,
+        760
+      ],
+      "avatarSize": "large",
+      "mediaBox": [
+        380,
+        55,
+        1470,
+        830
+      ],
+      "reason": "原生全身在既有左侧栏放大约3.17倍；透明画布边距不计人物大小，保留完整形体及素材安全间隙。"
+    },
+    {
+      "id": "side-v12_share_room",
+      "key": "v12_share_room",
+      "start": 1685.55,
+      "end": 1709.859075949367,
+      "avatar": [
+        -210,
+        45,
+        760
+      ],
+      "avatarSize": "large",
+      "mediaBox": [
+        380,
+        55,
+        1470,
+        830
+      ],
+      "reason": "原生全身在既有左侧栏放大约3.17倍；透明画布边距不计人物大小，保留完整形体及素材安全间隙。"
+    },
+    {
+      "id": "side-v12_langflow_build",
+      "key": "v12_langflow_build",
+      "start": 2076.87,
+      "end": 2100.8766666666666,
+      "avatar": [
+        -210,
+        45,
+        760
+      ],
+      "avatarSize": "large",
+      "mediaBox": [
+        380,
+        55,
+        1470,
+        830
+      ],
+      "reason": "原生全身在既有左侧栏放大约3.17倍；透明画布边距不计人物大小，保留完整形体及素材安全间隙。"
+    },
+    {
+      "id": "side-v12_lerobot_pot",
+      "key": "v12_lerobot_pot",
+      "start": 515.42,
+      "end": 521.74,
+      "avatar": [
+        65,
+        600,
+        240
+      ],
+      "avatarSize": "small",
+      "mediaBox": null,
+      "reason": "此前无人物的素材补原小尺寸，主素材留独立左边距。"
+    },
+    {
+      "id": "side-v12_ufo_cross_app_inputs",
+      "key": "v12_ufo_cross_app_inputs",
+      "start": 788.7804412719014,
+      "end": 799.5604347826087,
+      "avatar": [
+        65,
+        600,
+        240
+      ],
+      "avatarSize": "small",
+      "mediaBox": [
+        350,
+        55,
+        1500,
+        830
+      ],
+      "reason": "此前无人物的素材补原小尺寸，主素材留独立左边距。"
+    },
+    {
+      "id": "side-v12_browser_use_form",
+      "key": "v12_browser_use_form",
+      "start": 803.78,
+      "end": 824.1030000000001,
+      "avatar": [
+        65,
+        600,
+        240
+      ],
+      "avatarSize": "small",
+      "mediaBox": [
+        350,
+        55,
+        1500,
+        830
+      ],
+      "reason": "此前无人物的素材补原小尺寸，主素材留独立左边距。"
+    },
+    {
+      "id": "side-v12_openhands_vnc_browser",
+      "key": "v12_openhands_vnc_browser",
+      "start": 922.6682,
+      "end": 943.0051456496741,
+      "avatar": [
+        65,
+        600,
+        240
+      ],
+      "avatarSize": "small",
+      "mediaBox": [
+        350,
+        55,
+        1500,
+        830
+      ],
+      "reason": "此前无人物的素材补原小尺寸，主素材留独立左边距。"
+    },
+    {
+      "id": "side-v12_office_viewer",
+      "key": "v12_office_viewer",
+      "start": 1393.9650000000001,
+      "end": 1401.2779411764707,
+      "avatar": [
+        -210,
+        45,
+        760
+      ],
+      "avatarSize": "large",
+      "mediaBox": null,
+      "nativePresenceId": "actual-software-practice",
+      "reason": "放大已有原生人物，不额外叠加第二个人物。"
+    }
+  ],
+  "policy": "Keep latest narration and all existing timing. Full source bytes only; browser selects short native-speed ranges. Original colors and aspect ratios retained."
+}

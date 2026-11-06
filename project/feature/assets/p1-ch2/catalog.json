@@ -1,0 +1,15 @@
+{
+  "scope": "第二小节：实际本地文件工具执行、路径报错修正与成果页面浏览",
+  "items": [
+    {"key":"p1_task_run","src":"assets/p1-ch2/task-run.mp4","duration":22,"fps":30,"width":1280,"height":720,"hasAudio":false,"kind":"local-runnable-tool-recording","title":"六份文件分类并生成资料库","sourcePage":"assets/p1-ch2/workbench.html","captureScript":"assets/p1-ch2/record.cjs","contentBoundary":"浏览器实际POST本地Node程序，读取真实输入并复制生成结果，再打开实际SVG。是本工程自制工具运行，不是某个社区用户或实际DSH任务记录。"},
+    {"key":"p1_task_debug","src":"assets/p1-ch2/task-debug.mp4","duration":18,"fps":30,"width":1280,"height":720,"hasAudio":false,"kind":"local-runnable-tool-recording","title":"输入路径错误、修改与再次运行","sourcePage":"assets/p1-ch2/workbench.html","captureScript":"assets/p1-ch2/record.cjs","contentBoundary":"实际读取不存在inpt路径导致ENOENT；编辑为input后实际运行成功，终端内容由Node进程产生。未伪造AI聊天、模型思考或真实用户经历。"},
+    {"key":"p1_task_report","src":"assets/p1-ch2/task-report.mp4","duration":14,"fps":30,"width":1280,"height":720,"hasAudio":false,"kind":"local-runnable-tool-recording","title":"浏览生成的资料库与课程文稿","sourcePage":"assets/p1-ch2/tools/result/index.html","captureScript":"assets/p1-ch2/record.cjs","contentBoundary":"实际滚动生成页面并打开课程计划.md，再返回资料库。链接和文稿存在于随包源码。"},
+    {"key":"p1-input","src":"assets/p1-ch2/input.png","kind":"local-runnable-tool-screenshot","title":"实际输入目录与六份文件","sourcePage":"assets/p1-ch2/workbench.html"},
+    {"key":"p1-code","src":"assets/p1-ch2/code.png","kind":"local-runnable-tool-screenshot","title":"实际文件整理程序源码","sourcePage":"assets/p1-ch2/tools/organise.cjs"},
+    {"key":"p1-output","src":"assets/p1-ch2/output.png","kind":"local-runnable-tool-screenshot","title":"实际运行输出与生成结果","sourcePage":"assets/p1-ch2/tools/result/index.html"},
+    {"key":"p1-report","src":"assets/p1-ch2/report.png","kind":"local-runnable-tool-screenshot","title":"真实生成的资料库页面","sourcePage":"assets/p1-ch2/tools/result/index.html"},
+    {"key":"p1-error","src":"assets/p1-ch2/error.png","kind":"local-runnable-tool-screenshot","title":"路径错误的真实Node异常输出","sourcePage":"assets/p1-ch2/tools/broken.cjs"}
+  ],
+  "color":"原生网页、源码和终端色彩，无灰度转换",
+  "recording":"所有视频30fps原帧录制，成片60fps；没有添加循环抖动、平台水印或画外制作说明。"
+}

@@ -1,0 +1,1005 @@
+{
+  "version": "V18",
+  "clock": "latest narration seconds",
+  "coordinateSpace": [
+    1920,
+    1080
+  ],
+  "subtitleTop": 952,
+  "policy": "Only avatar layers change; backgrounds, source video boxes, cut timing, narration and subtitles stay as V17.",
+  "windows": [
+    {
+      "id": "v18-concept-coral-user-needs",
+      "subject": "coral-user-needs",
+      "group": "concept",
+      "start": 75.10915989377968,
+      "end": 83.1135714285714,
+      "box": [
+        205,
+        300,
+        325,
+        600
+      ],
+      "framing": "full",
+      "mood": "neutral",
+      "lookX": 0.35,
+      "fade": 0.25,
+      "reason": "实际查看既有概念人物及后续画面后扩大留白中的人物"
+    },
+    {
+      "id": "v18-concept-ecology-stoppage",
+      "subject": "ecology-stoppage",
+      "group": "concept",
+      "start": 133.0262060908798,
+      "end": 142.85288128342248,
+      "box": [
+        205,
+        310,
+        300,
+        580
+      ],
+      "framing": "full",
+      "mood": "neutral",
+      "lookX": 0.35,
+      "fade": 0.25,
+      "reason": "实际查看既有概念人物及后续画面后扩大留白中的人物"
+    },
+    {
+      "id": "v18-concept-sql-same-person",
+      "subject": "sql-same-person",
+      "group": "concept",
+      "start": 164.42425407511428,
+      "end": 170.12783281224284,
+      "box": [
+        90,
+        235,
+        270,
+        660
+      ],
+      "framing": "full",
+      "mood": "neutral",
+      "lookX": 0.35,
+      "fade": 0.25,
+      "reason": "实际查看既有概念人物及后续画面后扩大留白中的人物"
+    },
+    {
+      "id": "v18-rhythm-rhythm-02",
+      "subject": "rhythm-02",
+      "key": "syndicate",
+      "group": "rhythm",
+      "start": 472,
+      "end": 477,
+      "box": [
+        20,
+        560,
+        150,
+        350
+      ],
+      "framing": "waist",
+      "mood": "neutral",
+      "lookX": 0.35,
+      "fade": 0.25,
+      "reason": "宽屏两侧约190–200px留白，使用半身而不覆盖视频"
+    },
+    {
+      "id": "v18-legacy-media-side-v12_lerobot_pot",
+      "subject": "side-v12_lerobot_pot",
+      "key": "v12_lerobot_pot",
+      "group": "legacy-media",
+      "start": 515.42,
+      "end": 521.74,
+      "box": [
+        35,
+        40,
+        410,
+        885
+      ],
+      "framing": "full",
+      "mood": "neutral",
+      "lookX": 0.35,
+      "fade": 0.25,
+      "reason": "利用既有留白，不移动背景"
+    },
+    {
+      "id": "v18-rhythm-rhythm-03",
+      "subject": "rhythm-03",
+      "key": "factory-line",
+      "group": "rhythm",
+      "start": 532.26,
+      "end": 538.26,
+      "box": [
+        750,
+        140,
+        350,
+        790
+      ],
+      "framing": "full",
+      "mood": "neutral",
+      "lookX": 0.35,
+      "fade": 0.25,
+      "reason": "文字止于x730，竖屏画面从x1120.94开始；中间留白容纳完整人物"
+    },
+    {
+      "id": "v18-legacy-media-side-v12_dsh_cloud",
+      "subject": "side-v12_dsh_cloud",
+      "key": "v12_dsh_cloud",
+      "group": "legacy-media",
+      "start": 581.0811616161616,
+      "end": 604.1300000000001,
+      "box": [
+        8,
+        50,
+        364,
+        875
+      ],
+      "framing": "full",
+      "mood": "neutral",
+      "lookX": 0.35,
+      "fade": 0.25,
+      "reason": "利用既有留白，不移动背景"
+    },
+    {
+      "id": "v18-rhythm-rhythm-04",
+      "subject": "rhythm-04",
+      "key": "factory-line",
+      "group": "rhythm",
+      "start": 621.31,
+      "end": 627.31,
+      "box": [
+        750,
+        140,
+        350,
+        790
+      ],
+      "framing": "full",
+      "mood": "neutral",
+      "lookX": 0.35,
+      "fade": 0.25,
+      "reason": "文字止于x730，竖屏画面从x1120.94开始；中间留白容纳完整人物"
+    },
+    {
+      "id": "v18-concept-productive-capacity",
+      "subject": "productive-capacity",
+      "group": "concept",
+      "start": 665.57,
+      "end": 679.97,
+      "box": [
+        70,
+        270,
+        290,
+        610
+      ],
+      "framing": "full",
+      "mood": "neutral",
+      "lookX": 0.35,
+      "fade": 0.25,
+      "reason": "在下一个图解开始前结束，保留原场景主体"
+    },
+    {
+      "id": "v18-rhythm-rhythm-05",
+      "subject": "rhythm-05",
+      "key": "new-york",
+      "group": "rhythm",
+      "start": 687.03,
+      "end": 693.03,
+      "box": [
+        20,
+        560,
+        150,
+        350
+      ],
+      "framing": "waist",
+      "mood": "neutral",
+      "lookX": 0.35,
+      "fade": 0.25,
+      "reason": "宽屏两侧约190–200px留白，使用半身而不覆盖视频"
+    },
+    {
+      "id": "v18-provided-manual-labour",
+      "subject": "manual-labour",
+      "key": "porter",
+      "group": "provided",
+      "start": 705.82,
+      "end": 709.52,
+      "box": [
+        15,
+        60,
+        315,
+        870
+      ],
+      "framing": "full",
+      "mood": "neutral",
+      "lookX": 0.35,
+      "fade": 0.25,
+      "reason": "利用既有留白，不移动背景"
+    },
+    {
+      "id": "v18-rhythm-rhythm-29",
+      "subject": "rhythm-29",
+      "key": "factory-line",
+      "group": "rhythm",
+      "start": 713.66,
+      "end": 719.66,
+      "box": [
+        750,
+        140,
+        350,
+        790
+      ],
+      "framing": "full",
+      "mood": "neutral",
+      "lookX": 0.35,
+      "fade": 0.25,
+      "reason": "文字止于x730，竖屏画面从x1120.94开始；中间留白容纳完整人物"
+    },
+    {
+      "id": "v18-provided-factory-work",
+      "subject": "factory-work",
+      "key": "factory_eighteen",
+      "group": "provided",
+      "start": 755.92,
+      "end": 761.52,
+      "box": [
+        15,
+        60,
+        315,
+        870
+      ],
+      "framing": "full",
+      "mood": "neutral",
+      "lookX": 0.35,
+      "fade": 0.25,
+      "reason": "利用既有留白，不移动背景"
+    },
+    {
+      "id": "v18-legacy-media-side-v12_calc",
+      "subject": "side-v12_calc",
+      "key": "v12_calc",
+      "group": "legacy-media",
+      "start": 770.915891891892,
+      "end": 778.7476906291919,
+      "box": [
+        8,
+        50,
+        364,
+        875
+      ],
+      "framing": "full",
+      "mood": "neutral",
+      "lookX": 0.35,
+      "fade": 0.25,
+      "reason": "利用既有留白，不移动背景"
+    },
+    {
+      "id": "v18-legacy-media-side-v12_ufo_cross_app_inputs",
+      "subject": "side-v12_ufo_cross_app_inputs",
+      "key": "v12_ufo_cross_app_inputs",
+      "group": "legacy-media",
+      "start": 788.7804412719014,
+      "end": 799.5604347826087,
+      "box": [
+        15,
+        60,
+        315,
+        870
+      ],
+      "framing": "full",
+      "mood": "neutral",
+      "lookX": 0.35,
+      "fade": 0.25,
+      "reason": "利用既有留白，不移动背景"
+    },
+    {
+      "id": "v18-legacy-media-side-v12_browser_use_form",
+      "subject": "side-v12_browser_use_form",
+      "key": "v12_browser_use_form",
+      "group": "legacy-media",
+      "start": 803.78,
+      "end": 824.1030000000001,
+      "box": [
+        15,
+        60,
+        315,
+        870
+      ],
+      "framing": "full",
+      "mood": "neutral",
+      "lookX": 0.35,
+      "fade": 0.25,
+      "reason": "利用既有留白，不移动背景"
+    },
+    {
+      "id": "v18-legacy-media-side-v12_flowise_agentflow",
+      "subject": "side-v12_flowise_agentflow",
+      "key": "v12_flowise_agentflow",
+      "group": "legacy-media",
+      "start": 824.4374,
+      "end": 840.8145890410958,
+      "box": [
+        8,
+        50,
+        364,
+        875
+      ],
+      "framing": "full",
+      "mood": "neutral",
+      "lookX": 0.35,
+      "fade": 0.25,
+      "reason": "利用既有留白，不移动背景"
+    },
+    {
+      "id": "v18-rhythm-rhythm-07",
+      "subject": "rhythm-07",
+      "key": "factory-line",
+      "group": "rhythm",
+      "start": 887.145,
+      "end": 893.145,
+      "box": [
+        750,
+        140,
+        350,
+        790
+      ],
+      "framing": "full",
+      "mood": "neutral",
+      "lookX": 0.35,
+      "fade": 0.25,
+      "reason": "文字止于x730，竖屏画面从x1120.94开始；中间留白容纳完整人物"
+    },
+    {
+      "id": "v18-legacy-media-side-v12_openhands_vnc_browser",
+      "subject": "side-v12_openhands_vnc_browser",
+      "key": "v12_openhands_vnc_browser",
+      "group": "legacy-media",
+      "start": 922.6682,
+      "end": 943.0051456496741,
+      "box": [
+        15,
+        60,
+        315,
+        870
+      ],
+      "framing": "full",
+      "mood": "neutral",
+      "lookX": 0.35,
+      "fade": 0.25,
+      "reason": "利用既有留白，不移动背景"
+    },
+    {
+      "id": "v18-concept-capability-limits",
+      "subject": "capability-limits",
+      "group": "concept",
+      "start": 943.146021460578,
+      "end": 945.9153481457932,
+      "box": [
+        70,
+        270,
+        390,
+        610
+      ],
+      "framing": "full",
+      "mood": "neutral",
+      "lookX": 0.35,
+      "fade": 0.25,
+      "reason": "实际查看既有概念人物及后续画面后扩大留白中的人物"
+    },
+    {
+      "id": "v18-rhythm-rhythm-09",
+      "subject": "rhythm-09",
+      "key": "lenin-factory",
+      "group": "rhythm",
+      "start": 982,
+      "end": 988,
+      "box": [
+        25,
+        150,
+        325,
+        770
+      ],
+      "framing": "full",
+      "mood": "neutral",
+      "lookX": 0.35,
+      "fade": 0.25,
+      "reason": "已检查编码内稳定黑柱；有效影像从x375.75开始"
+    },
+    {
+      "id": "v18-rhythm-rhythm-10",
+      "subject": "rhythm-10",
+      "key": "factory-line",
+      "group": "rhythm",
+      "start": 1002.285,
+      "end": 1008.285,
+      "box": [
+        750,
+        140,
+        350,
+        790
+      ],
+      "framing": "full",
+      "mood": "neutral",
+      "lookX": 0.35,
+      "fade": 0.25,
+      "reason": "文字止于x730，竖屏画面从x1120.94开始；中间留白容纳完整人物"
+    },
+    {
+      "id": "v18-rhythm-rhythm-30",
+      "subject": "rhythm-30",
+      "key": "lenin-factory",
+      "group": "rhythm",
+      "start": 1029,
+      "end": 1035,
+      "box": [
+        25,
+        150,
+        325,
+        770
+      ],
+      "framing": "full",
+      "mood": "neutral",
+      "lookX": 0.35,
+      "fade": 0.25,
+      "reason": "已检查编码内稳定黑柱；有效影像从x375.75开始"
+    },
+    {
+      "id": "v18-concept-open-does-not-mean-learned",
+      "subject": "open-does-not-mean-learned",
+      "group": "concept",
+      "start": 1091.300000399061,
+      "end": 1107.7616670261373,
+      "box": [
+        1360,
+        500,
+        510,
+        425
+      ],
+      "framing": "waist",
+      "mood": "neutral",
+      "lookX": -0.35,
+      "fade": 0.25,
+      "reason": "实际查看既有概念人物及后续画面后扩大留白中的人物"
+    },
+    {
+      "id": "v18-rhythm-rhythm-12",
+      "subject": "rhythm-12",
+      "key": "oi-pomodoro",
+      "group": "rhythm",
+      "start": 1193.33,
+      "end": 1199.33,
+      "box": [
+        20,
+        560,
+        150,
+        350
+      ],
+      "framing": "waist",
+      "mood": "neutral",
+      "lookX": 0.35,
+      "fade": 0.25,
+      "reason": "宽屏两侧约190–200px留白，使用半身而不覆盖视频"
+    },
+    {
+      "id": "v18-provided-lovable-partner",
+      "subject": "lovable-partner",
+      "key": "night_study",
+      "group": "provided",
+      "start": 1224.53,
+      "end": 1231.03,
+      "box": [
+        30,
+        50,
+        390,
+        875
+      ],
+      "framing": "full",
+      "mood": "neutral",
+      "lookX": 0.35,
+      "fade": 0.25,
+      "reason": "利用既有留白，不移动背景"
+    },
+    {
+      "id": "v18-provided-dsh-creative-plugin",
+      "subject": "dsh-creative-plugin",
+      "key": "dsh_creative",
+      "group": "provided",
+      "start": 1263.6,
+      "end": 1270.6,
+      "box": [
+        8,
+        50,
+        364,
+        875
+      ],
+      "framing": "full",
+      "mood": "neutral",
+      "lookX": 0.35,
+      "fade": 0.25,
+      "reason": "利用既有留白，不移动背景"
+    },
+    {
+      "id": "v18-legacy-media-side-v12_msg_locator",
+      "subject": "side-v12_msg_locator",
+      "key": "v12_msg_locator",
+      "group": "legacy-media",
+      "start": 1270.625,
+      "end": 1284.483173122963,
+      "box": [
+        35,
+        40,
+        410,
+        885
+      ],
+      "framing": "full",
+      "mood": "neutral",
+      "lookX": 0.35,
+      "fade": 0.25,
+      "reason": "利用既有留白，不移动背景"
+    },
+    {
+      "id": "v18-legacy-media-side-v12_desktop_windows",
+      "subject": "side-v12_desktop_windows",
+      "key": "v12_desktop_windows",
+      "group": "legacy-media",
+      "start": 1285.276851851852,
+      "end": 1291.2294444444447,
+      "box": [
+        8,
+        50,
+        364,
+        875
+      ],
+      "framing": "full",
+      "mood": "neutral",
+      "lookX": 0.35,
+      "fade": 0.25,
+      "reason": "利用既有留白，不移动背景"
+    },
+    {
+      "id": "v18-legacy-media-side-v12_oi_pomodoro",
+      "subject": "side-v12_oi_pomodoro",
+      "key": "v12_oi_pomodoro",
+      "group": "legacy-media",
+      "start": 1355.925,
+      "end": 1366.5661949685534,
+      "box": [
+        8,
+        50,
+        364,
+        875
+      ],
+      "framing": "full",
+      "mood": "neutral",
+      "lookX": 0.35,
+      "fade": 0.25,
+      "reason": "利用既有留白，不移动背景"
+    },
+    {
+      "id": "v18-legacy-media-side-v12_office_viewer",
+      "subject": "side-v12_office_viewer",
+      "key": "v12_office_viewer",
+      "group": "legacy-media",
+      "start": 1393.9650000000001,
+      "end": 1401.2779411764707,
+      "box": [
+        15,
+        50,
+        380,
+        875
+      ],
+      "framing": "full",
+      "mood": "neutral",
+      "lookX": 0.35,
+      "fade": 0.25,
+      "reason": "利用既有留白，不移动背景"
+    },
+    {
+      "id": "v18-rhythm-rhythm-14",
+      "subject": "rhythm-14",
+      "key": "new-york",
+      "group": "rhythm",
+      "start": 1493.835,
+      "end": 1499.835,
+      "box": [
+        20,
+        560,
+        150,
+        350
+      ],
+      "framing": "waist",
+      "mood": "neutral",
+      "lookX": 0.35,
+      "fade": 0.25,
+      "reason": "宽屏两侧约190–200px留白，使用半身而不覆盖视频"
+    },
+    {
+      "id": "v18-rhythm-rhythm-15",
+      "subject": "rhythm-15",
+      "key": "worker-tracker",
+      "group": "rhythm",
+      "start": 1518.075,
+      "end": 1524.075,
+      "box": [
+        750,
+        140,
+        350,
+        790
+      ],
+      "framing": "full",
+      "mood": "neutral",
+      "lookX": 0.35,
+      "fade": 0.25,
+      "reason": "文字止于x730，竖屏画面从x1120.94开始；中间留白容纳完整人物"
+    },
+    {
+      "id": "v18-rhythm-rhythm-06",
+      "subject": "rhythm-06",
+      "key": "stone-age",
+      "group": "rhythm",
+      "start": 1628.29,
+      "end": 1631.29,
+      "box": [
+        35,
+        165,
+        320,
+        750
+      ],
+      "framing": "full",
+      "mood": "neutral",
+      "lookX": 0.35,
+      "fade": 0.25,
+      "reason": "4:3历史画面左侧原有留白"
+    },
+    {
+      "id": "v18-rhythm-rhythm-16",
+      "subject": "rhythm-16",
+      "key": "flowise-agentflow",
+      "group": "rhythm",
+      "start": 1661.73,
+      "end": 1667.73,
+      "box": [
+        12,
+        600,
+        135,
+        320
+      ],
+      "framing": "waist",
+      "mood": "neutral",
+      "lookX": 0.35,
+      "fade": 0.25,
+      "reason": "此短片左侧只有167.72px留白，额外保留间隙"
+    },
+    {
+      "id": "v18-legacy-media-side-v12_share_room",
+      "subject": "side-v12_share_room",
+      "key": "v12_share_room",
+      "group": "legacy-media",
+      "start": 1685.55,
+      "end": 1709.859075949367,
+      "box": [
+        8,
+        50,
+        364,
+        875
+      ],
+      "framing": "full",
+      "mood": "neutral",
+      "lookX": 0.35,
+      "fade": 0.25,
+      "reason": "利用既有留白，不移动背景"
+    },
+    {
+      "id": "v18-rhythm-rhythm-17",
+      "subject": "rhythm-17",
+      "key": "syndicate",
+      "group": "rhythm",
+      "start": 1723.385,
+      "end": 1728.385,
+      "box": [
+        20,
+        560,
+        150,
+        350
+      ],
+      "framing": "waist",
+      "mood": "neutral",
+      "lookX": 0.35,
+      "fade": 0.25,
+      "reason": "宽屏两侧约190–200px留白，使用半身而不覆盖视频"
+    },
+    {
+      "id": "v18-rhythm-rhythm-19",
+      "subject": "rhythm-19",
+      "key": "factory-line",
+      "group": "rhythm",
+      "start": 1790,
+      "end": 1796,
+      "box": [
+        750,
+        140,
+        350,
+        790
+      ],
+      "framing": "full",
+      "mood": "neutral",
+      "lookX": 0.35,
+      "fade": 0.25,
+      "reason": "文字止于x730，竖屏画面从x1120.94开始；中间留白容纳完整人物"
+    },
+    {
+      "id": "v18-rhythm-rhythm-31",
+      "subject": "rhythm-31",
+      "key": "stone-age",
+      "group": "rhythm",
+      "start": 1839.395,
+      "end": 1845.395,
+      "box": [
+        35,
+        165,
+        320,
+        750
+      ],
+      "framing": "full",
+      "mood": "neutral",
+      "lookX": 0.35,
+      "fade": 0.25,
+      "reason": "4:3历史画面左侧原有留白"
+    },
+    {
+      "id": "v18-rhythm-rhythm-20",
+      "subject": "rhythm-20",
+      "key": "calc-tool",
+      "group": "rhythm",
+      "start": 1920.955,
+      "end": 1926.955,
+      "box": [
+        20,
+        560,
+        150,
+        350
+      ],
+      "framing": "waist",
+      "mood": "neutral",
+      "lookX": 0.35,
+      "fade": 0.25,
+      "reason": "宽屏两侧约190–200px留白，使用半身而不覆盖视频"
+    },
+    {
+      "id": "v18-rhythm-rhythm-21",
+      "subject": "rhythm-21",
+      "key": "factory-line",
+      "group": "rhythm",
+      "start": 1946,
+      "end": 1952,
+      "box": [
+        750,
+        140,
+        350,
+        790
+      ],
+      "framing": "full",
+      "mood": "neutral",
+      "lookX": 0.35,
+      "fade": 0.25,
+      "reason": "文字止于x730，竖屏画面从x1120.94开始；中间留白容纳完整人物"
+    },
+    {
+      "id": "v18-rhythm-rhythm-22",
+      "subject": "rhythm-22",
+      "key": "message-plugin",
+      "group": "rhythm",
+      "start": 1974.19,
+      "end": 1980.19,
+      "box": [
+        25,
+        170,
+        285,
+        750
+      ],
+      "framing": "full",
+      "mood": "neutral",
+      "lookX": 0.35,
+      "fade": 0.25,
+      "reason": "消息界面原比例画面从x338.18开始"
+    },
+    {
+      "id": "v18-legacy-media-side-v12_langflow_build",
+      "subject": "side-v12_langflow_build",
+      "key": "v12_langflow_build",
+      "group": "legacy-media",
+      "start": 2076.87,
+      "end": 2100.8766666666666,
+      "box": [
+        8,
+        50,
+        364,
+        875
+      ],
+      "framing": "full",
+      "mood": "neutral",
+      "lookX": 0.35,
+      "fade": 0.25,
+      "reason": "利用既有留白，不移动背景"
+    },
+    {
+      "id": "v18-rhythm-rhythm-23",
+      "subject": "rhythm-23",
+      "key": "syndicate",
+      "group": "rhythm",
+      "start": 2127,
+      "end": 2130,
+      "box": [
+        20,
+        560,
+        150,
+        350
+      ],
+      "framing": "waist",
+      "mood": "neutral",
+      "lookX": 0.35,
+      "fade": 0.25,
+      "reason": "宽屏两侧约190–200px留白，使用半身而不覆盖视频"
+    },
+    {
+      "id": "v18-rhythm-rhythm-24",
+      "subject": "rhythm-24",
+      "key": "factory-line",
+      "group": "rhythm",
+      "start": 2165.545,
+      "end": 2171.545,
+      "box": [
+        750,
+        140,
+        350,
+        790
+      ],
+      "framing": "full",
+      "mood": "neutral",
+      "lookX": 0.35,
+      "fade": 0.25,
+      "reason": "文字止于x730，竖屏画面从x1120.94开始；中间留白容纳完整人物"
+    },
+    {
+      "id": "v18-rhythm-rhythm-25",
+      "subject": "rhythm-25",
+      "key": "stone-age",
+      "group": "rhythm",
+      "start": 2228,
+      "end": 2234,
+      "box": [
+        35,
+        165,
+        320,
+        750
+      ],
+      "framing": "full",
+      "mood": "neutral",
+      "lookX": 0.35,
+      "fade": 0.25,
+      "reason": "4:3历史画面左侧原有留白"
+    },
+    {
+      "id": "v18-rhythm-rhythm-26",
+      "subject": "rhythm-26",
+      "key": "lenin-factory",
+      "group": "rhythm",
+      "start": 2251,
+      "end": 2257,
+      "box": [
+        25,
+        150,
+        325,
+        770
+      ],
+      "framing": "full",
+      "mood": "neutral",
+      "lookX": 0.35,
+      "fade": 0.25,
+      "reason": "已检查编码内稳定黑柱；有效影像从x375.75开始"
+    },
+    {
+      "id": "v18-provided-fan-rice-bowl",
+      "subject": "fan-rice-bowl",
+      "key": "envy_fish",
+      "group": "provided",
+      "start": 2406.31,
+      "end": 2409.51,
+      "box": [
+        20,
+        560,
+        125,
+        350
+      ],
+      "framing": "waist",
+      "mood": "neutral",
+      "lookX": 0.35,
+      "fade": 0.25,
+      "reason": "利用既有留白，不移动背景"
+    },
+    {
+      "id": "v18-provided-ownership-question",
+      "subject": "ownership-question",
+      "key": "party",
+      "group": "provided",
+      "start": 2488.16,
+      "end": 2493.16,
+      "box": [
+        15,
+        60,
+        315,
+        870
+      ],
+      "framing": "full",
+      "mood": "neutral",
+      "lookX": 0.35,
+      "fade": 0.25,
+      "reason": "利用既有留白，不移动背景"
+    },
+    {
+      "id": "v18-rhythm-rhythm-28",
+      "subject": "rhythm-28",
+      "key": "lenin-factory",
+      "group": "rhythm",
+      "start": 2506.32,
+      "end": 2512.32,
+      "box": [
+        25,
+        150,
+        325,
+        770
+      ],
+      "framing": "full",
+      "mood": "neutral",
+      "lookX": 0.35,
+      "fade": 0.25,
+      "reason": "已检查编码内稳定黑柱；有效影像从x375.75开始"
+    }
+  ],
+  "focus": {
+    "box": [
+      1450,
+      445,
+      360,
+      350
+    ],
+    "framing": "waist",
+    "mood": "neutral",
+    "lookX": -0.35,
+    "fade": 0.14,
+    "transition": 0.42,
+    "onlyDuring": "hold",
+    "reason": "局部正文止于x1390，缩略图止于y420，下方留白放半身"
+  },
+  "reviewSamples": [
+    {
+      "time": 534.26,
+      "label": "竖屏素材 · 放大全身"
+    },
+    {
+      "time": 592.61,
+      "label": "软件留白 · 大人物"
+    },
+    {
+      "time": 634.7,
+      "label": "图解局部 · 半身"
+    },
+    {
+      "time": 794,
+      "label": "原小人物 · 放大"
+    },
+    {
+      "time": 985,
+      "label": "电影侧边 · 新增人物"
+    },
+    {
+      "time": 1629.79,
+      "label": "历史影像 · 新增全身"
+    },
+    {
+      "time": 1521.08,
+      "label": "劳动管理 · 放大全身"
+    },
+    {
+      "time": 1227.7,
+      "label": "插画侧边 · 新增全身"
+    }
+  ]
+}

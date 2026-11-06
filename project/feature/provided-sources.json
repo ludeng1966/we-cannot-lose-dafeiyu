@@ -1,0 +1,98 @@
+{
+  "version": "V14",
+  "sources": [
+    {
+      "key": "dsh_creative",
+      "kind": "video",
+      "src": "assets/user-media/dsh_creative.mp4",
+      "originalFile": "[原工程本地路径]/大家好，这里是 DeepSeek Harness，正式入驻 B 站！_P1_创造模式-中文版_视频.mp4",
+      "bytes": 13844392,
+      "sha256": "42987c19533324503a16148648aa03678fdf2be57ae4ce1b82008ac7e8e6fdf9",
+      "sourcePage": "https://www.bilibili.com/video/BV1i24P6rEmt/",
+      "title": "大家好，这里是 DeepSeek Harness，正式入驻 B 站！",
+      "uploader": "DeepSeekHarness",
+      "published": "2026-11-02T21:28:30+08:00",
+      "originalBytesPreserved": true,
+      "sourceAudioTracks": 0,
+      "used": true
+    },
+    {
+      "key": "envy_fish",
+      "kind": "video",
+      "src": "assets/user-media/envy_fish.mp4",
+      "originalFile": "[原工程本地路径]/所以说我很羡慕你啊…大肥鱼_视频.mp4",
+      "bytes": 4330108,
+      "sha256": "97d700c7f07a88ae0a64fd2d43bf6d430ca9056d4f4c34594b8dfc4b9bdabd1b",
+      "sourcePage": "https://www.bilibili.com/video/BV1bGJR6HErW/",
+      "title": "所以说我很羡慕你啊…大肥鱼",
+      "uploader": "a网友爱顺音",
+      "published": "2026-10-19T21:53:14+08:00",
+      "originalBytesPreserved": true,
+      "sourceAudioTracks": 0,
+      "used": true
+    },
+    {
+      "key": "factory_eighteen",
+      "kind": "video",
+      "src": "assets/user-media/factory_eighteen.mp4",
+      "originalFile": "[原工程本地路径]/十八岁的流水线，看完真不想进厂了_视频.mp4",
+      "bytes": 35105547,
+      "sha256": "cce9b2d4a0e37280038d5926fa725b49dc7e2998b5f863114b3654e02602af05",
+      "sourcePage": "https://www.bilibili.com/video/BV19m4y1H78M/",
+      "title": "十八岁的流水线，看完真不想进厂了",
+      "uploader": "天书小羊说",
+      "published": "2023-08-10T19:58:33+08:00",
+      "originalBytesPreserved": true,
+      "sourceAudioTracks": 0,
+      "used": true
+    },
+    {
+      "key": "party",
+      "kind": "video",
+      "src": "assets/user-media/party.mp4",
+      "originalFile": "[原工程本地路径]/许家印马云聚会现场视频2015.11.21_视频.mp4",
+      "bytes": 17110212,
+      "sha256": "75aa5509455d9406c6cd24114db32321621b0fa2b05e333877448eee96cfb650",
+      "sourcePage": "https://www.bilibili.com/video/BV1TXuu6wEg8/",
+      "title": "许家印马云聚会现场视频2015.11.21",
+      "uploader": "爱吃朝天椒的喵酱",
+      "published": "2026-08-08T16:25:21+08:00",
+      "originalBytesPreserved": true,
+      "sourceAudioTracks": 0,
+      "used": true
+    },
+    {
+      "key": "porter",
+      "kind": "video",
+      "src": "assets/user-media/porter.mp4",
+      "originalFile": "[原工程本地路径]/保时捷名场面高清版_视频.mp4",
+      "bytes": 3103425,
+      "sha256": "c58603fd37703fe9f6203465213263644694cb3d10406cdbbf302da778c9c4eb",
+      "sourcePage": "https://www.bilibili.com/video/BV1vc41177Gu/",
+      "title": "保时捷名场面高清版",
+      "uploader": "MJanho",
+      "published": "2023-03-15T02:43:39+08:00",
+      "originalBytesPreserved": true,
+      "sourceAudioTracks": 0,
+      "used": true
+    },
+    {
+      "key": "night_study",
+      "kind": "image",
+      "src": "assets/whale-night-study.jpg",
+      "sha256": "e06b135cc4e8559708f3b58dfaea6ae351e4c4335a5c30aede2cb6485acb0c2d",
+      "source": "User attachment",
+      "used": true,
+      "note": "用户提供的大肥鱼学习插画，完整保留画面与原色。"
+    },
+    {
+      "key": "economic_daily",
+      "kind": "image",
+      "src": "assets/economic-daily-2008-04-05.jpg",
+      "sha256": "dcbb0b6275c6ee7c96e8f83d9b31ae937f32f718ecad909eaae479c9bdd7000e",
+      "source": "User attachment",
+      "used": false,
+      "note": "现有旁白没有三鹿事件背景，保留素材库，避免用单幅正面报道暗示未经展开的因果。"
+    }
+  ]
+}

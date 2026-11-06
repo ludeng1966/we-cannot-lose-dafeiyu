@@ -1,0 +1,63 @@
+{
+  "items": [
+    {
+      "key": "c3_factory",
+      "src": "assets/p1-ch3/c3_factory.mp4",
+      "duration": 6.166667,
+      "width": 1280,
+      "height": 720,
+      "fps": 30,
+      "sourcePage": "https://mixkit.co/free-stock-video/capsule-packing-machine-in-a-factory-4750/",
+      "mediaUrl": "https://assets.mixkit.co/videos/4750/4750-720.mp4",
+      "license": "Mixkit Stock Video Free License",
+      "licenseUrl": "https://mixkit.co/license/#videoFree",
+      "title": "生产线实拍",
+      "sourceSha256": "b2ca314b4159f3b5a9602af824d6a6d2ab4c1a994db8288fef85acba2b1be24d",
+      "boundary": "通用情境实拍，不表示画中人物使用过Agent，未展示真实Agent部署或任务记录。",
+      "color": "原色，原始速度；只截取片段并兼容编码"
+    },
+    {
+      "key": "c3_teacher",
+      "src": "assets/p1-ch3/c3_teacher.mp4",
+      "duration": 9,
+      "width": 1280,
+      "height": 720,
+      "fps": 30,
+      "sourcePage": "https://mixkit.co/free-stock-video/young-teacher-teaching-complicated-equations-4623/",
+      "mediaUrl": "https://assets.mixkit.co/videos/4623/4623-720.mp4",
+      "license": "Mixkit Stock Video Free License",
+      "licenseUrl": "https://mixkit.co/license/#videoFree",
+      "title": "教学实拍",
+      "sourceSha256": "6b0214015ed71dce700146c9d2a6af43116ae47abd9c50cfb75311fa5e2c6c70",
+      "boundary": "通用情境实拍，不表示画中人物使用过Agent，未展示真实Agent部署或任务记录。",
+      "color": "原色，原始速度；只截取片段并兼容编码"
+    },
+    {
+      "key": "c3_lab",
+      "src": "assets/p1-ch3/c3_lab.mp4",
+      "duration": 9.5,
+      "width": 1280,
+      "height": 720,
+      "fps": 30,
+      "sourcePage": "https://mixkit.co/free-stock-video/scientist-adjusting-equipment-in-a-laboratory-4765/",
+      "mediaUrl": "https://assets.mixkit.co/videos/4765/4765-720.mp4",
+      "license": "Mixkit Stock Video Free License",
+      "licenseUrl": "https://mixkit.co/license/#videoFree",
+      "title": "实验与仪器操作实拍",
+      "sourceSha256": "5a2847aaf2ab348875506afb431a0c621f5bc16bf6b3186af358eaf7e01c33da",
+      "boundary": "通用情境实拍，不表示画中人物使用过Agent，未展示真实Agent部署或任务记录。",
+      "color": "原色，原始速度；只截取片段并兼容编码"
+    },
+    {
+      "key": "c3_course",
+      "src": "assets/p1-ch3/c3-course.mp4",
+      "duration": 10.5,
+      "width": 1280,
+      "height": 720,
+      "fps": 60,
+      "title": "函数课堂｜参数调整与实际CSV导出",
+      "sourcePage": "assets/p1-ch3/course-tool.html",
+      "boundary": "本工程自制可运行数学工具，非真实教师使用Agent的记录；曲线与361点CSV由实际函数计算"
+    }
+  ]
+}

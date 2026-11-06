@@ -1,0 +1,182 @@
+{
+  "version": "V3-art-motion-title",
+  "duration": 18,
+  "questions": [
+    {
+      "id": "h01",
+      "date": "2026.04",
+      "name": "女仆鲸鱼娘",
+      "text": "DeepSeek · 女仆鲸鱼娘",
+      "before": "DeepSeek",
+      "keyword": "女仆鲸鱼娘",
+      "after": "",
+      "evidence": "用户提供的成长史；DeepSeek V4 预览版于4月24日发布。https://www.deepseek.com/news/v4-preview/",
+      "index": 1,
+      "start": 0,
+      "end": 2
+    },
+    {
+      "id": "h02",
+      "date": "2026.07–08",
+      "name": "Q版大肥鱼",
+      "text": "Q版形象 · 蓝色大肥鱼 · 开始流传",
+      "before": "Q版形象",
+      "keyword": "蓝色大肥鱼",
+      "after": "开始流传",
+      "evidence": "用户提供的成长史，growth/frame-017.jpg。",
+      "index": 2,
+      "start": 2,
+      "end": 4
+    },
+    {
+      "id": "h03",
+      "date": "2026.08",
+      "name": "Harness 发布",
+      "text": "DeepSeek · Harness 发布",
+      "before": "DeepSeek",
+      "keyword": "Harness 发布",
+      "after": "",
+      "evidence": "官方仓库8月13日已有 v0.1.0-rc 标签。https://github.com/deepseek-ai/deepseek-harness/blob/master/docs/persistence-changes/releases/README.md",
+      "index": 3,
+      "start": 4,
+      "end": 6
+    },
+    {
+      "id": "h04",
+      "date": "2026.08–10",
+      "name": "网络爆火与二创",
+      "text": "大肥鱼 · 网络爆火 · 开放二创",
+      "before": "大肥鱼",
+      "keyword": "网络爆火",
+      "after": "开放二创",
+      "evidence": "用户提供的成长史与鱼灾复盘。",
+      "index": 4,
+      "start": 6,
+      "end": 8
+    },
+    {
+      "id": "h05",
+      "date": "2026.10.15",
+      "name": "会刷B站的鱼",
+      "text": "DSH 插件 · 第一条鱼 · 能刷B站，也能发消息",
+      "before": "DSH 插件",
+      "keyword": "第一条鱼",
+      "after": "能刷B站，也能发消息",
+      "evidence": "日期与先后沿用用户时间线；公开作者演示发表于10月18日。https://www.bilibili.com/video/BV1EPnG6DEJC/",
+      "index": 5,
+      "start": 8,
+      "end": 10
+    },
+    {
+      "id": "h06",
+      "date": "2026.10.20",
+      "name": "大肥鱼出圈",
+      "text": "越来越多的大肥鱼 · 彻底出圈 · 出现在群聊和视频里",
+      "before": "越来越多的大肥鱼",
+      "keyword": "彻底出圈",
+      "after": "出现在群聊和视频里",
+      "evidence": "用户提供的时间线与鱼灾复盘；同期站点上线记录 https://www.1nuo.me/2026/10/20/site-update-2026-10-20/",
+      "index": 6,
+      "start": 10,
+      "end": 12
+    },
+    {
+      "id": "h07",
+      "date": "2026.11.04",
+      "name": "Harness 用户增长",
+      "text": "10月14日—11月4日 · 短短半个月，DSH 用户增长接近三倍",
+      "before": "10月14日 — 11月4日",
+      "keyword": "接近三倍",
+      "after": "短短半个月，DSH 用户增长",
+      "evidence": "片头文案与 API DAU 口径按用户提供。图中数值来自用户提供的增长图。",
+      "index": 7,
+      "start": 12,
+      "end": 14
+    },
+    {
+      "id": "h08",
+      "date": "",
+      "name": "发展还能多远",
+      "text": "发展还能多远",
+      "keyword": "多远",
+      "before": "发展还能",
+      "after": "",
+      "evidence": "用户指定结尾标题，不是历史事件断言",
+      "index": 8,
+      "start": 14,
+      "end": 18,
+      "source": "用户提供的成长史与鱼灾复盘视频"
+    }
+  ],
+  "finalReadableQuestionId": "h08",
+  "musicSlots": [],
+  "thanksSlots": [],
+  "visualPhases": {
+    "orbitBridge": {
+      "start": 4.8,
+      "end": 16
+    },
+    "books": {
+      "start": 16,
+      "end": 16
+    },
+    "videos": {
+      "start": 16,
+      "end": 16
+    },
+    "credits": {
+      "start": 16,
+      "end": 16
+    },
+    "music": {
+      "start": 16,
+      "end": 16
+    },
+    "thanks": {
+      "start": 16,
+      "end": 16
+    },
+    "finalTitle": {
+      "start": 14,
+      "end": 18
+    },
+    "futureQuestion": {
+      "start": 18,
+      "end": 19
+    }
+  },
+  "references": [
+    {
+      "path": "[原工程本地路径]/大肥鱼成长史：从“理工男”到蓝色大肥鱼，DeepSeek是如何一步一步出现这个形象的？_视频.mp4",
+      "kind": "visual subtitles and screenshots; no audio stream"
+    },
+    {
+      "path": "[原工程本地路径]/什么是“鱼灾”？B站大肥鱼一周爆发始末全复盘【附安全养鱼指南】_视频.mp4",
+      "kind": "visual timeline and screenshots; no audio stream"
+    }
+  ],
+  "timing": {
+    "safety": 2,
+    "position": 2.5,
+    "musicStart": 4.5,
+    "musicDuration": 18,
+    "fade": [
+      16,
+      18
+    ],
+    "black": [
+      22.5,
+      22.9
+    ],
+    "however": [
+      22.9,
+      23.7
+    ],
+    "total": 23.7
+  },
+  "growthSources": [
+    "4月24日 · DeepSeek V4 预览版发布 https://www.deepseek.com/news/v4-preview/",
+    "片头采用 API 接口 DAU。4月起为时间轴，9月30日起显示用户提供的数值；前五点为各标注日起连续七天均值，11月4日为单日值。",
+    "DeepSeek Harness 团队公告 · 8月13日 v0.1 上线，9月29日桌面端发布，11月4日官方 API 口径日活154万。https://news.10jqka.com.cn/20261105/c681523749.shtml"
+  ]
+}

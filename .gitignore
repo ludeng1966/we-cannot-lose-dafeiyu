@@ -1,0 +1,10 @@
+__pycache__/
+*.png
+*.jpg
+*.webp
+*.mp4
+*.webm
+*.wav
+*.mp3
+*.ttf
+*.moc3

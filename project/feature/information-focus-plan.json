@@ -1,0 +1,142 @@
+{
+  "version": "V16-information-reading-focus",
+  "coordinateSpace": [1920, 1080],
+  "body": [90, 245, 1740, 560],
+  "view": [110, 260, 1280, 530],
+  "overview": [1470, 310, 340, 109.4252873563],
+  "maxScale": 1.32,
+  "timing": {"delay": 4.65, "transition": 0.42, "hold": 2.6, "minimumWindow": 2.4, "stageEndMargin": 0.55, "secondAfter": 12.2, "secondMinimumStageLength": 16.5},
+  "notes": [
+    "Only the diagram body moves. Existing heading, stage wording, conclusion and subtitles remain in their original places.",
+    "Each stage has at most one primary and one distinct secondary focus; these are finite shots rather than a loop.",
+    "Bounds identify existing objects or relationships. A new stage immediately cancels the preceding stage's shot.",
+    "The overview identifies where the enlarged content came from; its small labels are context rather than a reading target."
+  ],
+  "kinds": {
+    "gate": {"stages": [
+      {"primary": {"rect": [140, 300, 920, 420], "subject": "劳动者与技术工具"}},
+      {"primary": {"rect": [710, 365, 1010, 350], "subject": "工具通向自主创造"}},
+      {"primary": {"rect": [880, 275, 860, 475], "subject": "控制入口与创造条件"}},
+      {"primary": {"rect": [450, 295, 1260, 490], "subject": "能力与主体意识的联系"}},
+      {"primary": {"rect": [980, 295, 820, 485], "subject": "受阻入口与创造者"}}
+    ]},
+    "separation": {"stages": [
+      {"primary": {"rect": [720, 335, 1030, 340], "subject": "技术体系与实际运用"}},
+      {"primary": {"rect": [125, 275, 1060, 390], "subject": "社会知识进入技术体系"}},
+      {"primary": {"rect": [715, 390, 1060, 365], "subject": "控制权与技术条件"}},
+      {"primary": {"rect": [380, 545, 1230, 240], "subject": "获得理解与运用知识"}}
+    ]},
+    "pipeline": {"stages": [
+      {"primary": {"rect": [110, 335, 480, 330], "subject": "提出工具需要"}},
+      {"primary": {"rect": [110, 335, 480, 330], "subject": "从需求出发"}},
+      {"primary": {"rect": [490, 335, 1090, 355], "subject": "语言框架与文档"}},
+      {"primary": {"rect": [1150, 335, 660, 355], "subject": "知识转化成程序"}},
+      {"primary": {"rect": [150, 525, 1230, 255], "subject": "AI辅助理解诊断修改"}}
+    ]},
+    "compare": {"stages": [
+      {"primary": {"rect": [225, 365, 580, 130], "subject": "交付关系的起点"}},
+      {"primary": {"rect": [225, 365, 580, 270], "subject": "已经建立的交付步骤"}},
+      {"primary": {"rect": [225, 365, 580, 390], "subject": "结果交付这一侧"}},
+      {"primary": {"rect": [1140, 365, 590, 390], "subject": "工具掌握这一侧"}}
+    ]},
+    "bridge": {"stages": [
+      {"primary": {"rect": [125, 300, 1070, 430], "subject": "已经获得的知识与能力"}},
+      {"primary": {"rect": [520, 400, 890, 370], "subject": "需要跨越的关系"}},
+      {"primary": {"rect": [600, 420, 850, 330], "subject": "工具与反馈接入实践"}},
+      {"primary": {"rect": [1000, 300, 810, 480], "subject": "实践中的新位置"}}
+    ]},
+    "ownership": {"stages": [
+      {"primary": {"rect": [115, 285, 650, 430], "subject": "生产关系的三个方面"}},
+      {"primary": {"rect": [115, 295, 1180, 160], "subject": "生产资料怎样占有"}},
+      {"primary": {"rect": [115, 450, 1180, 160], "subject": "劳动怎样组织"}},
+      {"primary": {"rect": [115, 605, 1180, 160], "subject": "成果和决策的支配"}},
+      {"primary": {"rect": [115, 450, 1180, 315], "subject": "过程与成果的共同考察"}}
+    ]},
+    "distribution": {"stages": [
+      {"primary": {"rect": [750, 360, 440, 230], "subject": "开源工具这一共同条件"}},
+      {"primary": {"rect": [140, 275, 1110, 315], "subject": "接入技术的普通人"}},
+      {"primary": {"rect": [140, 275, 1110, 315], "subject": "劳动经验进入工具"}, "secondary": {"rect": [720, 530, 1100, 260], "subject": "不同劳动者的实践"}},
+      {"primary": {"rect": [140, 535, 1130, 260], "subject": "成果在人与人之间传递"}},
+      {"primary": {"rect": [720, 530, 1100, 260], "subject": "横向协作的连接"}}
+    ]},
+    "learning": {"stages": [
+      {"primary": {"rect": [120, 570, 380, 230], "subject": "具体实践的起点"}},
+      {"primary": {"rect": [450, 480, 500, 280], "subject": "下一步学习与行动"}},
+      {"primary": {"rect": [780, 400, 600, 300], "subject": "知识进入实际操作"}},
+      {"primary": {"rect": [1150, 330, 600, 270], "subject": "修改与检验"}},
+      {"primary": {"rect": [1150, 280, 670, 350], "subject": "问题反思与新认识"}},
+      {"primary": {"rect": [780, 315, 1040, 340], "subject": "行动反馈形成连续过程"}}
+    ]},
+    "framework": {"stages": [
+      {"primary": {"rect": [175, 350, 465, 270], "subject": "模型的作用"}},
+      {"primary": {"rect": [680, 280, 1080, 450], "subject": "运行框架组织外部工具"}},
+      {"primary": {"rect": [140, 300, 1230, 450], "subject": "判断执行和结果返回"}}
+    ]},
+    "pool": {"stages": [
+      {"primary": {"rect": [120, 280, 510, 470], "subject": "不同参与者的创造"}},
+      {"primary": {"rect": [690, 345, 590, 390], "subject": "成果成为共同积累"}},
+      {"primary": {"rect": [1190, 270, 620, 475], "subject": "从共同积累继续发展"}},
+      {"primary": {"rect": [880, 570, 930, 225], "subject": "分享返回共同体"}}
+    ]},
+    "funnel": {"stages": [
+      {"primary": {"rect": [125, 255, 645, 500], "subject": "社会实践形成知识"}},
+      {"primary": {"rect": [670, 350, 560, 310], "subject": "共同积累的社会知识"}},
+      {"primary": {"rect": [1120, 245, 700, 410], "subject": "关键生产条件的集中"}},
+      {"primary": {"rect": [1120, 245, 700, 410], "subject": "集中控制的入口"}},
+      {"primary": {"rect": [740, 285, 1080, 420], "subject": "知识经由关键条件被运用"}},
+      {"primary": {"rect": [540, 650, 1080, 150], "subject": "共同创造与共同支配的区别"}}
+    ]},
+    "open": {"stages": [
+      {"primary": {"rect": [600, 350, 720, 350], "subject": "价格这一层"}},
+      {"primary": {"rect": [475, 345, 1110, 320], "subject": "阅读修改与分享"}},
+      {"primary": {"rect": [575, 510, 1245, 285], "subject": "劳动组织方式"}}
+    ]},
+    "cycle": {"stages": [
+      {"primary": {"rect": [180, 280, 1060, 330], "subject": "从实际需要出发"}},
+      {"primary": {"rect": [1120, 280, 650, 330], "subject": "贡献与接续使用"}},
+      {"primary": {"rect": [1100, 565, 650, 200], "subject": "产生新成果与反馈"}},
+      {"primary": {"rect": [180, 570, 1010, 225], "subject": "成果被分享"}},
+      {"primary": {"rect": [180, 600, 1010, 195], "subject": "共享成为下一轮的条件"}},
+      {"primary": {"rect": [180, 600, 1010, 195], "subject": "共同需要与成果用途"}}
+    ]},
+    "loss": {"stages": [
+      {"primary": {"rect": [110, 285, 655, 400], "subject": "技术发展与社会参与的两个过程"}},
+      {"primary": {"rect": [700, 280, 650, 470], "subject": "已有技术与参与步骤"}},
+      {"primary": {"rect": [700, 280, 1100, 470], "subject": "代码接口与实践过程"}},
+      {"primary": {"rect": [700, 280, 1100, 230], "subject": "技术仍可能继续发展"}},
+      {"primary": {"rect": [700, 540, 1100, 250], "subject": "社会参与入口受阻"}},
+      {"primary": {"rect": [680, 520, 1120, 275], "subject": "进一步共同创造的机会"}}
+    ]},
+    "accumulation": {"stages": [
+      {"primary": {"rect": [115, 275, 550, 460], "subject": "共同体的积累来源"}},
+      {"primary": {"rect": [135, 275, 1110, 160], "subject": "分享带来新的参与"}},
+      {"primary": {"rect": [135, 425, 1110, 160], "subject": "答疑帮助形成能力"}},
+      {"primary": {"rect": [135, 575, 1110, 170], "subject": "工具继续被利用"}},
+      {"primary": {"rect": [1130, 280, 690, 420], "subject": "积累成为下一轮创造"}},
+      {"primary": {"rect": [1170, 280, 650, 510], "subject": "如果入口被垄断"}},
+      {"primary": {"rect": [1170, 280, 650, 510], "subject": "下一轮创造可能受阻"}}
+    ]},
+    "possibilities": {"stages": [
+      {"primary": {"rect": [160, 290, 590, 460], "subject": "已有成果可以被记录"}},
+      {"primary": {"rect": [985, 305, 730, 435], "subject": "尚未实现的可能"}},
+      {"primary": {"rect": [160, 290, 590, 460], "subject": "现有成果这一侧的记录"}},
+      {"primary": {"rect": [970, 370, 780, 370], "subject": "尚未形成的创造与协作"}},
+      {"primary": {"rect": [725, 650, 1000, 150], "subject": "机会受阻的社会代价"}}
+    ]},
+    "relations": {"stages": [
+      {"primary": {"rect": [530, 610, 900, 180], "subject": "已经发展的创造能力"}},
+      {"primary": {"rect": [530, 610, 900, 180], "subject": "共同创造的技术条件"}, "secondary": {"rect": [540, 420, 900, 145], "subject": "劳动与成果怎样组织"}},
+      {"primary": {"rect": [540, 245, 900, 345], "subject": "组织需要与制度要求"}},
+      {"primary": {"rect": [1360, 245, 470, 440], "subject": "既有制度的维护与限制"}}
+    ]}
+  },
+  "sceneOverrides": {
+    "learning-motive": {"stages": {"1": {"primary": {"rect": [1140, 365, 590, 390], "subject": "从自身需要开始的学习"}}}},
+    "practice-to-understanding": {"stages": {
+      "1": {"primary": {"rect": [525, 520, 500, 250], "subject": "共享成果的亲身经验"}},
+      "2": {"primary": {"rect": [1010, 420, 810, 360], "subject": "实践形成的经验"}},
+      "3": {"primary": {"rect": [1010, 350, 810, 400], "subject": "合作经验进入社会认识"}}
+    }},
+    "collective-concentrated": {"stages": {"3": {"primary": {"rect": [540, 650, 1080, 150], "subject": "共同创造与共同支配的矛盾"}}}}
+  }
+}

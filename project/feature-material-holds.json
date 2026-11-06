@@ -1,0 +1,296 @@
+{
+  "version": "feature-reading-windows",
+  "holds": [
+    {
+      "id": "read-demo-code",
+      "kind": "independent-image-reading-hold",
+      "start": 521.74,
+      "end": 529.74,
+      "duration": 8,
+      "sourceKeys": [
+        "demo-code"
+      ],
+      "assetKey": "demo-code",
+      "sourceUrl": "assets/demo-code.png",
+      "box": [
+        90,
+        65,
+        1740,
+        820
+      ],
+      "render": "image",
+      "contentKind": "software",
+      "priority": "reading",
+      "protectedRects": [
+        {
+          "x": 0,
+          "y": 0,
+          "width": 1920,
+          "height": 952
+        }
+      ],
+      "lockCamera": true,
+      "suppressAdditionalPresence": true,
+      "label": "代码示例·连续阅读",
+      "reason": "将0.44秒主画面延为8秒；字幕正在对照成熟软件工程与普通人接近编程的距离。",
+      "beforeReadableSeconds": 0.4399999999999409
+    },
+    {
+      "id": "restore-task-debug",
+      "kind": "legacy-priority-protection",
+      "start": 574.951020538648,
+      "end": 581.0811616161616,
+      "duration": 6.130141077513599,
+      "sourceKeys": [
+        "p1_task_debug"
+      ],
+      "render": "legacy-fullRender",
+      "contentKind": "software",
+      "priority": "reading",
+      "protectedRects": [
+        {
+          "x": 0,
+          "y": 0,
+          "width": 1920,
+          "height": 952
+        }
+      ],
+      "lockCamera": true,
+      "suppressAdditionalPresence": true,
+      "label": "调试过程·连续展示",
+      "reason": "恢复真实任务调试视频的原6.130秒窗口；p1-error仅为视频缺失时的后备截图，不将其误作原主素材。",
+      "beforeReadableSeconds": 0.001161616161539314,
+      "clip": "p1c2"
+    },
+    {
+      "id": "read-answer-comparison",
+      "start": 621.31,
+      "end": 638.55,
+      "clip": "p1c2",
+      "kind": "legacy-priority-protection",
+      "render": "legacy-fullRender",
+      "sourceKeys": [],
+      "protectedRects": [
+        {
+          "x": 0,
+          "y": 0,
+          "width": 1920,
+          "height": 952
+        }
+      ]
+    },
+    {
+      "id": "restore-function-classroom",
+      "kind": "legacy-priority-protection",
+      "start": 867.834999657,
+      "end": 876,
+      "sourceKeys": [
+        "c3_course"
+      ],
+      "render": "legacy-fullRender",
+      "clip": "p1c3",
+      "label": "函数课堂示例·连续展示",
+      "reason": "恢复项目自制函数课堂、参数与CSV示例的连续8.165秒，不把它描述成真实教师使用Agent的事实记录。",
+      "beforeReadableSeconds": 0.850000343,
+      "contentKind": "software",
+      "priority": "reading",
+      "protectedRects": [
+        {
+          "x": 0,
+          "y": 0,
+          "width": 1920,
+          "height": 952
+        }
+      ],
+      "lockCamera": true,
+      "suppressAdditionalPresence": true,
+      "duration": 8.165000342999974
+    },
+    {
+      "id": "restore-school",
+      "kind": "legacy-priority-protection",
+      "start": 1202.590000376,
+      "end": 1216.950000297,
+      "sourceKeys": [
+        "v4_hengshui_reading"
+      ],
+      "reason": "Restore complete school video plus progressive need/try/feedback/modify diagram; current outer information branches leave only a 0.72s flash.",
+      "contentKind": "software",
+      "priority": "reading",
+      "protectedRects": [
+        {
+          "x": 0,
+          "y": 0,
+          "width": 1920,
+          "height": 952
+        }
+      ],
+      "lockCamera": true,
+      "suppressAdditionalPresence": true,
+      "clip": "p2c1",
+      "render": "legacy-fullRender",
+      "duration": 14.359999921000053
+    },
+    {
+      "id": "restore-companion",
+      "kind": "legacy-priority-protection",
+      "start": 1216.950000297,
+      "end": 1224.53,
+      "sourceKeys": [
+        "v4_chibi_whale"
+      ],
+      "reason": "Restore coherent avatar/chibi companionship setup before existing night-study image; remove the current late 2.04s partial reveal.",
+      "contentKind": "software",
+      "priority": "reading",
+      "protectedRects": [
+        {
+          "x": 0,
+          "y": 0,
+          "width": 1920,
+          "height": 952
+        }
+      ],
+      "lockCamera": true,
+      "suppressAdditionalPresence": true,
+      "clip": "p2c1",
+      "render": "legacy-fullRender",
+      "duration": 7.579999702999885
+    },
+    {
+      "id": "read-dafeiyu-readme",
+      "kind": "independent-image-reading-hold",
+      "start": 1318.8,
+      "end": 1328.7,
+      "sourceKeys": [
+        "e15"
+      ],
+      "assetKey": "e15",
+      "sourceUrl": "assets/evidence/chat-partner.jpg",
+      "box": [
+        90,
+        65,
+        1740,
+        820
+      ],
+      "render": "image",
+      "label": "大肥鱼项目说明·连续阅读",
+      "reason": "原README仅2.02秒；避开1312.8–1318.8器皿MV，在插件共同体段落给完整9.9秒，不误认作另一个伙伴项目。",
+      "beforeReadableSeconds": 2.0205555556,
+      "contentKind": "software",
+      "priority": "reading",
+      "protectedRects": [
+        {
+          "x": 0,
+          "y": 0,
+          "width": 1920,
+          "height": 952
+        }
+      ],
+      "lockCamera": true,
+      "suppressAdditionalPresence": true,
+      "duration": 9.900000000000091
+    },
+    {
+      "id": "read-v11_macos_archive",
+      "kind": "independent-image-reading-hold",
+      "start": 1756,
+      "end": 1764.5,
+      "duration": 8.5,
+      "sourceKeys": [
+        "v11_macos_archive"
+      ],
+      "assetKey": "v11_macos_archive",
+      "sourceUrl": "assets/community/qcy-24-macos-port.jpg",
+      "box": [
+        90,
+        65,
+        1740,
+        820
+      ],
+      "render": "image",
+      "contentKind": "software",
+      "priority": "reading",
+      "protectedRects": [
+        {
+          "x": 0,
+          "y": 0,
+          "width": 1920,
+          "height": 952
+        }
+      ],
+      "lockCamera": true,
+      "suppressAdditionalPresence": true,
+      "label": "macOS移植资料·连续阅读",
+      "reason": "避开1750–1756的器皿MV，给移植成果连续8.5秒；字幕正说新的成果扩大共同体、知识成为共同条件。",
+      "beforeReadableSeconds": 0.5173766156447073
+    }
+  ],
+  "bridges": [
+    {
+      "id": "factory-tail",
+      "start": 755.52,
+      "end": 755.92,
+      "frameN": 755.12
+    },
+    {
+      "id": "file-input-tail",
+      "start": 768,
+      "end": 770.925,
+      "frameN": 770.93
+    },
+    {
+      "id": "browser-form-tail",
+      "start": 824.103,
+      "end": 824.437,
+      "frameN": 824.075
+    },
+    {
+      "id": "learning-entry",
+      "start": 1163.655,
+      "end": 1164.95,
+      "frameN": 1164.95
+    },
+    {
+      "id": "framework-entry",
+      "start": 1250.3,
+      "end": 1251.6,
+      "frameN": 1251.6
+    },
+    {
+      "id": "framework-tail",
+      "start": 1263.37,
+      "end": 1263.6,
+      "frameN": 1263.601
+    },
+    {
+      "id": "desktop-entry",
+      "start": 1284.483,
+      "end": 1285.28,
+      "frameN": 1285.3
+    },
+    {
+      "id": "desktop-tail",
+      "start": 1291.23,
+      "end": 1293.6,
+      "frameN": 1293.6
+    },
+    {
+      "id": "office-tail",
+      "start": 1401.28,
+      "end": 1402.906,
+      "frameN": 1401.24
+    },
+    {
+      "id": "pet-demo-tail",
+      "start": 1635.304,
+      "end": 1637.4,
+      "frameN": 1635.27
+    },
+    {
+      "id": "macos-and-qq-tail",
+      "start": 1776.81,
+      "end": 1777.94,
+      "frameN": 1776.79
+    }
+  ]
+}

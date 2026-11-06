@@ -1,0 +1,215 @@
+{
+  "version": "V21.1-additive-source-excerpts",
+  "clock": "legacy_n",
+  "width": 1920,
+  "height": 952,
+  "showCropStamp": false,
+  "sources": [
+    {
+      "id": "official-access",
+      "url": "/assets/user-evidence-v21/official-qq-access-three-steps-v1.jpg",
+      "width": 692,
+      "height": 1543,
+      "provenance": "user-provided screenshot",
+      "claimsIndependentlyVerified": false
+    },
+    {
+      "id": "robot-risk",
+      "url": "/assets/user-evidence-v21/unauthorised-qq-robot-risks-v1.jpg",
+      "width": 1080,
+      "height": 7940,
+      "provenance": "user-provided screenshot",
+      "claimsIndependentlyVerified": false
+    }
+  ],
+  "shots": [
+    {
+      "id": "risk-title-supplement",
+      "sourceId": "robot-risk",
+      "start": 15.3,
+      "end": 22.2,
+      "sourceRect": [
+        175,
+        74,
+        740,
+        115
+      ],
+      "box": [
+        80,
+        295,
+        620,
+        120
+      ],
+      "fade": 0.3,
+      "readingSeconds": 6.9,
+      "mode": "additive",
+      "allowForegroundPresence": true,
+      "allowedContentKinds": [
+        "animation"
+      ],
+      "maxBodyCoverage": 0.06,
+      "purpose": "Only the unchanged screenshot heading 未经QQ授权的机器人. Supplemental title in the verified gap below the original header and above the original Live2D; no new independent risk claim.",
+      "layoutBasis": "Baseline source header ends y265; avatar begins y444. Main takedown document remains right of approximately x772 until this window ends; exit before avatar advances.",
+      "knownLegacyContent": [
+        "wechat-notice",
+        "evidence-takedown",
+        "native Live2D"
+      ],
+      "sourceQualifierPreserved": true,
+      "label": "风险提示·补充原文"
+    },
+    {
+      "id": "official-route-supplement",
+      "sourceId": "official-access",
+      "start": 258.11,
+      "end": 266.47,
+      "sourceRect": [
+        0,
+        0,
+        692,
+        237
+      ],
+      "box": [
+        1120,
+        24,
+        660,
+        155
+      ],
+      "fade": 0.3,
+      "readingSeconds": 8.36,
+      "mode": "additive",
+      "allowForegroundPresence": true,
+      "allowedContentKinds": [
+        "animation"
+      ],
+      "maxBodyCoverage": 0.06,
+      "purpose": "Unchanged complete official-route qualifier from the new screenshot. A small top-right excerpt complements the original official tutorial page; the original page, screen/desk animation and left Live2D keep their framing and priority.",
+      "layoutBasis": "At entrance original tutorial image pixels begin y210.97, later y274.15; avatar remains left of x685. The supplement ends y179 and occupies the top-right letterbox space.",
+      "knownLegacyContent": [
+        "qqtutorial",
+        "native Live2D",
+        "existing screen/desk vectors"
+      ],
+      "sourceQualifierPreserved": true,
+      "label": "官方接入·补充原文"
+    }
+  ],
+  "archivedShots": [
+    {
+      "id": "risk-definition",
+      "sourceId": "robot-risk",
+      "start": 3.8,
+      "end": 15.1,
+      "sourceRect": [
+        0,
+        0,
+        1080,
+        1310
+      ],
+      "box": [
+        300,
+        30,
+        1320,
+        890
+      ],
+      "fade": 0.26,
+      "readingSeconds": 11.3,
+      "purpose": "Hold original headline, official/unauthorised distinction and complete qualified definition together for 11.3 seconds; no scrolling through unrelated automatic-click content.",
+      "captionCue": "发布如图所示的安全提示；警惕未经官方授权的第三方机器人"
+    },
+    {
+      "id": "risk-account-section",
+      "sourceId": "robot-risk",
+      "start": 15.1,
+      "end": 25.48,
+      "sourceRect": [
+        0,
+        3710,
+        1080,
+        1120
+      ],
+      "box": [
+        300,
+        30,
+        1320,
+        890
+      ],
+      "fade": 0.28,
+      "readingSeconds": 10.38,
+      "purpose": "Safety-risk heading and first account-risk item only, retaining its unauthorised-QQ-robot condition; no automatic-click/game-login sections.",
+      "captionCue": "封禁第三方机器人；风控力度明显加大"
+    },
+    {
+      "id": "official-route-title",
+      "sourceId": "official-access",
+      "start": 257.26,
+      "end": 268,
+      "sourceRect": [
+        0,
+        0,
+        692,
+        600
+      ],
+      "box": [
+        300,
+        30,
+        1320,
+        890
+      ],
+      "fade": 0.28,
+      "readingSeconds": 10.74,
+      "purpose": "Original only-official-route qualifier and original three-step title. Start at the first legacy tutorial reveal to absorb its 0.85-second unreadable flash.",
+      "captionCue": "现在某聊天软件不是已经开放了官方机器人接口吗"
+    },
+    {
+      "id": "official-download-plugin",
+      "sourceId": "official-access",
+      "start": 268,
+      "end": 276.45,
+      "sourceRect": [
+        0,
+        600,
+        692,
+        615
+      ],
+      "box": [
+        300,
+        30,
+        1320,
+        890
+      ],
+      "fade": 0.28,
+      "readingSeconds": 8.45,
+      "purpose": "First download step and second add-plugin step held together at readable scale; source text unmodified.",
+      "captionCue": "官方机器人接入方案；用户亲手部署了大肥鱼"
+    },
+    {
+      "id": "official-scan-binding",
+      "sourceId": "official-access",
+      "start": 276.45,
+      "end": 282.15,
+      "sourceRect": [
+        0,
+        1215,
+        692,
+        328
+      ],
+      "box": [
+        300,
+        30,
+        1320,
+        890
+      ],
+      "fade": 0.24,
+      "readingSeconds": 5.7,
+      "purpose": "Third scan/bind step, preserving the screenshot's original blurred QR code; leave before original brain/mouth diagram.",
+      "captionCue": "以为终于能让它自由交流"
+    }
+  ],
+  "mode": "additive",
+  "enabled": true,
+  "integration": "Draw independently after unchanged original main composition and before subtitles. Never select a primary compose branch or change existing media protection/camera.",
+  "maxBodyCoverage": 0.06,
+  "archiveReason": "The original five full-body screenshot windows displaced existing source materials; retained for review only, never selected by active().",
+  "safetyPolicy": "If a quote, information diagram, footage, protected software/media, reading priority, protected rectangle or foreground rectangle conflicts, skip the additive excerpt rather than move or crop the original content."
+}

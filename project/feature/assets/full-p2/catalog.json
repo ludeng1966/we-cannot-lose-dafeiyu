@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "key": "p2_plugin_run",
+      "src": "assets/full-p2/p2_plugin_run.mp4",
+      "duration": 20,
+      "width": 1280,
+      "height": 720,
+      "fps": 30,
+      "sourcePage": "assets/full-p2/plugin-workbench.html",
+      "kind": "local-runnable-tool",
+      "title": "插件工作台｜实际检索与清单导出",
+      "boundary": "本工程自制实际运行案例，非DSH项目部署记录，不伪造用户、贡献者、PR或AI生成任务"
+    },
+    {
+      "key": "p2_plugin_run_still",
+      "src": "assets/full-p2/p2_plugin_run.png",
+      "kind": "local-tool-screenshot",
+      "title": "实际运行结果",
+      "sourcePage": "assets/full-p2/plugin-workbench.html"
+    },
+    {
+      "key": "p2_plugin_config",
+      "src": "assets/full-p2/p2_plugin_config.mp4",
+      "duration": 16,
+      "width": 1280,
+      "height": 720,
+      "fps": 30,
+      "sourcePage": "assets/full-p2/plugin-workbench.html",
+      "kind": "local-runnable-tool",
+      "title": "同一插件函数｜实际配置与结果",
+      "boundary": "本工程自制实际运行案例，非DSH项目部署记录，不伪造用户、贡献者、PR或AI生成任务"
+    },
+    {
+      "key": "p2_plugin_config_still",
+      "src": "assets/full-p2/p2_plugin_config.png",
+      "kind": "local-tool-screenshot",
+      "title": "实际运行结果",
+      "sourcePage": "assets/full-p2/plugin-workbench.html"
+    },
+    {
+      "key": "p2_shared_result",
+      "src": "assets/full-p2/p2_shared_result.mp4",
+      "duration": 20,
+      "width": 1280,
+      "height": 720,
+      "fps": 30,
+      "sourcePage": "assets/full-p2/plugin-workbench.html",
+      "kind": "local-runnable-tool",
+      "title": "共享资料｜同一数据的列表与卡片复用",
+      "boundary": "本工程自制实际运行案例，非DSH项目部署记录，不伪造用户、贡献者、PR或AI生成任务"
+    },
+    {
+      "key": "p2_shared_result_still",
+      "src": "assets/full-p2/p2_shared_result.png",
+      "kind": "local-tool-screenshot",
+      "title": "实际运行结果",
+      "sourcePage": "assets/full-p2/plugin-workbench.html"
+    },
+    {
+      "key": "p2_code",
+      "src": "assets/full-p2/p2_code.png",
+      "kind": "actual-local-tool-source-or-result",
+      "sourcePage": "assets/full-p2/plugin-workbench.html"
+    },
+    {
+      "key": "p2_data",
+      "src": "assets/full-p2/p2_data.png",
+      "kind": "actual-local-tool-source-or-result",
+      "sourcePage": "assets/full-p2/plugin-workbench.html"
+    },
+    {
+      "key": "p2_result",
+      "src": "assets/full-p2/p2_result.png",
+      "kind": "actual-local-tool-source-or-result",
+      "sourcePage": "assets/full-p2/plugin-workbench.html"
+    }
+  ]
+}

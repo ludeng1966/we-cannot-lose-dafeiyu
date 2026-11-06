@@ -1,0 +1,1 @@
+window.RevisionCredits={"v3_workers_march": {"label": "《母亲》 · 1926 · 普多夫金"}, "v3_china_workers": {"label": "共和国建设者"}};

@@ -1,0 +1,38 @@
+[
+  {
+    "year": 1956,
+    "file": "1956.png",
+    "credit": "1955 年达特茅斯提案 · John McCarthy 等 / Stanford 档案",
+    "source": "https://www-formal.stanford.edu/jmc/history/dartmouth.pdf",
+    "explanation": "1955 年 8 月 31 日的提案首页题名、署名和日期，所提议的研究活动于 1956 年夏在达特茅斯举行。图为档案排印本摘录。",
+    "historicalSource": "https://ai.dartmouth.edu/our-story",
+    "rights": "提案短引，Commons 对完整文献的公有领域标注仅适用于美国。"
+  },
+  {
+    "year": 1983,
+    "file": "1983.png",
+    "credit": "GNU Head（1992 年原作）· Etienne Suvasa / Peter Gerwinski",
+    "source": "https://www.gnu.org/graphics/agnuhead.html",
+    "explanation": "GNU 官方图库的 GNU Head 重绘版。GNU 计划由 Richard Stallman 于 1983 年 9 月 27 日首次公开宣布，此标志为后来作品。",
+    "historicalSource": "https://www.gnu.org/gnu/initial-announcement.html",
+    "rights": "CC BY-SA 2.0；GNU Project 商标用于准确说明其历史。"
+  },
+  {
+    "year": 1993,
+    "file": "1993.png",
+    "credit": "CERN · 1993 年 4 月 30 日声明签署页",
+    "source": "https://indico.cern.ch/event/1480892/contributions/6386317/attachments/3170053/5635314/WWW%2Bpresentation_WHoogland.pdf#page=9",
+    "explanation": "从 Walter Hoogland 的 CERN 存档演示第 9 页裁取原始声明签字及印章。该声明将 CERN 的 W3 客户端、服务器及共用代码库置于公共领域。",
+    "historicalSource": "https://cds.cern.ch/record/1164399",
+    "rights": "© CERN，教育与信息使用条款 https://copyright.web.cern.ch/ 。公共领域指声明所列软件。"
+  },
+  {
+    "year": 1998,
+    "file": "1998.png",
+    "credit": "Christine Peterson / Opensource.com · 2018 年回忆",
+    "source": "https://opensource.com/sites/default/files/gated-content/2018_open_source_yearbook.pdf#page=10",
+    "explanation": "裁取 2018 年《Open Source Yearbook》第 10 页的题名及署名。Christine Peterson 回述 1998 年 2 月 3 日 Palo Alto 策略会议采用“open source”称呼的经过。",
+    "historicalSource": "https://opensource.org/about/history-of-the-open-source-initiative",
+    "rights": "CC BY-SA 4.0。已裁切，仅保留文章标题与署名。"
+  }
+]

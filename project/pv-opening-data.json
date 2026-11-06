@@ -1,0 +1,472 @@
+{
+  "version": "V24-extended-PV",
+  "duration": 92.94,
+  "insertAt": 342.32,
+  "music": {
+    "url": "assets/pv-opening/music-extended-v24.wav",
+    "startAt": 314.57,
+    "sourceOffset": 0,
+    "visualSourceStart": 27.75,
+    "bpm": 136,
+    "originalUrl": "assets/pv-opening/music.mp3",
+    "timeline": "arranged-v24",
+    "visualSourceEnd": 120.69,
+    "arrangedDuration": 120.69,
+    "timeMapUrl": "assets/pv-opening/music-extended-v24-timemap.json",
+    "analysisUrl": "assets/pv-opening/analysis-v24.json"
+  },
+  "questions": [
+    {
+      "id": "q01",
+      "index": 1,
+      "text": "我们为什么不能失去大肥鱼？",
+      "keyword": "大肥鱼",
+      "start": 0,
+      "end": 2.1
+    },
+    {
+      "id": "q02",
+      "index": 2,
+      "text": "平台风控真正损失了什么？",
+      "keyword": "真正损失",
+      "start": 2.1,
+      "end": 3.594117647058824
+    },
+    {
+      "id": "q03",
+      "index": 3,
+      "text": "我们为何错失过一次技术生态？",
+      "keyword": "技术生态",
+      "start": 3.594117647058824,
+      "end": 5.088235294117647
+    },
+    {
+      "id": "q04",
+      "index": 4,
+      "text": "AI真的让人民掌握技术了吗？",
+      "keyword": "掌握技术",
+      "start": 5.088235294117647,
+      "end": 6.58235294117647
+    },
+    {
+      "id": "q05",
+      "index": 5,
+      "text": "Agent为什么具有革命性？",
+      "keyword": "革命性",
+      "start": 6.58235294117647,
+      "end": 8.076470588235294
+    },
+    {
+      "id": "q06",
+      "index": 6,
+      "text": "Agent能否打破脑体劳动壁垒？",
+      "keyword": "脑体劳动",
+      "start": 8.076470588235294,
+      "end": 9.570588235294117
+    },
+    {
+      "id": "q07",
+      "index": 7,
+      "text": "技术为何长期被少数人掌握？",
+      "keyword": "少数人",
+      "start": 9.570588235294117,
+      "end": 11.06470588235294
+    },
+    {
+      "id": "q08",
+      "index": 8,
+      "text": "人民能否从消费者变成创造者？",
+      "keyword": "创造者",
+      "start": 11.06470588235294,
+      "end": 12.558823529411764
+    },
+    {
+      "id": "q09",
+      "index": 9,
+      "text": "大肥鱼为何能推动技术群众化？",
+      "keyword": "技术群众化",
+      "start": 12.558823529411764,
+      "end": 14.052941176470588
+    },
+    {
+      "id": "q10",
+      "index": 10,
+      "text": "娱乐如何转化为技术启蒙？",
+      "keyword": "技术启蒙",
+      "start": 14.052941176470588,
+      "end": 15.547058823529412
+    },
+    {
+      "id": "q11",
+      "index": 11,
+      "text": "开源为何不仅意味着免费？",
+      "keyword": "免费",
+      "start": 15.547058823529412,
+      "end": 17.041176470588237
+    },
+    {
+      "id": "q12",
+      "index": 12,
+      "text": "开源能否孕育新生产关系？",
+      "keyword": "新生产关系",
+      "start": 17.041176470588237,
+      "end": 18.53529411764706
+    },
+    {
+      "id": "q13",
+      "index": 13,
+      "text": "技术进步为何会催生社会觉醒？",
+      "keyword": "社会觉醒",
+      "start": 18.53529411764706,
+      "end": 20.029411764705884
+    },
+    {
+      "id": "q14",
+      "index": 14,
+      "text": "谁应该支配共同创造的技术？",
+      "keyword": "共同创造",
+      "start": 20.029411764705884,
+      "end": 21.523529411764706
+    },
+    {
+      "id": "q15",
+      "index": 15,
+      "text": "旧生产关系为何限制新生产力？",
+      "keyword": "新生产力",
+      "start": 21.523529411764706,
+      "end": 23.01764705882353
+    },
+    {
+      "id": "q16",
+      "index": 16,
+      "text": "失去大肥鱼究竟失去什么？",
+      "keyword": "失去什么",
+      "start": 23.01764705882353,
+      "end": 24.511764705882353
+    },
+    {
+      "id": "q17",
+      "index": 17,
+      "text": "人民能否共同决定生产目的？",
+      "keyword": "生产目的",
+      "start": 24.511764705882353,
+      "end": 26.00588235294118
+    },
+    {
+      "id": "q18",
+      "index": 18,
+      "text": "我们正在错过怎样的未来？",
+      "keyword": "未来",
+      "start": 85.7,
+      "end": 92.94
+    }
+  ],
+  "references": {
+    "books": [
+      "《1857—1858年经济学手稿》",
+      "《共产党宣言》",
+      "《〈政治经济学批判〉序言》"
+    ],
+    "videos": [
+      "所以说我很羡慕你啊…大肥鱼",
+      "许家印马云聚会现场视频2015.11.21",
+      "十八岁的流水线，看完真不想进厂了",
+      "保时捷名场面高清版",
+      "大家好，这里是 DeepSeek Harness，正式入驻 B 站！",
+      "【列宁在1918】列宁同志在工厂的精彩演讲",
+      "【游戏欣赏】刺客信条枭雄：老派刺客最后的末路",
+      "【DeepSeek x Claude】《器皿》｜肥鱼最认真的一集？"
+    ],
+    "literature": [
+      "《德意志意识形态》 — 马克思、恩格斯著",
+      "《哥达纲领批判》 — 马克思著",
+      "《实践论》《星星之火，可以燎原》 — 《毛泽东选集》第一卷（人民出版社）",
+      "《从一头蓝鲸，到一头黑鲸 / 大模型公司都在寻找一只宠物》 — 新浪财经",
+      "《大肥鱼取代豆包，DeepSeek被用户共创OC带火了》 — TopMarketing",
+      "《谁让DeepSeek变成了「大肥鱼」》 — 凤凰网科技",
+      "《珊瑚虫QQ》词条 — 维基百科",
+      "《陈寿福“珊瑚虫版QQ”侵权案与中国互联网早期技术流历史回顾》 — 创业邦",
+      "《2020年8月2日酷Q、晨风、Mirai等第三方QQ机器人集体停运事件报道》 — 中国AI网",
+      "《QQ群聊机器人框架发展史与停运回顾》 — 腾讯云开发者社区",
+      "《生成式人工智能与数字劳动异化政治经济学分析》 — FCIPub 学术期刊库",
+      "《数字劳动与历史唯物主义生产关系批判》 — 《西南大学学报（社会科学版）》2024年第4期"
+    ]
+  },
+  "credits": [
+    {
+      "label": "制作",
+      "value": "肥鱼大讲堂"
+    },
+    {
+      "label": "编剧",
+      "value": "肥鱼大讲堂"
+    },
+    {
+      "label": "配音",
+      "value": "breeze TTS"
+    },
+    {
+      "label": "视频制作",
+      "value": "GPT-6.1Sol  GPT-6Astra"
+    }
+  ],
+  "musicSlots": [
+    {
+      "title": "反乌托邦 伴奏"
+    },
+    {
+      "title": "We Insist"
+    },
+    {
+      "title": "应门者 Pa gur yv y porthaur?"
+    },
+    {
+      "title": "Faster Than Light"
+    },
+    {
+      "title": "坠入星河的帷幕"
+    },
+    {
+      "title": "HOI4 main the meallies"
+    },
+    {
+      "title": "4"
+    },
+    {
+      "title": "息 序"
+    },
+    {
+      "title": "Φ²"
+    },
+    {
+      "title": "巴黎公社（La Commune de Paris）"
+    },
+    {
+      "title": "万山红遍"
+    },
+    {
+      "title": "Welcome Home, Son (Orchestral)"
+    },
+    {
+      "title": "剧终（The End）"
+    },
+    {
+      "title": "DESIRE"
+    },
+    {
+      "title": "叶隙之光 Light Through the Leaves"
+    },
+    {
+      "title": "精卫琵琶版"
+    },
+    {
+      "title": "拨云见月"
+    },
+    {
+      "title": "《茉莉花》之“守护繁星”"
+    },
+    {
+      "title": "最美好的前途"
+    },
+    {
+      "title": "不遗余力 审判敌人"
+    }
+  ],
+  "thanksSlots": [
+    {
+      "index": 1,
+      "value": "",
+      "placeholder": true
+    },
+    {
+      "index": 2,
+      "value": "",
+      "placeholder": true
+    },
+    {
+      "index": 3,
+      "value": "",
+      "placeholder": true
+    },
+    {
+      "index": 4,
+      "value": "",
+      "placeholder": true
+    },
+    {
+      "index": 5,
+      "value": "",
+      "placeholder": true
+    },
+    {
+      "index": 6,
+      "value": "",
+      "placeholder": true
+    },
+    {
+      "index": 7,
+      "value": "",
+      "placeholder": true
+    }
+  ],
+  "sceneLandmarks": [
+    {
+      "time": 0,
+      "label": "questions"
+    },
+    {
+      "time": 26.00588235294118,
+      "label": "orbitBridge"
+    },
+    {
+      "time": 34,
+      "label": "books"
+    },
+    {
+      "time": 37.2,
+      "label": "literature1"
+    },
+    {
+      "time": 39.4,
+      "label": "literature2"
+    },
+    {
+      "time": 41.6,
+      "label": "literature3"
+    },
+    {
+      "time": 43.8,
+      "label": "literature4"
+    },
+    {
+      "time": 46,
+      "label": "代码与角色穿行"
+    },
+    {
+      "time": 50.2,
+      "label": "videoRefs"
+    },
+    {
+      "time": 58.2,
+      "label": "credits"
+    },
+    {
+      "time": 64.7,
+      "label": "statistics"
+    },
+    {
+      "time": 69.3,
+      "label": "music"
+    },
+    {
+      "time": 76.7,
+      "label": "thanks"
+    },
+    {
+      "time": 80.2,
+      "label": "final"
+    },
+    {
+      "time": 85.7,
+      "label": "futureQuestion"
+    },
+    {
+      "time": 92.94,
+      "label": "end"
+    }
+  ],
+  "finalReadableQuestionId": "q18",
+  "visualPhases": {
+    "questions": {
+      "start": 0,
+      "end": 26.00588235294118
+    },
+    "orbitBridge": {
+      "start": 26.00588235294118,
+      "end": 34
+    },
+    "books": {
+      "start": 34,
+      "end": 37.2
+    },
+    "videos": {
+      "start": 50.2,
+      "end": 58.2
+    },
+    "credits": {
+      "start": 58.2,
+      "end": 64.7
+    },
+    "music": {
+      "start": 69.3,
+      "end": 76.7
+    },
+    "thanks": {
+      "start": 76.7,
+      "end": 80.2
+    },
+    "finalTitle": {
+      "start": 80.2,
+      "end": 85.7
+    },
+    "futureQuestion": {
+      "start": 85.7,
+      "end": 92.94
+    },
+    "literature1": {
+      "start": 37.2,
+      "end": 39.4
+    },
+    "literature2": {
+      "start": 39.4,
+      "end": 41.6
+    },
+    "literature3": {
+      "start": 41.6,
+      "end": 43.8
+    },
+    "literature4": {
+      "start": 43.8,
+      "end": 46
+    },
+    "statistics": {
+      "start": 64.7,
+      "end": 69.3
+    },
+    "referenceBridge": {
+      "start": 46,
+      "end": 50.2
+    }
+  },
+  "extensionDesign": {
+    "policy": "Retain the early sequence and insert four literature passes and production statistics before the final title.",
+    "finalQuestion": "我们正在错过怎样的未来？",
+    "finalQuestionHoldSeconds": 7.24
+  },
+  "editorialTiming": {
+    "newNarrationInsertAt": 342.32,
+    "insertDuration": 92.94,
+    "insertEnd": 435.26
+  },
+  "review": {
+    "label": "审查：",
+    "names": [
+      "妙蛙蒜头a",
+      "Dn_"
+    ]
+  },
+  "statistics": [
+    {
+      "label": "使用Token",
+      "value": "6,523,917,325"
+    },
+    {
+      "label": "提示词总字数",
+      "value": "77,516"
+    },
+    {
+      "label": "文案字数",
+      "value": "9,647"
+    }
+  ]
+}

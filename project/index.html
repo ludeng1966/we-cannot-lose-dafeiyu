@@ -1,0 +1,12 @@
+<!doctype html>
+<html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>大肥鱼 · 片头原生预览</title><link rel="stylesheet" href="style.css"></head>
+<body><main>
+<header><div><span class="eyebrow">OPENING SEQUENCE / 05</span><h1>我们不能失去大肥鱼</h1></div><span class="edition">大肥鱼形象史 · 2026<br>18秒音乐 · 然而 · 正片</span></header>
+<section class="player" aria-label="片头预览"><canvas id="stage" width="1920" height="1080" aria-label="声明与AI发展片头画面"></canvas><div id="loading">正在载入素材…</div></section>
+<div class="transport"><button id="play" disabled>播放片头</button><button id="restart" disabled>从头</button><button id="music" disabled>只看音乐片头</button><span id="time">00:00.00 / 00:23.70</span><label class="volume">音量 <input id="volume" aria-label="音量" type="range" min="0" max="1" step="0.01" value="0.65"></label><button id="full">全屏</button></div>
+<button id="backToIntro" hidden>返回片头</button><div id="feature-host" hidden></div><div class="feature-controls"><label><input id="continueFeature" type="checkbox" checked> 开场后自动进入正片</label><button id="startFeature">进入正片</button></div>
+<input id="seek" aria-label="片头时间轴" type="range" min="0" max="23.7" step="0.01" value="0">
+<div id="chapters" class="chapters"></div>
+<footer><span id="status">声明2秒 · 立场2.5秒 · 音乐18秒 · 然而后进正片</span><div><button id="saveFrame">保存当前画面</button><button id="showSources">素材与日期来源</button></div></footer>
+<dialog id="sources"><button id="closeSources">关闭</button><h2>大肥鱼形象史 · 2026</h2><p>依据用户提供的《大肥鱼成长史》和《什么是鱼灾》的可见字幕、截图及时间线。本片聚焦2026年的DeepSeek二创与传播。两段参考文件均无音轨。</p><ol id="sourceList"></ol><p>原有V22片头代码、版画、字体与人物直接复用；新增墨稿图以同一人物为参考。音乐：乌托邦P《反乌托邦 伴奏》前18秒，第16秒开始减弱，第18秒停。随后黑幕、血红“然而”，再进入现有正片。完整来源与改造记录保存在工程中。</p></dialog>
+</main><script type="module" src="player-v3.js?v=11"></script></body></html>

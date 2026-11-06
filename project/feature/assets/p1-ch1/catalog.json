@@ -1,0 +1,56 @@
+{
+  "scope": "第一部分第一节的新增来源/未使用原片片段",
+  "items": [
+    {
+      "key": "p1_browser_research",
+      "src": "assets/p1-ch1/p1_browser_research.mp4",
+      "duration": 16,
+      "fps": 60,
+      "author": "ROOKIE02314/dsh-browser",
+      "sourcePage": "https://github.com/ROOKIE02314/dsh-browser",
+      "sourceOriginal": "assets/motion-sources/originals/browser_actions.mp4",
+      "sourceStart": 90,
+      "sourceEnd": 106,
+      "contentBoundary": "作者原片90—106秒，读取网页与浏览器快照，不是引子使用的70—82秒",
+      "color": "original",
+      "sourceType": "author_demo_alternative_segment"
+    },
+    {
+      "key": "p1_ears_setup",
+      "src": "assets/p1-ch1/p1_ears_setup.mp4",
+      "duration": 14,
+      "fps": 30,
+      "author": "WizisCool/dsh-ears",
+      "sourcePage": "https://github.com/WizisCool/dsh-ears",
+      "sourceOriginal": "assets/motion-sources/originals/ears_voice.mp4",
+      "sourceStart": 0,
+      "sourceEnd": 14,
+      "contentBoundary": "作者原片0—14秒，设置与进入语音工具；不是引子16—28秒",
+      "color": "original",
+      "sourceType": "author_demo_alternative_segment"
+    },
+    {
+      "key": "p1_ui_continue",
+      "src": "assets/p1-ch1/p1_ui_continue.mp4",
+      "duration": 14,
+      "fps": 30,
+      "author": "dreamfarer-space/deepseek-harness-intelligent-ui",
+      "sourcePage": "https://github.com/dreamfarer-space/deepseek-harness-intelligent-ui",
+      "sourceOriginal": "assets/motion-sources/originals/ui_real_model.mp4",
+      "sourceStart": 90,
+      "sourceEnd": 104,
+      "contentBoundary": "真实模型原片90—104秒；原作者等待过程已加速，非无加速实时实测",
+      "color": "original",
+      "sourceType": "author_demo_alternative_segment"
+    },
+    {
+      "key": "p1_bili_see",
+      "src": "assets/p1-ch1/bili-see-readme.png",
+      "sourcePage": "https://github.com/aba3345/dsh-bili-see",
+      "author": "aba3345",
+      "contentBoundary": "作者自述本地模型挑视频读字幕/评论，作者自述仅有Python基础；不称其为旁白作者的朋友，不将自述扩大为新手群体统计。",
+      "kind": "actual_public_readme_capture",
+      "color": "original"
+    }
+  ]
+}

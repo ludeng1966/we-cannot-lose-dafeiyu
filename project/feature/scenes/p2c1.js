@@ -1,0 +1,33 @@
+(()=>{
+ 'use strict';let c,A;const W=1920,H=952,cl=x=>Math.max(0,Math.min(1,x)),mix=(a,b,p)=>a+(b-a)*p;
+ function bez(x,a=.58,b=.02,d=.22,e=1){x=cl(x);if(x===0||x===1)return x;const f=(q,p,r)=>3*(1-q)**2*q*p+3*(1-q)*q*q*r+q**3;let lo=0,hi=1;for(let i=0;i<17;i++){let m=(lo+hi)/2;f(m,a,d)<x?lo=m:hi=m}return f((lo+hi)/2,b,e)}
+ const E=(t,a,b)=>bez((t-a)/(b-a)),O=(t,a,b)=>bez((t-a)/(b-a),.13,.68,.25,1),S=f=>{c.save();f();c.restore()};
+ function F(a,f){if(a>.001)S(()=>{c.globalAlpha*=cl(a);f()})}
+ function bg(col='#050607'){c.fillStyle=col;c.fillRect(0,0,W,H)}
+ function box(x,y,w,h,fill=null,stroke=null,lw=1){if(fill){c.fillStyle=fill;c.fillRect(x,y,w,h)}if(stroke){c.strokeStyle=stroke;c.lineWidth=lw;c.strokeRect(x,y,w,h)}}
+ function ln(x,y,X,Y,a=.6,lw=1,col='#ddd'){F(a,()=>{c.strokeStyle=col;c.lineWidth=lw;c.beginPath();c.moveTo(x,y);c.lineTo(X,Y);c.stroke()})}
+ function path(points,p=1,a=.6,w=1,col='#ddd'){const lens=points.slice(1).map((q,i)=>Math.hypot(q[0]-points[i][0],q[1]-points[i][1]));let left=lens.reduce((s,n)=>s+n,0)*cl(p);lens.forEach((l,i)=>{const k=cl(left/Math.max(1,l));if(k)ln(...points[i],mix(points[i][0],points[i+1][0],k),mix(points[i][1],points[i+1][1],k),a,w,col);left-=l})}
+ function dot(x,y,r=4,a=1,col='#ddd'){F(a,()=>{c.fillStyle=col;c.beginPath();c.arc(x,y,r,0,7);c.fill()})}
+ function text(s,x,y,n=48,col='#eee',align='left',font='"SimSun",serif'){c.fillStyle=col;c.font=(n>=64?'700 ':'400 ')+n+'px '+font;c.textAlign=align;c.textBaseline='middle';c.fillText(s,x,y)}
+ function img(key,x,y,w,h,{a=1,crop=[0,0,1,1],cover=false,rot=0}={}){const im=A.assets[key];if(!im?.width)return false;F(a,()=>{c.translate(x+w/2,y+h/2);c.rotate(rot);c.beginPath();c.rect(-w/2,-h/2,w,h);c.clip();let[sx,sy,sw,sh]=[crop[0]*im.width,crop[1]*im.height,crop[2]*im.width,crop[3]*im.height],k=(cover?Math.max:Math.min)(w/sw,h/sh);c.drawImage(im,sx,sy,sw,sh,-sw*k/2,-sh*k/2,sw*k,sh*k)});return true}
+ function plate(key,x,y,w,h,o={}){F(o.a??1,()=>img(key,x,y,w,h,{...o,a:1,rot:0}));}
+ function vid(key,x,y,w,h,t,o={}){if(!A.hasVideo(key))return false;return A.video(key,x,y,w,h,Math.max(0,t),o)}
+ function screen(key,x,y,w,h,t,{a=1,fallback='e04',cover=false,crop,stand=false}={}){F(a,()=>{box(x-11,y-11,w+22,h+22,'#10161b','#85939b',1.4);if(!vid(key,x,y,w,h,t,{cover,crop}))img(fallback,x,y,w,h,{cover,crop});if(stand){ln(x+w*.5,y+h+12,x+w*.5,y+h+78,.6,5);ln(x+w*.31,y+h+80,x+w*.69,y+h+80,.6,2)}})}
+ function live(x,y,w,t,opts={},a=1){if(a>.001)A.live(x,y,w,t,a,opts)}
+ function camera(x,y,z,f){S(()=>{c.translate(960,456);c.scale(z,z);c.translate(-x,-y);f()})}
+ function desk(x,y,w,a=1){ln(x,y,x+w,y,.7*a,2.8);ln(x+30,y,x+15,y+160,.4*a,1.6);ln(x+w-30,y,x+w-15,y+160,.4*a,1.6)}
+ function cable(x,y,X,Y,p,a=.6,col='#ddd'){path([[x,y],[mix(x,X,.5),y],[mix(x,X,.5),Y],[X,Y]],p,a,1.5,col)}
+ function mask(x,y,w,h,p,f,axis='y'){if(p<.001)return;S(()=>{c.beginPath();c.rect(x,y,axis==='x'?w*p:w,axis==='y'?h*p:h);c.clip();f()})}
+ function clock(x,y,r,p){c.strokeStyle='#929da3';c.lineWidth=1.8;c.beginPath();c.arc(x,y,r,0,7);c.stroke();for(let i=0;i<12;i++){let a=i/6*Math.PI;ln(x+Math.cos(a)*r*.86,y+Math.sin(a)*r*.86,x+Math.cos(a)*r*.96,y+Math.sin(a)*r*.96,.6,1.3)}let a=mix(-Math.PI*.5,Math.PI*.6,p);ln(x,y,x+Math.cos(a)*r*.72,y+Math.sin(a)*r*.72,.85,2.5);ln(x,y,x-r*.27,y-r*.3,.85,3)}
+ function lineWord(s,x,y,n,t,a,b,col='#eee',align='left'){F(O(t,a,b),()=>{c.translate(0,28*(1-O(t,a,b)));text(s,x,y,n,col,align)})}
+ function footerLine(t,a,b,y=888){ln(100,y,mix(100,1820,E(t,a,b)),y,.48,1.3)}
+
+ function opening(t){plate('project-native',980,145,800,690,{crop:[0,.30,1,.70]});live(120,185,590,t,{framing:'full',mood:'smile',lookX:.4});F(1-E(t,7.7,8.7),()=>lineWord('大肥鱼的特殊性',120,88,67,t,.25,1));F(O(t,9.4,10.2),()=>text('为什么是她？',1350,885,68,'#f1f1ed','center'));}
+ function distance(t){plate('p2_code',100,65,1720,810);}
+ function companion(t){const q=E(t,70.2,71.1);live(100,170,560,t,{framing:'full',mood:'smile',lookX:.45});plate('pet_states',800,130,1000,640,{a:1-q});plate('coopanion_conversation',800,75,1000,775,{a:q});}
+ function wish(t){let p=E(t,86.18,93),q=E(t,96.98,106);camera(mix(960,1040,q),455,mix(1,.78,q),()=>{screen('p1_ears_setup',310,120,1330,660,4+(t-86.18),{fallback:'project-desktop',stand:true});live(mix(90,-80,p),80,780,t,{framing:'full',mood:'neutral',lookX:.55},p);plate('plugins-doc',mix(1780,1420,q),mix(900,240,q),660,450,{a:q,rot:.012});plate('p2_code',660,750,690,450,{a:q,rot:-.012});desk(190,900,1710)});F(O(t,104.18,105.5)*(1-E(t,109.8,111.8)),()=>{box(470,700,1050,155,'#050607db');text('只想养一条属于自己的鱼',995,775,61,'#eee','center')})}
+ function practice(t){const points=[[111.8,0],[117.6,0],[118.3,850],[122.2,850],[123,1700],[130.4,1700],[131.5,2550],[138.1,2550],[142,3400],[148,3400]];let yy=0;for(let i=1;i<points.length;i++)if(t<=points[i][0]){yy=mix(points[i-1][1],points[i][1],E(t,points[i-1][0],points[i][0]));break}camera(990,yy+440,.96,()=>{screen('p1_ears_setup',370,60,1280,640,Math.min(13.7,t-111.8),{fallback:'project-desktop'});plate('plugins-doc',300,930,1380,650);screen('p2_plugin_config',330,1780,1320,660,t-122.42,{fallback:'p2_code'});plate('evidence-takedown',350,2610,1250,800);screen('p2_plugin_run',350,3460,1260,670,t-140.7,{fallback:'p2_data'});path([[205,-200],[205,4300]],1,.45,1.5);[0,850,1700,2550,3400].forEach(y=>ln(205,y+100,275,y+100,.7,2));live(35,3525,650,t,{framing:'full',mood:'smile',lookX:.6},O(t,141.2,142.5))})}
+ function motivation(t){let white=E(t,148,149.5);F(white,()=>{box(0,0,W,H,'#f0efe9');screen('stock_student',120,125,1000,563,t-152.3,{fallback:'classroom'});plate('p2_result',mix(1730,1020,E(t,158.1,163.3)),mix(800,260,E(t,158.1,163.3)),800,520,{a:E(t,158.1,163.3),paper:true});live(330,85,760,t,{framing:'waist',mood:'smile',lookX:.55},O(t,163,165));ln(80,850,1840,850,.45,1.4,'#33414b')});F(O(t,172.18,173.5),()=>{box(1000,100,810,145,'#f0efe9');text('为了自己的愿望',1405,171,64,'#20333f','center')})}
+ function creation(t){let p=E(t,179.1,181),q=E(t,187,195.6),pull=E(t,195.6,204.5);camera(mix(960,1130,pull),450,mix(1,.65,pull),()=>{screen('p2_plugin_config',215,80,1430,760,Math.min(15.95,6+t-179.1),{a:p,fallback:'p2_code',stand:true});live(1270,230,700,t,{framing:'full',mood:'smile',lookX:-.5},q);plate('p2_result',1780,180,830,580,{a:pull});plate('project-desktop',-780,220,790,520,{a:pull});cable(1660,520,1775,520,E(t,197,202));desk(80,910,2650)});footerLine(t,201,205.7)}
+ window.FullScenes.p2c1={duration:205.7,draw(ctx,t,api){c=ctx;A=api;S(()=>{c.beginPath();c.rect(0,0,W,H);c.clip();bg();if(t<17)opening(t);else if(t<60)distance(t);else if(t<86.18)companion(t);else if(t<111.8)wish(t);else if(t<148)practice(t);else if(t<179.1)motivation(t);else creation(t)})}};
+})();
